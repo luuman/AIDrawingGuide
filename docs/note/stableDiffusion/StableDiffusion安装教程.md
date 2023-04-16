@@ -7,8 +7,10 @@ CPU：无硬性要求，不是古董机一般都行
 显卡（重点）：
 - A卡：恭喜你，A卡无法实现运算加速，但是可以用CPU运算来替代，虽然速度比显卡慢几到几十倍，但是能正常出图
 - N卡：显卡内存（显存）4G以上，最好是20系以后的N卡（显卡最前面的数字表明第几代，如2060，2080ti等，通常被称为20系，3060等通常被称为30系，以此类推）
-- 如何查看显存大小：右键点击电脑最下方的任务栏，选择任务管理器，选择第二个性能选项卡，在最下方一般是显卡（GPU）的详细信息，单击后可以右侧看到显卡内存。![[Pasted image 20230416151901.png]]
-----
+- 如何查看显存大小：右键点击电脑最下方的任务栏，选择任务管理器，选择第二个性能选项卡，在最下方一般是显卡（GPU）的详细信息，单击后可以右侧看到显卡内存。
+
+![[20230416151901.png]]
+
 
 ## 2. Mac🍎
 系统：最近几个版本都可以
@@ -28,17 +30,17 @@ Windows用户可以直接下载一键傻瓜版安装包
 - 百度盘：https://pan.baidu.com/s/1TK7UyX5lgNjdwdfcmYCI5Q  
 - 夸克盘：https://pan.quark.cn/s/6e430227ce3d
 - 提取码：c132
-![[Pasted image 20230416202749.png]]
+![[20230416202749.png]]
 
 ### 2. 安装依赖
 运行“启动器运行依赖***”这个文件即可
 
 ### 3. 解压并运行Stable diffusion
 先解压sd-webui-aki-v4，接着找到“A启动器.exe”文件运行即可。
-![[Pasted image 20230416203723.png]]
+![[20230416203723.png]]
 看到以上的界面，就是封装好的傻瓜版Stable diffusion启动器，点击一键启动，软件会自动运行，并打开浏览器进入画图页面。
 
-![[Pasted image 20230416205045.png]]
+![[20230416205045.png]]
 
 ---
 
@@ -76,9 +78,11 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 有了Stable diffusion软件本体之后，就可以自由去各种开源社区（比如[C站](https://civitai.com/)，Hugging Face等）选择任意你喜欢的风格的模型下载，并放到Stable diffusion软件目录当中就可以了。
 这里以stable diffusion 2.0训练模型为例，到Hugging face里下载最基础的一个模型作为演示，跳转到该[模型网站](https://huggingface.co/stabilityai/stable-diffusion-2)。
 
-![[Pasted image 20230416200024.png]]
+![](Pasted image 20230416200024.png)
+
+![[20230416200024.png]]
 选择“Files and Versions”选项卡，并点击我们需要下载的测试基础模型，然后找到左上角的download点击并下载
-![[Pasted image 20230416195651.png]]
+![[20230416195651.png]]
 下载好后，把下载好的ckpt文件放在“你的用户名”> Stable-diffusion-webui>Models>Stable-diffusion文件夹里，如:
 `/Users/richardlee/Stable-diffusion-webui>Models>Stable-diffusion/`
 
@@ -100,7 +104,7 @@ cd stable-diffusion-webui
 
 ### 7. 打开网页开始绘图✍️
 打开浏览器，输入[http://127.0.0.1:7860]即可进入stable-diffusion页面，整体的页面如图所示。
-![[Pasted image 20230416201029.png]]
+![[20230416201029.png]]
 
 ## 三、 常见问题
 ### 1.  为什么要本地用AI绘图

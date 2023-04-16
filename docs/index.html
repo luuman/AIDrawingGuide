@@ -237,6 +237,14 @@
             }
           });
         },
+        // image change
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            return html.replace(/!\[\[(.*?)\]\]/g,function ($0, $1){
+              return `![image](${$1})`
+            });
+          });
+        },
         // github editHtml
         function(hook, vm) {
           hook.beforeEach(function(html) {
