@@ -2,4 +2,4 @@
 - [StableDiffusion](/note/stableDiffusion/)
   - [Stable Diffusion 安装教程](/note/stableDiffusion/StableDiffusion安装教程)
 - [AIGC](/note/AIGC/)
-  - [AIGC落地项目应用解析](/note/AIGC/baseTools)
+  - [AIGC落地项目应用解析](/note/AIGC/baseToolsB/AIGC落地项目应用解析)

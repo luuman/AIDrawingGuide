@@ -11,9 +11,27 @@
             "id": "33956e2f867ca7cb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIGC/baseTools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "408960784950ab0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121e210b66af7dbc",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "stableDiffusion/20230416205045.png"
+                "file": "AIGC/baseToolsB/640-16.png"
               }
             }
           }
@@ -83,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stableDiffusion/20230416205045.png",
+                "file": "AIGC/baseToolsB/640-16.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stableDiffusion/20230416205045.png",
+                "file": "AIGC/baseToolsB/640-16.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stableDiffusion/20230416205045.png"
+                "file": "AIGC/baseToolsB/640-16.png"
               }
             }
           }
@@ -136,25 +154,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "f6c46199fcacb8db",
+  "active": "121e210b66af7dbc",
   "lastOpenFiles": [
-    "stableDiffusion/20230416203723.png",
-    "stableDiffusion/20230416202749.png",
-    "stableDiffusion/20230416200024.png",
-    "stableDiffusion/20230416195651.png",
-    "stableDiffusion/20230416151901.png",
+    "AIGC/baseToolsB/640-14.png",
+    "AIGC/baseToolsB/640-15.png",
+    "AIGC/baseToolsB/AIGC落地项目应用解析.md",
+    "AIGC/baseToolsB/75799AD6-F491-45DE-A09F-EBE36460E085.png",
+    "AIGC/baseToolsB/35A4148C-9F99-4CA0-8616-16B6343DC6BA.png",
+    "AIGC/baseToolsB/74F8A8BB-53BE-4360-9663-CC65F0A2B813.png",
+    "AIGC/baseToolsB/5C5BC6E5-D58F-4A2F-B85C-25482464FACD.png",
+    "AIGC/baseToolsB/6789192C-185B-4F99-B9F5-2FC1B78709E9.png",
+    "AIGC/baseToolsB/90459108-00D9-4468-87B2-731DEBA0186B.png",
+    "AIGC/baseToolsB/A1A645DE-7C48-4209-9AAF-ACEA62FB29F8.png",
+    "AIGC/baseToolsB/CDDFDCD5-7C2B-4586-A392-26FDC530C7FB.png",
+    "AIGC/baseToolsB/E30DE6A7-7099-40E0-8C6B-8784C22D454B.png",
+    "AIGC/baseTools.md",
+    "AIGC/baseToolsB",
+    "midjourney/README.md",
     "stableDiffusion/StableDiffusion安装教程.md",
     "stableDiffusion/README.md",
-    "stableDiffusion/Stable Diffusion 安装教程.md",
-    "stableDiffusion/20230416205045.png",
-    "stableDiffusion/20230416201029.png"
+    "stableDiffusion/Stable Diffusion 安装教程.md"
   ]
 }
