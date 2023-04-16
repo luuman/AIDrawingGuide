@@ -44,7 +44,7 @@
 
   <!-- sidebar -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
 
   <style type="text/css">
     #docsify-darklight-theme{
@@ -254,19 +254,19 @@
           });
         },
         // icon ☑ ☒ 已读未读
-        function(hook, vm) {
-          hook.beforeEach(function(html) {
-            // console.log('html', html)
-            let nums = 0;
-            var htmlMD = html.replace( /[#?]+/g,function ($0){
-              var str = nums < 1 ? '[☑]()' : '☒';
-              nums++;
-              return `${$0} ${str}`;
-            });
-            // console.log('html1', htmlMD)
-            return htmlMD
-          });
-        },
+        // function(hook, vm) {
+        //   hook.beforeEach(function(html) {
+        //     // console.log('html', html)
+        //     let nums = 0;
+        //     var htmlMD = html.replace( /[#?]+/g,function ($0){
+        //       var str = nums < 1 ? '[☑]()' : '☒';
+        //       nums++;
+        //       return `${$0} ${str}`;
+        //     });
+        //     // console.log('html1', htmlMD)
+        //     return htmlMD
+        //   });
+        // },
         // gitalk
         function(hook, vm) {
           hook.beforeEach(function(html) {

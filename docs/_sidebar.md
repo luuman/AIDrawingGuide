@@ -1,2 +1,4 @@
-- [midjourney](/note/midjourney/)
-- [stableDiffusion](/note/stableDiffusion/)
+- [Midjourney](/note/midjourney/)
+- [StableDiffusion](/note/stableDiffusion/)
+- [AIGC](/note/AIGC/)
+  - [AIGC落地项目应用解析](/note/AIGC/baseTools)
