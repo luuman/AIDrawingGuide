@@ -1,0 +1,2 @@
+- [midjourney](/note/midjourney/)
+- [stableDiffusion](/note/stableDiffusion/)

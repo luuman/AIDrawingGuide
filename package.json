@@ -1,0 +1,26 @@
+{
+  "name": "AIDrawingGuide",
+  "version": "1.0.0",
+  "description": "AI绘画指南",
+  "scripts": {
+    "start": "npm run open && npm run dev",
+    "dev": "docsify serve docs -p 6010",
+    "open": "node --max_old_space_size=32800 config/open.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luuman/AIDrawingGuide.git"
+  },
+  "author": "luuman <luumans@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luuman/AIDrawingGuide/issues"
+  },
+  "homepage": "https://blog.luuman.club/AIDrawingGuide/#/",
+  "dependencies": {
+    "docsify": "^4.13.0",
+    "docsify-cli": "^4.4.4",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {}
+}
