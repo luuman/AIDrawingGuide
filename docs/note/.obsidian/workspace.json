@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e3025ca1e3f6f405",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33956e2f867ca7cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIGC/baseTools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "408960784950ab0d",
         "type": "tabs",
         "children": [
           {
-            "id": "121e210b66af7dbc",
+            "id": "7ff19c217fd5bd47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AIGC/baseToolsB/640-16.png"
+                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC/baseToolsB/640-16.png",
+                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC/baseToolsB/640-16.png",
+                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC/baseToolsB/640-16.png"
+                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,20 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "121e210b66af7dbc",
+  "active": "7ff19c217fd5bd47",
   "lastOpenFiles": [
-    "AIGC/baseToolsB/640-14.png",
-    "AIGC/baseToolsB/640-15.png",
+    "AIGC/Research/640-15.png",
+    "AIGC/Research/640-2.jpg",
+    "AIGC/Research/640-14.png",
+    "AIGC/Research/640-13.png",
+    "AIGC/Research/8A931C4B-7AEB-47C1-AC8B-EC7E61C021BE.png",
+    "AIGC/Research/640-12.png",
+    "AIGC/Research/640-11.png",
+    "AIGC/Research/640-10.png",
+    "AIGC/Research/640-9.png",
+    "AIGC/Research/640-8.png",
+    "AIGC/Research/640-1.jpg",
+    "AIGC/Research/探索AIGC在网易严选中的应用.md",
+    "AIGC/Research",
     "AIGC/baseToolsB/AIGC落地项目应用解析.md",
-    "AIGC/baseToolsB/75799AD6-F491-45DE-A09F-EBE36460E085.png",
-    "AIGC/baseToolsB/35A4148C-9F99-4CA0-8616-16B6343DC6BA.png",
-    "AIGC/baseToolsB/74F8A8BB-53BE-4360-9663-CC65F0A2B813.png",
-    "AIGC/baseToolsB/5C5BC6E5-D58F-4A2F-B85C-25482464FACD.png",
-    "AIGC/baseToolsB/6789192C-185B-4F99-B9F5-2FC1B78709E9.png",
-    "AIGC/baseToolsB/90459108-00D9-4468-87B2-731DEBA0186B.png",
-    "AIGC/baseToolsB/A1A645DE-7C48-4209-9AAF-ACEA62FB29F8.png",
-    "AIGC/baseToolsB/CDDFDCD5-7C2B-4586-A392-26FDC530C7FB.png",
-    "AIGC/baseToolsB/E30DE6A7-7099-40E0-8C6B-8784C22D454B.png",
     "AIGC/baseTools.md",
     "AIGC/baseToolsB",
     "midjourney/README.md",
