@@ -20,20 +20,21 @@ dfsdf
 
 # stable diffusion
 
-<p class="home-card" id="homeCard">
+
+<!-- <p class="home-card" id="homeCard">
   <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="https://prompthero.com/favicon/safari-pinned-tab.svg" alt="SVG Image">
+    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
     <span>Ansible</span>
   </a>
   <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="https://prompthero.com/favicon/safari-pinned-tab.svg" alt="SVG Image">
+    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
     <span>Ansible</span>
   </a>
   <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="https://prompthero.com/favicon/safari-pinned-tab.svg" alt="SVG Image">
+    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
     <span>Ansible</span>
   </a>
-</p>
+</p> -->
 
 <script>
       console.log('arr')

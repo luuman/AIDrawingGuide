@@ -1,4 +1,4 @@
-![icon](svg/html5.svg)
+![icon](./svg/html5.svg)
 
 # AIDrawingGuide
 
