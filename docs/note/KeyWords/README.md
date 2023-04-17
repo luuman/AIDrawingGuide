@@ -1,6 +1,10 @@
 # 关键词
 
 ## 风格
+<details>
+<summary>风格</summary>
+风格
+</details>
 
 | Style                    | Description     | Style                     | Description      | Style                        | Description |
 | ------------------------ | --------------- | ------------------------- | ---------------- | ---------------------------- | ----------- |
@@ -36,6 +40,7 @@
 | Typography               | 字体设计        | Urban                     | 城市风格         | Vector                       | 矢量图      |
 | Video Game Art           | 游戏美术        | Vintage                   | 复古风           | Watercolor                   | 水彩画      |
 | Woodcut                  | 木刻            | Zen                       | 禅意风           |
+
 
 ## 精度
 

@@ -1,4 +1,4 @@
-- [KeyWords](/note/KeyWords/)
+- [关键词](/note/KeyWords/)
 - [Midjourney](/note/midjourney/)
 - [StableDiffusion](/note/stableDiffusion/)
   - [Stable Diffusion 安装教程](/note/stableDiffusion/StableDiffusion安装教程)
