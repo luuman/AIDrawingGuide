@@ -5,13 +5,19 @@
 ### 1. Windows
 
 系统：Windows 10 及以上
+
 CPU：无硬性要求，不是古董机一般都行
+
 运行内存（内存条）：8G 以上
+
 硬盘空间：至少准备 20G 空间
+
 显卡（重点）：
 
-- A 卡：恭喜你，A 卡无法实现运算加速，但是可以用 CPU 运算来替代，虽然速度比显卡慢几到几十倍，但是能正常出图
-- N 卡：显卡内存（显存）4G 以上，最好是 20 系以后的 N 卡（显卡最前面的数字表明第几代，如 2060，2080ti 等，通常被称为 20 系，3060 等通常被称为 30 系，以此类推）
+- A 卡：A 卡无法实现运算加速，但是可以用 CPU 运算来替代，虽然速度比显卡慢几到几十倍，但是能正常出图
+
+- N 卡：恭喜你，N卡完美支持作图加速，显卡内存（显存）要求最少**4G**以上，最好是 20 系以后的 N 卡（显卡最前面的数字表明第几代，如 2060，2080ti 等，通常被称为 20 系，3060 等通常被称为 30 系，以此类推）
+
 - 如何查看显存大小：右键点击电脑最下方的任务栏，选择任务管理器，选择第二个性能选项卡，在最下方一般是显卡（GPU）的详细信息，单击后可以右侧看到显卡内存。
 
 ![[20230416151901.png]]
@@ -19,9 +25,13 @@ CPU：无硬性要求，不是古董机一般都行
 ### 2. Mac🍎
 
 系统：最近几个版本都可以
+
 CPU：Intel 芯片的需要有独显，M 芯片的均可
+
 运行内存：8G 以上
+
 硬盘空间：至少准备 10G 空间
+
 显卡：
 
 - M 芯片：M 芯片集成图形处理模块，可以直接用，但是速度肯定比不上独立显卡。
@@ -37,18 +47,23 @@ Windows 用户可以直接下载一键傻瓜版安装包
 下载地址（最新版 Stable diffusion v4）：
 
 - 百度盘：https://pan.baidu.com/s/1TK7UyX5lgNjdwdfcmYCI5Q
+
 - 夸克盘：https://pan.quark.cn/s/6e430227ce3d
+
 - 提取码：c132
+
   ![[20230416202749.png]]
 
 #### 2. 安装依赖
 
-运行“启动器运行依赖\*\*\*”这个文件即可
+运行“**启动器运行依赖**”这个文件，等待自动安装完成即可
 
 #### 3. 解压并运行 Stable diffusion
 
-先解压 sd-webui-aki-v4，接着找到“A 启动器.exe”文件运行即可。
+先解压 sd-webui-aki-v4，接着找到“**A 启动器.exe**”文件运行即可。
+
 ![[20230416203723.png]]
+
 看到以上的界面，就是封装好的傻瓜版 Stable diffusion 启动器，点击一键启动，软件会自动运行，并打开浏览器进入画图页面。
 
 ![[20230416205045.png]]
@@ -101,11 +116,13 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 有了 Stable diffusion 软件本体之后，就可以自由去各种开源社区（比如[C 站](https://civitai.com/)，Hugging Face 等）选择任意你喜欢的风格的模型下载，并放到 Stable diffusion 软件目录当中就可以了。
 这里以 stable diffusion 2.0 训练模型为例，到 Hugging face 里下载最基础的一个模型作为演示，跳转到该[模型网站](https://huggingface.co/stabilityai/stable-diffusion-2)。
 
-![](Pasted image 20230416200024.png)
 
 ![[20230416200024.png]]
+
 选择“Files and Versions”选项卡，并点击我们需要下载的测试基础模型，然后找到左上角的 download 点击并下载
+
 ![[20230416195651.png]]
+
 下载好后，把下载好的 ckpt 文件放在“你的用户名”> Stable-diffusion-webui>Models>Stable-diffusion 文件夹里，如:
 `/Users/richardlee/Stable-diffusion-webui>Models>Stable-diffusion/`
 
@@ -131,7 +148,8 @@ cd stable-diffusion-webui
 
 #### 7. 打开网页开始绘图 ✍️
 
-打开浏览器，输入[http://127.0.0.1:7860]即可进入 stable-diffusion 页面，整体的页面如图所示。
+打开浏览器，输入**http://127.0.0.1:7860**即可进入 stable-diffusion 页面，整体的页面如图所示。
+
 ![[20230416201029.png]]
 
 ## 常见问题
