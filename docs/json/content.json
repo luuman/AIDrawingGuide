@@ -1,0 +1,1156 @@
+{
+  "Style": [
+    {
+      "title": "3D",
+      "content": "3D 风格",
+      "image": "https://cdn.discordapp.com/attachments/1093787021706792972/1097554931747147796/mobee_3D_1df3b1f1-81ce-4403-bf85-0a03303d392b.png"
+    },
+    {
+      "title": "Abstract",
+      "content": "抽象风",
+      "image": "https://cdn.discordapp.com/attachments/1093787021706792972/1097554931747147796/mobee_3D_1df3b1f1-81ce-4403-bf85-0a03303d392b.png"
+    },
+    {
+      "title": "Anime",
+      "content": "日本动画片",
+      "image": "https://cdn.discordapp.com/attachments/1093787021706792972/1097554931747147796/mobee_3D_1df3b1f1-81ce-4403-bf85-0a03303d392b.png"
+    },
+    {
+      "title": "Abstract Art",
+      "content": "抽象表现主义",
+      "image": ""
+    },
+    {
+      "title": "APEX",
+      "content": "Apex 英雄",
+      "image": ""
+    },
+    {
+      "title": "Architectural Sketching",
+      "content": "建筑素描",
+      "image": ""
+    },
+    {
+      "title": "Art Nouveau",
+      "content": "新艺术风格",
+      "image": ""
+    },
+    {
+      "title": "Bauhaus",
+      "content": "包豪斯",
+      "image": ""
+    },
+    {
+      "title": "Black and white",
+      "content": "黑白",
+      "image": ""
+    },
+    {
+      "title": "BOTW (Breath of the Wild)",
+      "content": "旷野之息",
+      "image": ""
+    },
+    {
+      "title": "Brutalist",
+      "content": "粗犷主义",
+      "image": ""
+    },
+    {
+      "title": "CGSociety",
+      "content": "梦工厂动西风格",
+      "image": ""
+    },
+    {
+      "title": "Character Concept Art",
+      "content": "角色概念艺术",
+      "image": ""
+    },
+    {
+      "title": "Cinematic",
+      "content": "电影般的",
+      "image": ""
+    },
+    {
+      "title": "Claude Monet",
+      "content": "克劳德莫奈",
+      "image": ""
+    },
+    {
+      "title": "Color Ink on Paper",
+      "content": "彩墨纸本",
+      "image": ""
+    },
+    {
+      "title": "Concept Art",
+      "content": "概念艺术",
+      "image": ""
+    },
+    {
+      "title": "Constructivist",
+      "content": "建构主义",
+      "image": ""
+    },
+    {
+      "title": "Cookie Run Kingdom and",
+      "content": "쿠키런跑跑姜饼人",
+      "image": ""
+    },
+    {
+      "title": "Country Style",
+      "content": "乡村风格",
+      "image": ""
+    },
+    {
+      "title": "Cubism",
+      "content": "立体派",
+      "image": ""
+    },
+    {
+      "title": "Detroit: Become Human",
+      "content": "底特律:变人",
+      "image": ""
+    },
+    {
+      "title": "Doodle",
+      "content": "涂鸦",
+      "image": ""
+    },
+    {
+      "title": "DreamWorks Pictures",
+      "content": "梦工厂影业",
+      "image": ""
+    },
+    {
+      "title": "Ethnic Art",
+      "content": "民族艺术",
+      "image": ""
+    },
+    {
+      "title": "Fauvism",
+      "content": "野兽派",
+      "image": ""
+    },
+    {
+      "title": "Film Photography",
+      "content": "电影摄影风格",
+      "image": ""
+    },
+    {
+      "title": "French Art",
+      "content": "法国艺术",
+      "image": ""
+    },
+    {
+      "title": "FromSoftware",
+      "content": "魂系游戏",
+      "image": ""
+    },
+    {
+      "title": "Full details",
+      "content": "充满细节",
+      "image": ""
+    },
+    {
+      "title": "Futuristic",
+      "content": "未来主义",
+      "image": ""
+    },
+    {
+      "title": "Game Scene Graph",
+      "content": "游戏场景图",
+      "image": ""
+    },
+    {
+      "title": "Gothic",
+      "content": "哥特式黑暗",
+      "image": ""
+    },
+    {
+      "title": "Graphic",
+      "content": "设计风",
+      "image": ""
+    },
+    {
+      "title": "Hyperrealism",
+      "content": "超写实主义",
+      "image": ""
+    },
+    {
+      "title": "Impressionism",
+      "content": "印象派",
+      "image": ""
+    },
+    {
+      "title": "Ink illustration",
+      "content": "水墨插图",
+      "image": ""
+    },
+    {
+      "title": "Ink Render",
+      "content": "墨水渲染",
+      "image": ""
+    },
+    {
+      "title": "Interior Design",
+      "content": "室内设计",
+      "image": ""
+    },
+    {
+      "title": "Japanese Comics/Manga",
+      "content": "日本漫画风格",
+      "image": ""
+    },
+    {
+      "title": "Japanese Ukiyo-e",
+      "content": "浮世绘",
+      "image": ""
+    },
+    {
+      "title": "jojo's bizarre adventure",
+      "content": "Jolo 的奇妙冒险",
+      "image": ""
+    },
+    {
+      "title": "Leonardo Da Vinci",
+      "content": "达芬奇",
+      "image": ""
+    },
+    {
+      "title": "League of Legends",
+      "content": "英雄联盟",
+      "image": ""
+    },
+    {
+      "title": "Makoto Shinkai",
+      "content": "新海诚",
+      "image": ""
+    },
+    {
+      "title": "Manga",
+      "content": "日本漫画",
+      "image": ""
+    },
+    {
+      "title": "Minimalism",
+      "content": "极简主义",
+      "image": ""
+    },
+    {
+      "title": "Modern",
+      "content": "现代主义",
+      "image": ""
+    },
+    {
+      "title": "Modernism",
+      "content": "现代主义",
+      "image": ""
+    },
+    {
+      "title": "Monochromatic",
+      "content": "单色",
+      "image": ""
+    },
+    {
+      "title": "Motion Graphics",
+      "content": "动态图形",
+      "image": ""
+    },
+    {
+      "title": "Mural",
+      "content": "壁画",
+      "image": ""
+    },
+    {
+      "title": "Music",
+      "content": "音乐",
+      "image": ""
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "content": "龙猫",
+      "image": ""
+    },
+    {
+      "title": "National Geographic",
+      "content": "国家地理",
+      "image": ""
+    },
+    {
+      "title": "Neo-Impressionism",
+      "content": "新印象派",
+      "image": ""
+    },
+    {
+      "title": "Oil Paint",
+      "content": "油画",
+      "image": ""
+    },
+    {
+      "title": "Old School",
+      "content": "老派",
+      "image": ""
+    },
+    {
+      "title": "Oriental",
+      "content": "东方风格",
+      "image": ""
+    },
+    {
+      "title": "Ornament",
+      "content": "装饰风格",
+      "image": "https://cdn.discordapp.com/attachments/1093787021706792972/1097554931747147796/mobee_3D_1df3b1f1-81ce-4403-bf85-0a03303d392b.png"
+    },
+    {
+      "title": "Painting",
+      "content": "绘画",
+      "image": ""
+    },
+    {
+      "title": "Papercut",
+      "content": "剪纸",
+      "image": ""
+    },
+    {
+      "title": "Pastel",
+      "content": "柔和的色彩",
+      "image": ""
+    },
+    {
+      "title": "Pen and Ink",
+      "content": "线描",
+      "image": ""
+    },
+    {
+      "title": "Photorealistic",
+      "content": "真实感",
+      "image": ""
+    },
+    {
+      "title": "Pixel Art",
+      "content": "像素画",
+      "image": ""
+    },
+    {
+      "title": "Pointillism",
+      "content": "点彩派",
+      "image": ""
+    },
+    {
+      "title": "Pop Art",
+      "content": "流行艺术",
+      "image": ""
+    },
+    {
+      "title": "Realism",
+      "content": "现实主义",
+      "image": ""
+    },
+    {
+      "title": "Retro",
+      "content": "复古",
+      "image": ""
+    },
+    {
+      "title": "Rococo",
+      "content": "洛可可",
+      "image": ""
+    },
+    {
+      "title": "Romanticism",
+      "content": "浪漫主义",
+      "image": ""
+    },
+    {
+      "title": "Sci-fi",
+      "content": "科幻风格",
+      "image": ""
+    },
+    {
+      "title": "Sculpture",
+      "content": "雕塑",
+      "image": ""
+    },
+    {
+      "title": "Shabby Chic",
+      "content": "简陋风格",
+      "image": ""
+    },
+    {
+      "title": "Sketch",
+      "content": "素描",
+      "image": ""
+    },
+    {
+      "title": "Sketchbook",
+      "content": "素描手册",
+      "image": ""
+    },
+    {
+      "title": "Steampunk",
+      "content": "蒸汽朋克",
+      "image": ""
+    },
+    {
+      "title": "Still Life",
+      "content": "静物",
+      "image": ""
+    },
+    {
+      "title": "Street Art",
+      "content": "街头艺术",
+      "image": ""
+    },
+    {
+      "title": "Sophisticated",
+      "content": "复杂的",
+      "image": ""
+    },
+    {
+      "title": "Surrealism",
+      "content": "超现实主义",
+      "image": ""
+    },
+    {
+      "title": "Tattoo",
+      "content": "纹身",
+      "image": ""
+    },
+    {
+      "title": "Technical Drawing",
+      "content": "技术绘图",
+      "image": ""
+    },
+    {
+      "title": "Texture",
+      "content": "纹理",
+      "image": ""
+    },
+    {
+      "title": "Traditional Chinese Painting",
+      "content": "中国传统画",
+      "image": ""
+    },
+    {
+      "title": "Typography",
+      "content": "字体设计",
+      "image": ""
+    },
+    {
+      "title": "Urban",
+      "content": "城市风格",
+      "image": ""
+    },
+    {
+      "title": "Vector",
+      "content": "矢量图",
+      "image": ""
+    },
+    {
+      "title": "Video Game Art",
+      "content": "游戏美术",
+      "image": ""
+    },
+    {
+      "title": "Vintage",
+      "content": "复古风",
+      "image": ""
+    },
+    {
+      "title": "Watercolor",
+      "content": "水彩画",
+      "image": ""
+    },
+    {
+      "title": "Woodcut",
+      "content": "木刻",
+      "image": ""
+    },
+    {
+      "title": "Zen",
+      "content": "禅意风",
+      "image": ""
+    }
+  ],
+  "Accuracy": [
+    {
+      "title": "3D",
+      "content": "3D 风格",
+      "image": ""
+    },
+    {
+      "title": "high detai",
+      "content": "高细节",
+      "image": ""
+    },
+    {
+      "title": "High Resolution",
+      "content": "高分辨率",
+      "image": ""
+    },
+    {
+      "title": "Hyper Quality",
+      "content": "高品质",
+      "image": ""
+    },
+    {
+      "title": "FHD",
+      "content": "全高清",
+      "image": ""
+    },
+    {
+      "title": "1080P",
+      "content": "1080P",
+      "image": ""
+    },
+    {
+      "title": "2K",
+      "content": "2K",
+      "image": ""
+    },
+    {
+      "title": "4K",
+      "content": "4K",
+      "image": ""
+    },
+    {
+      "title": "8K",
+      "content": "8K",
+      "image": ""
+    },
+    {
+      "title": "8K Smooth",
+      "content": "8K 流畅",
+      "image": ""
+    }
+  ],
+  "AngleOfView": [
+    {
+      "title": "A Cross-section View of (a Walnut)",
+      "content": "核桃的横截面图",
+      "image": ""
+    },
+    {
+      "title": "Aerial View / Bird's-eye view",
+      "content": "鸟瞰图 / 乌瞰图",
+      "image": ""
+    },
+    {
+      "title": "Bokeh",
+      "content": "背景虚化",
+      "image": ""
+    },
+    {
+      "title": "Bottom view",
+      "content": "底视图",
+      "image": ""
+    },
+    {
+      "title": "Background",
+      "content": "背景",
+      "image": ""
+    },
+    {
+      "title": "Canon 5D",
+      "content": "相机型号",
+      "image": ""
+    },
+    {
+      "title": "Fujifilm XT100",
+      "content": "焦段",
+      "image": ""
+    },
+    {
+      "title": "Sony Alpha",
+      "content": "光圈",
+      "image": ""
+    },
+    {
+      "title": "Cinematic Shot",
+      "content": "电影镜头",
+      "image": ""
+    },
+    {
+      "title": "Close-Up (CU)",
+      "content": "特写",
+      "image": ""
+    },
+    {
+      "title": "Close-up View",
+      "content": "特写视图",
+      "image": ""
+    },
+    {
+      "title": "Detail Shot (ECU)",
+      "content": "细节镜头(ECU)",
+      "image": ""
+    },
+    {
+      "title": "Detail Shot (ECU)",
+      "content": "大特写",
+      "image": ""
+    },
+    {
+      "title": "Elevation Perspective",
+      "content": "立面透视",
+      "image": ""
+    },
+    {
+      "title": "Extreme closeup view",
+      "content": "极端特写视图",
+      "image": ""
+    },
+    {
+      "title": "Face Shot (VCU)",
+      "content": "面部拍摄(VCU)",
+      "image": ""
+    },
+    {
+      "title": "First-person view",
+      "content": "第一人称视角",
+      "image": ""
+    },
+    {
+      "title": "Front view",
+      "content": "前视图",
+      "image": ""
+    },
+    {
+      "title": "Foreground",
+      "content": "前景",
+      "image": ""
+    },
+    {
+      "title": "Full Length Shot (FLS)",
+      "content": "全身照(FLS)",
+      "image": ""
+    },
+    {
+      "title": "Group shot (GS)",
+      "content": "群景(GS)",
+      "image": ""
+    },
+    {
+      "title": "Headshot",
+      "content": "爆头",
+      "image": ""
+    },
+    {
+      "title": "High-angle View",
+      "content": "高角度视图",
+      "image": ""
+    },
+    {
+      "title": "In Focus",
+      "content": "焦点对准",
+      "image": ""
+    },
+    {
+      "title": "Isometric View",
+      "content": "等距视图",
+      "image": ""
+    },
+    {
+      "title": "Knee Shot (KS)",
+      "content": "膝景(KS)",
+      "image": ""
+    },
+    {
+      "title": "Landscape shot",
+      "content": "风景照",
+      "image": ""
+    },
+    {
+      "title": "Long Shot (LS)",
+      "content": "远景",
+      "image": ""
+    },
+    {
+      "title": "Loose Shot",
+      "content": "松散景",
+      "image": ""
+    },
+    {
+      "title": "Macro shot / Microscopic View",
+      "content": "微观",
+      "image": ""
+    },
+    {
+      "title": "Medium Close-Up (MCU)",
+      "content": "中特写",
+      "image": ""
+    },
+    {
+      "title": "Medium Long Shot (MLS)",
+      "content": "中远暴",
+      "image": ""
+    },
+    {
+      "title": "Medium Shot(MS)",
+      "content": "中景",
+      "image": ""
+    },
+    {
+      "title": "Over the Shoulder Shot",
+      "content": "过肩景",
+      "image": ""
+    },
+    {
+      "title": "Portrait",
+      "content": "肖像",
+      "image": ""
+    },
+    {
+      "title": "Product view",
+      "content": "产品视图",
+      "image": ""
+    },
+    {
+      "title": "Rear view",
+      "content": "后视图",
+      "image": ""
+    },
+    {
+      "title": "Scenery shot",
+      "content": "风景照",
+      "image": ""
+    },
+    {
+      "title": "Super Side Angle",
+      "content": "超侧角",
+      "image": ""
+    },
+    {
+      "title": "Satellite view",
+      "content": "卫星视图",
+      "image": ""
+    },
+    {
+      "title": "Side view",
+      "content": "侧视图",
+      "image": ""
+    },
+    {
+      "title": "Tilt-shift",
+      "content": "倾斜移位",
+      "image": ""
+    },
+    {
+      "title": "Third-person Perspective",
+      "content": "第三人称视角",
+      "image": ""
+    },
+    {
+      "title": "Three-point Perspective",
+      "content": "三点透视",
+      "image": ""
+    },
+    {
+      "title": "Tight Shot",
+      "content": "近距离景",
+      "image": ""
+    },
+    {
+      "title": "Top view",
+      "content": "顶视图",
+      "image": ""
+    },
+    {
+      "title": "Two shot (2S)",
+      "content": "两景(2S)",
+      "image": ""
+    },
+    {
+      "title": "Three shot (3S)",
+      "content": "三景(3S)",
+      "image": ""
+    },
+    {
+      "title": "Two-point Perspective",
+      "content": "两点透视",
+      "image": ""
+    },
+    {
+      "title": "Ultra Wide Shot",
+      "content": "超广角镜头",
+      "image": ""
+    },
+    {
+      "title": "Wide-angle View",
+      "content": "广角镜头",
+      "image": ""
+    },
+    {
+      "title": "Look up",
+      "content": "仰视",
+      "image": ""
+    },
+    {
+      "title": "Chest Shot (MCU)",
+      "content": "陶部以上",
+      "image": ""
+    },
+    {
+      "title": "Waist Shot (WS)",
+      "content": "腰部以上",
+      "image": ""
+    },
+    {
+      "title": "Knee Shot (KS)",
+      "content": "膝盖以上",
+      "image": ""
+    },
+    {
+      "title": "Full Length Shot (FLS)",
+      "content": "全身",
+      "image": ""
+    },
+    {
+      "title": "Long Shot (LS)",
+      "content": "人占 3/4",
+      "image": ""
+    },
+    {
+      "title": "Extra Long Shot (ELS)",
+      "content": "人在远方",
+      "image": ""
+    },
+    {
+      "title": "Big Close-Up (BCU)",
+      "content": "头部以上",
+      "image": ""
+    },
+    {
+      "title": "Face Shot (VCU)",
+      "content": "脸部特写",
+      "image": ""
+    }
+  ],
+  "Rendering": [
+    {
+      "title": "Unreal Engine",
+      "content": "虚幻引擎",
+      "image": ""
+    },
+    {
+      "title": "Octane Render",
+      "content": "OC 渲染",
+      "image": ""
+    },
+    {
+      "title": "Maxon Cinema 4D",
+      "content": "渲染",
+      "image": ""
+    },
+    {
+      "title": "Architectural Visualization",
+      "content": "建筑渲染",
+      "image": ""
+    },
+    {
+      "title": "Corona Render",
+      "content": "室内渣染",
+      "image": ""
+    },
+    {
+      "title": "Quixel Megascans Render",
+      "content": "真实感",
+      "image": ""
+    },
+    {
+      "title": "V-Ray",
+      "content": "射线",
+      "image": ""
+    }
+  ],
+  "Illumination": [
+    {
+      "title": "Volumetric Lighting",
+      "content": "体积照明",
+      "image": ""
+    },
+    {
+      "title": "Cold Light",
+      "content": "冷光",
+      "image": ""
+    },
+    {
+      "title": "Mood Lighting",
+      "content": "情绪照明",
+      "image": ""
+    },
+    {
+      "title": "Bright",
+      "content": "明亮的",
+      "image": ""
+    },
+    {
+      "title": "Soft Illumination / Soft Lights",
+      "content": "柔和的照明 / 柔光",
+      "image": ""
+    },
+    {
+      "title": "Fluorescent Lighting",
+      "content": "荧光灯",
+      "image": ""
+    },
+    {
+      "title": "Rays of Shimmering Light / Morning Light",
+      "content": "微光 / 晨光",
+      "image": ""
+    },
+    {
+      "title": "Crepuscular Ray",
+      "content": "黄昏射线",
+      "image": ""
+    },
+    {
+      "title": "Outer Space View",
+      "content": "外太空观",
+      "image": ""
+    },
+    {
+      "title": "Cinematic Lighting / Dramatic Lighting",
+      "content": "电影灯光 / 戏剧灯光",
+      "image": ""
+    },
+    {
+      "title": "Bisexual Lighting",
+      "content": "双性照明",
+      "image": ""
+    },
+    {
+      "title": "Rembrandt Lighting",
+      "content": "伦勃朗照明",
+      "image": ""
+    },
+    {
+      "title": "Split Lighting",
+      "content": "分体照明",
+      "image": ""
+    },
+    {
+      "title": "Front Lighting",
+      "content": "前灯",
+      "image": ""
+    },
+    {
+      "title": "Back Lighting",
+      "content": "背光照明",
+      "image": ""
+    },
+    {
+      "title": "Clean Background Trending",
+      "content": "干净的背景趋势",
+      "image": ""
+    },
+    {
+      "title": "Rim Lights",
+      "content": "边缘灯",
+      "image": ""
+    },
+    {
+      "title": "Global Illuminations",
+      "content": "全局照明",
+      "image": ""
+    },
+    {
+      "title": "Neon Cold Lighting",
+      "content": "霓虹灯冷光",
+      "image": ""
+    },
+    {
+      "title": "Hard lighting",
+      "content": "强光",
+      "image": ""
+    }
+  ],
+  "Scene": [
+    {
+      "title": "Dystopia",
+      "content": "反乌托邦",
+      "image": ""
+    },
+    {
+      "title": "anti-utopia",
+      "content": "反乌托邦",
+      "image": ""
+    },
+    {
+      "title": "Fantasy",
+      "content": "幻想",
+      "image": ""
+    },
+    {
+      "title": "Classroom",
+      "content": "教室",
+      "image": ""
+    },
+    {
+      "title": "Whimsically",
+      "content": "异想天开",
+      "image": ""
+    },
+    {
+      "title": "Bedroom",
+      "content": "卧室",
+      "image": ""
+    },
+    {
+      "title": "Forest",
+      "content": "森林",
+      "image": ""
+    },
+    {
+      "title": "Ruins",
+      "content": "废墟",
+      "image": ""
+    },
+    {
+      "title": "City",
+      "content": "城市",
+      "image": ""
+    },
+    {
+      "title": "Deserted City Buildings",
+      "content": "废弃城市建筑群",
+      "image": ""
+    },
+    {
+      "title": "Near Future City",
+      "content": "近未来都市",
+      "image": ""
+    },
+    {
+      "title": "Street Scenery",
+      "content": "街景",
+      "image": ""
+    },
+    {
+      "title": "Alchemy Laboratory",
+      "content": "炼金室",
+      "image": ""
+    },
+    {
+      "title": "Universe and Cosmos",
+      "content": "宇宙",
+      "image": ""
+    },
+    {
+      "title": "Rain",
+      "content": "雨天",
+      "image": ""
+    },
+    {
+      "title": "In the Morning Mist",
+      "content": "在晨雾中",
+      "image": ""
+    },
+    {
+      "title": "Full of Sunlight",
+      "content": "充满阳光光照",
+      "image": ""
+    },
+    {
+      "title": "Galaxy",
+      "content": "银河",
+      "image": ""
+    },
+    {
+      "title": "Dungeon",
+      "content": "黑暗地牢",
+      "image": ""
+    },
+    {
+      "title": "Nebula",
+      "content": "星云",
+      "image": ""
+    },
+    {
+      "title": "Mad Max",
+      "content": "疯狂麦斯沙地风格",
+      "image": ""
+    },
+    {
+      "title": "Hanging Gardens of Babylon",
+      "content": "巴比伦空中花园",
+      "image": ""
+    },
+    {
+      "title": "Meadow",
+      "content": "草原草地",
+      "image": ""
+    },
+    {
+      "title": "Overgrown Nature",
+      "content": "杂草丛生的",
+      "image": ""
+    },
+    {
+      "title": "Post-Apocalyptic",
+      "content": "后启示录、末日后",
+      "image": ""
+    },
+    {
+      "title": "Castle in the Sky",
+      "content": "天空之城",
+      "image": ""
+    }
+  ],
+  "Medium": [
+    {
+      "title": "Illustration",
+      "content": "插画",
+      "image": ""
+    },
+    {
+      "title": "Vector",
+      "content": "向量图",
+      "image": ""
+    },
+    {
+      "title": "Oil Painting",
+      "content": "油画",
+      "image": ""
+    },
+    {
+      "title": "Photography",
+      "content": "摄影",
+      "image": ""
+    },
+    {
+      "title": "Watercolor",
+      "content": "水彩",
+      "image": ""
+    },
+    {
+      "title": "Sketch",
+      "content": "素描",
+      "image": ""
+    },
+    {
+      "title": "Ink Painting",
+      "content": "雕塑",
+      "image": ""
+    },
+    {
+      "title": "Sculpture",
+      "content": "水墨画",
+      "image": ""
+    },
+    {
+      "title": "Block Print",
+      "content": "印刷版画",
+      "image": ""
+    },
+    {
+      "title": "Lino Cut",
+      "content": "利诺剪裁",
+      "image": ""
+    },
+    {
+      "title": "manuscript",
+      "content": "手稿",
+      "image": ""
+    }
+  ]
+}
