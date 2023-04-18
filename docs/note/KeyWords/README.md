@@ -17,7 +17,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -48,7 +48,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -79,7 +79,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -110,7 +110,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -141,7 +141,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -172,7 +172,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
@@ -203,7 +203,7 @@
         </td>
         <td>
           <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="item.image" target="_blank">{{ item.content }}</a>
+            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
           </template>
           <template v-else>
             {{ item.content }}
