@@ -16,3 +16,7 @@
 
 ## 交流社区
 欢迎加入微信群共同交流，群满或过期可添加本人微信拉进群，记得备注（github）。
+
+![](https://user-images.githubusercontent.com/10662852/232778951-383bd749-0fce-44bc-9534-b62b6b3ea871.jpg)
+
+![](https://user-images.githubusercontent.com/10662852/232778975-a195e5a1-853a-430f-8b1b-a9f9cdd5cdb0.jpg)
