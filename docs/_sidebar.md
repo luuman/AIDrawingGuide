@@ -1,5 +1,6 @@
 - [关键词](/note/KeyWords/)
 - [Midjourney](/note/midjourney/)
+  - [Niji二次元](/note/midjourney/Niji)
 - [StableDiffusion](/note/stableDiffusion/)
   - [Stable Diffusion 安装教程](/note/stableDiffusion/StableDiffusionSetUP)
 - [AIGC](/note/AIGC/)
