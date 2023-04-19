@@ -1,3 +1,7 @@
+# 漫画 NiJi
+
+让我们用魔法创作动漫画吧！
+
 ![612B08F0-4849-41C9-831E-277609B2109D](https://user-images.githubusercontent.com/10662852/232932296-4198c0d4-ed61-4662-9c4d-0ad451a8078a.jpeg)
 ![ABCDDC41-3547-4231-8A0C-22C1266CDF7A](https://user-images.githubusercontent.com/10662852/232932261-d8f6398f-8eeb-4ebc-9dd7-54a3f9e2b176.jpeg)
 ![24DAB5A2-60F2-485F-8DC6-7A37D0499DF1](https://user-images.githubusercontent.com/10662852/232932309-3ee7ecdc-4c36-4a31-a1b5-aed7a3a778fe.jpeg)

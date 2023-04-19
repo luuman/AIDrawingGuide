@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
+                "file": "midjourney/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
+                "file": "midjourney/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md",
+                "file": "midjourney/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC/Research/探索AIGC在网易严选中的应用.md"
+                "file": "midjourney/未命名.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "7ff19c217fd5bd47",
   "lastOpenFiles": [
+    "AIGC/Research/探索AIGC在网易严选中的应用.md",
+    "midjourney/未命名 1.md",
+    "midjourney/未命名.md",
+    "Share/README.md",
+    "Share",
+    "Common/Table.md",
+    "Common",
+    "midjourney/moudePeople.md",
+    "midjourney/Niji.md",
+    "midjourney/Instruct.md",
     "stableDiffusion/StableDiffusionSetUP.md",
     "KeyWords/README.md",
     "KeyWords",
@@ -161,7 +171,6 @@
     "AIGC/Research/640-10.png",
     "AIGC/Research/640-9.png",
     "AIGC/Research/640-8.png",
-    "AIGC/Research/探索AIGC在网易严选中的应用.md",
     "AIGC/Research",
     "AIGC/baseToolsB/AIGC落地项目应用解析.md",
     "AIGC/baseTools.md",

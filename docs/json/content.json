@@ -525,51 +525,6 @@
   ],
   "AngleOfView": [
     {
-      "title": "Birds-eye view",
-      "content": "鸟瞰视角",
-      "image": ""
-    },
-    {
-      "title": "Low-angle view",
-      "content": "低角度视角",
-      "image": ""
-    },
-{
-      "title": "High-angle view",
-      "content": "高角度视角",
-      "image": ""
-    },
-{
-      "title": "Overhead view",
-      "content": "俯视视角",
-      "image": ""
-    },
-{
-      "title": "Worm's-eye view",
-      "content": "虫瞰视角",
-      "image": ""
-    },
-{
-      "title": "Eye-level view",
-      "content": "平视视角",
-      "image": ""
-    },
-{
-      "title": "Front view",
-      "content": "正面视角",
-      "image": ""
-    },
-    {
-      "title": "Aerial View / Bird's-eye view",
-      "content": "鸟瞰图 / 乌瞰图",
-      "image": ""
-    },
-    {
-      "title": "Front view",
-      "content": "正面视角",
-      "image": ""
-    },
-    {
       "title": "A Cross-section View of (a Walnut)",
       "content": "核桃的横截面图",
       "image": ""
@@ -899,51 +854,6 @@
   ],
   "Illumination": [
     {
-      "title": "Bright light",
-      "content": "明亮光线",
-      "image": ""
-    },
-    {
-      "title": "Soft light",
-      "content": "柔和光线",
-      "image": ""
-    },
-    {
-      "title": "Tropical light",
-      "content": "热带光线",
-      "image": ""
-    },
-    {
-      "title": "Blue light",
-      "content": "偏蓝光线",
-      "image": ""
-    },
-    {
-      "title": "Warm light",
-      "content": "偏黄光线",
-      "image": ""
-    },
-    {
-      "title": "Orange light",
-      "content": "橙色调光线",
-      "image": ""
-    },
-    {
-      "title": "Grey light",
-      "content": "灰色调光线",
-      "image": ""
-    },
-    {
-      "title": "Cool light",
-      "content": "冷色调光线",
-      "image": ""
-    },
-    {
-      "title": "Warm light",
-      "content": "暖色调光线",
-      "image": ""
-    },
-    {
       "title": "Volumetric Lighting",
       "content": "体积照明",
       "image": ""
@@ -1230,6 +1140,100 @@
     {
       "title": "manuscript",
       "content": "手稿",
+      "image": ""
+    }
+  ],
+  "Light": [
+    {
+      "title": "Bright light",
+      "content": "明亮光线",
+      "image": ""
+    },
+    {
+      "title": "Soft light",
+      "content": "柔和光线",
+      "image": ""
+    },
+    {
+      "title": "Tropical light",
+      "content": "热带光线",
+      "image": ""
+    },
+    {
+      "title": "Blue light",
+      "content": "偏蓝光线",
+      "image": ""
+    },
+    {
+      "title": "Warm light",
+      "content": "偏黄光线",
+      "image": ""
+    },
+    {
+      "title": "Orange light",
+      "content": "橙色调光线",
+      "image": ""
+    },
+    {
+      "title": "Grey light",
+      "content": "灰色调光线",
+      "image": ""
+    },
+    {
+      "title": "Cool light",
+      "content": "冷色调光线",
+      "image": ""
+    },
+    {
+      "title": "Warm light",
+      "content": "暖色调光线",
+      "image": ""
+    }
+  ],
+  "ShootingAngle": [
+    {
+      "title": "Birds-eye view",
+      "content": "鸟瞰视角",
+      "image": ""
+    },
+    {
+      "title": "Low-angle view",
+      "content": "低角度视角",
+      "image": ""
+    },
+    {
+      "title": "High-angle view",
+      "content": "高角度视角",
+      "image": ""
+    },
+    {
+      "title": "Overhead view",
+      "content": "俯视视角",
+      "image": ""
+    },
+    {
+      "title": "Worm's-eye view",
+      "content": "虫瞰视角",
+      "image": ""
+    },
+    {
+      "title": "Eye-level view",
+      "content": "平视视角",
+      "image": ""
+    },
+    {
+      "title": "Front view",
+      "content": "正面视角",
+      "image": ""
+    },
+    {
+      "title": "Aerial View / Bird's-eye view",
+      "content": "鸟瞰图 / 乌瞰图",
+      "image": ""
+    },
+    {
+      "title": "Front view",
+      "content": "正面视角",
       "image": ""
     }
   ]

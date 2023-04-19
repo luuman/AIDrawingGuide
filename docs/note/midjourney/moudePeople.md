@@ -1,4 +1,4 @@
-# 人物模板篇
+# 模板：打造精美人物画面
 
 ## 描述基本框架：
 
@@ -39,71 +39,16 @@
 ```
 ![](https://media.discordapp.net/attachments/1093787021706792972/1098222186155745390/mobee_40-year-old_Chinese_guy_fitness_with_muscles_business_wea_ad213752-8bd8-4bd2-9790-ea81994fafe0.png)
 
-## 精度
-
-<output data-lang="output">
-  <table>
-  <thead>
-    <tr>
-      <template v-for="item in groupSize":key="item">
-        <th>Style</th><th>Description</th>
-      </template>
-    </tr>
-  </thead>
-  <tbody v-if="images.AngleOfView">
-    <tr v-for="(group, index) in groups(images.AngleOfView)" :key="index">
-      <template v-for="item in group":key="item.title">
-        <td>
-          <i @click="copyText" :title="item.title">{{ item.title }}</i>
-        </td>
-        <td>
-          <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
-          </template>
-          <template v-else>
-            {{ item.content }}
-          </template>
-        </td>
-      </template>
-    </tr>
-    </tbody>
-  </table>
-</output>
-
 ## 渲染
 
-<output data-lang="output">
-  <table>
-  <thead>
-    <tr>
-      <template v-for="item in groupSize":key="item">
-        <th>Style</th><th>Description</th>
-      </template>
-    </tr>
-  </thead>
-  <tbody v-if="images.Illumination">
-    <tr v-for="(group, index) in groups(images.Illumination)" :key="index">
-      <template v-for="item in group":key="item.title">
-        <td>
-          <i @click="copyText" :title="item.title">{{ item.title }}</i>
-        </td>
-        <td>
-          <template v-if="item.image">
-            <a class="tt-image"  @mouseover="showTooltipDebounced" @mouseout="hideTooltip" :href="`${item.image}?width=400&height=400`" target="_blank">{{ item.content }}</a>
-          </template>
-          <template v-else>
-            {{ item.content }}
-          </template>
-        </td>
-      </template>
-    </tr>
-    </tbody>
-  </table>
-</output>
+# 光线
 
-<output data-lang="output">
-  <div id="tooltip" v-show="tooltipVisible" :style="{ top: tooltipTop + 'px', left: tooltipLeft + 'px' }">
-    <img v-if="tooltipImgSrc" :src="tooltipImgSrc" @load="hideLoading" :class="{ 'hidden': loadingVisible }" />
-    <div v-if="loadingVisible" class="loading">Loading...</div>
-  </div>
-</output>
+[common](./Common/Table.md?type=Light ':include :type=text')
+
+# 摄影视角
+
+[common](./Common/Table.md?type=ShootingAngle ':include :type=text')
+
+[common](./Common/Tooltip.md?type=Style ':include :type=text')
+
+<!-- [filename](../../Common/Table.md?type=Light ':include :type=text') -->

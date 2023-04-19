@@ -1,4 +1,42 @@
+# 风格
+
+[common](./Common/Table.md?type=Style ':include :type=text')
+
+# 精度
+
+[common](./Common/Table.md?type=Accuracy ':include :type=text')
+
+# 视角
+
+[common](./Common/Table.md?type=AngleOfView ':include :type=text')
+
+# 渲染
+
+[common](./Common/Table.md?type=Rendering ':include :type=text')
+
+# 照明
+
+[common](./Common/Table.md?type=Illumination ':include :type=text')
+
+# 场景
+
+[common](./Common/Table.md?type=Scene ':include :type=text')
+
+# 媒介
+
+[common](./Common/Table.md?type=Medium ':include :type=text')
+
+# 光线
+
+[common](./Common/Table.md?type=Light ':include :type=text')
+
+# 摄影视角
+
+[common](./Common/Table.md?type=ShootingAngle ':include :type=text')
+<!-- 
 # 关键词
+
+
 
 <output data-lang="output">
   <table>
@@ -222,4 +260,6 @@
     <div v-if="loadingVisible" class="loading">Loading...</div>
   </div>
 </output>
-<!-- <div id="tooltip"></div> -->
+<div id="tooltip"></div> -->
+
+[common](./Common/Tooltip.md?type=Style ':include :type=text')
