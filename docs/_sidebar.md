@@ -1,5 +1,6 @@
 - [绘图指令大全](/note/KeyWords/)
 - [Midjourney](/note/midjourney/)
+  - [账号注册](/note/midjourney/注册账号)
   - [指令](/note/midjourney/Instruct)
   - [漫画 NiJi](/note/midjourney/Niji)
   - [模板：打造精美人物画面](/note/midjourney/moudePeople)
