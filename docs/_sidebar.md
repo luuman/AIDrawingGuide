@@ -1,4 +1,4 @@
-- [关键词/绘画指令集合](/note/KeyWords/)
+- [绘图指令大全](/note/KeyWords/)
 - [Midjourney](/note/midjourney/)
   - [指令](/note/midjourney/Instruct)
   - [漫画 NiJi](/note/midjourney/Niji)
