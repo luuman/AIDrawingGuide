@@ -1,5 +1,9 @@
 # StableDiffusion 安装教程
 
+为了方便懒人适用，此处提供了视频教程
+<iframe src="https://www.bilibili.com/video/BV1NX4y1Q7MH/?vd_source=bcf1485a066c6fadc59e516848081236" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
+
+
 ## 电脑配置要求
 
 ### 1. Windows

@@ -1,6 +1,5 @@
-- [绘图指令大全](/note/KeyWords/)
 - [Midjourney](/note/midjourney/)
-  - [账号注册](/note/midjourney/注册账号)
+  - [一、账号注册](/note/midjourney/MidJourney注册教程)
   - [指令](/note/midjourney/Instruct)
   - [漫画 NiJi](/note/midjourney/Niji)
   - [模板：打造精美人物画面](/note/midjourney/moudePeople)
@@ -9,4 +8,5 @@
 - [落地项目（持续更新）](/note/AIGC/)
   - [AIGC落地项目应用解析](/note/AIGC/baseToolsB/AIGC落地项目应用解析)
   - [探索AIGC在网易严选中的应用](/note/AIGC/Research/探索AIGC在网易严选中的应用)
+- [绘图指令大全](/note/KeyWords/)
 - [分享贴](/note/Share/)
