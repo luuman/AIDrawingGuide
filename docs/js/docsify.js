@@ -524,3 +524,15 @@ window.$docsify = {
     // },
   ]
 };
+
+function toggleMenu() {
+  var menuBtn = document.querySelector(".u-menu-btn");
+  var navgation = document.querySelector("#navgation,.nav-mask")
+  if (menuBtn.classList.contains("close")) {
+    menuBtn.classList.remove("close");
+    navgation.classList.remove("active");
+  } else {
+    menuBtn.classList.add("close");
+    navgation.classList.add("active");
+  }
+}

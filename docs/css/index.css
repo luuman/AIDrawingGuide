@@ -166,6 +166,7 @@ pre:before {
 	height: 100%;
 	top: 0;
 	right: -100%;
+  margin: 0;
 	-webkit-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
 	-moz-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
 	-o-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
@@ -248,10 +249,10 @@ pre:before {
 }
 
 #navgation .nav-wrapper .nav {
-	width: 100%;
+	/* width: 100%;
 	position: fixed;
 	top: 50%;
-	margin-top: -150px;
+	margin-top: -150px; */
 }
 
 #navgation .nav-wrapper .nav li {
@@ -272,7 +273,7 @@ pre:before {
 }
 
 #navgation .nav-wrapper .nav li a:hover {
-	color: #258fb8;
+	color: var(--accent);
 }
 
 #navgation .nav-wrapper .nav li a:before {
@@ -288,7 +289,7 @@ pre:before {
 }
 
 #navgation .nav-wrapper .nav li a:hover:before {
-	background-color: #258fb8;;
+	background-color: var(--accent);;
 	right: 15px
 }
 
@@ -382,4 +383,84 @@ pre:before {
 #v4-pre-loaded.hide {
   opacity: 0;
   visibility: hidden
+}
+
+/* u-menu-btn */
+.u-menu-btn {
+	display: block;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	top: 40px;
+	right: 30px;
+	z-index: 100;
+	background-color: rgba(0,0,0,.1);
+	border-radius: 50%;
+	-webkit-transition: background-color .3s linear;
+	transition: background-color .3s linear
+}
+
+.u-menu-btn:hover {
+	background-color: var(--accent);
+}
+
+.u-menu-btn span {
+	display: inline-block;
+	width: 22px;
+	height: 2px;
+	position: absolute;
+	left: 14px;
+	background-color: #fff;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transition: all .6s cubic-bezier(0.165,0.840,0.440,1.000);
+	-moz-transition: all .6s cubic-bezier(0.165,0.840,0.440,1.000);
+	transition: all .6s cubic-bezier(0.165,0.840,0.440,1.000)
+}
+
+.u-menu-btn span:nth-of-type(1) {
+	top: 18px
+}
+
+.u-menu-btn span:nth-of-type(2) {
+	top: 25px
+}
+
+.u-menu-btn span:nth-of-type(3) {
+	top: 32px
+}
+
+.u-menu-btn:hover span:nth-of-type(1) {
+	top: 17px
+}
+
+.u-menu-btn:hover span:nth-of-type(3) {
+	top: 33px
+}
+
+.u-menu-btn.close span {
+	background-color: #787977
+}
+
+.u-menu-btn.close span:nth-of-type(1) {
+	top: 25px;
+	-webkit-transform: rotateZ(45deg);
+	-moz-transform: rotateZ(45deg);
+	transform: rotateZ(45deg)
+}
+
+.u-menu-btn.close span:nth-of-type(2) {
+	opacity: 0
+}
+
+.u-menu-btn.close span:nth-of-type(3) {
+	top: 25px;
+	-webkit-transform: rotateZ(-45deg);
+	-moz-transform: rotateZ(-45deg);
+	transform: rotateZ(-45deg)
+}
+
+.u-menu-btn:hover span,.u-menu-btn.close:hover span {
+	background-color: #fff
 }
