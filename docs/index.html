@@ -19,14 +19,13 @@
   <link rel="apple-touch-icon" sizes="152x152" href="./_media/icon/Icon-152.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="./_media/icon/Icon-180.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="./_media/icon/Icon-192.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="./_media/icon/Icon-32.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./_media/icon/favicon-32.png" />
   <link rel="icon" type="image/png" sizes="96x96" href="./_media/icon/Icon-96.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="./_media/icon/Icon-16.png" />
-  <link rel="manifest" href="./_media/manifest.json" />
+  <link rel="icon" type="image/png" sizes="16x16" href="./_media/icon/favicon-16.png" />
   <meta name="msapplication-TileImage" content="./_media/icon/Icon-144.png" />
+  <link rel="manifest" href="./_media/manifest.json" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="msapplication-TileColor" content="#ffffff" />
-  <link rel="stylesheet" href="./css/index.css" />
 
   <!-- Stylesheets -->
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple"> -->
@@ -49,6 +48,7 @@
   <!-- sidebar -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
+  <link rel="stylesheet" href="./css/index.css" />
 </head>
 
 <body>
@@ -75,12 +75,12 @@
     </div>
   </nav>
   <div id="app"></div>  
+  <script src="./js/docsify.js"></script>
   <!-- three.min.js -->
   <script src="./js/coverpage/three.min.js"></script>
   
   <!-- docsify -->
   <!-- <script src="https://luuman.github.io/docsify-themeable/assets/js/main.js"></script> -->
-  <script src="./js/docsify.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
   <!-- lodash -->
@@ -173,12 +173,12 @@
   <!-- git日历 -->
   <!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" /> -->
   <!-- <div class="calendar">Loading the data just for you.</div> -->
-  <script>
+  <!-- <script>
     fetch("json/content.json")
       .then((response) => response.json())
       .then((data) => {
         window.$docsify.content = data;
       });
-  </script>
+  </script> -->
 </body>
 </html>

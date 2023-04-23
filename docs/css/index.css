@@ -1,9 +1,16 @@
 #dcsify-darklight-theme {
   top: -4px;
 }
+/* scrollbar */
+/* 设置滚动条的颜色 */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
 
 /* tooltip */
-.loading {
+.loadingTip {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -150,4 +157,229 @@ pre:before {
   border: 1px solid #d5d5d5;
   border-radius: 3px;
   font-size: 0.8125em;
+}
+
+/* navgation */
+#navgation,.nav-mask {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	right: -100%;
+	-webkit-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-moz-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-o-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	backface-visibility: hidden;
+	will-change: transform;
+	-webkit-backface-visibility: hidden;
+	z-index: 99
+}
+
+.nav-mask {
+	right: 0;
+	background-color: rgba(0,0,0,.8);
+	visibility: hidden;
+	opacity: 0
+}
+
+#navgation:before {
+	-webkit-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-moz-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-o-transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	transition: all .5s cubic-bezier(0.190,1.000,0.220,1.000);
+	-webkit-transform: translateZ(0) translateX(45%) skew(-12deg);
+	-moz-transform: translateZ(0) translateX(45%) skew(-12deg);
+	-ms-transform: translateZ(0) translateX(45%) skew(-12deg);
+	-o-transform: translateZ(0) translateX(45%) skew(-12deg);
+	transform: translateZ(0) translateX(45%) skew(-12deg);
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	backface-visibility: hidden;
+	opacity: 0;
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 11;
+	width: 40%;
+	height: 100%;
+	background-color: #fff;
+	background-image: -webkit-linear-gradient(46deg,#fff,#f1f2f0);
+	background-image: -moz-linear-gradient(46deg,#fff,#f1f2f0);
+	background-image: -o-linear-gradient(46deg,#fff,#f1f2f0);
+	background-image: linear-gradient(46deg,#fff,#f1f2f0)
+}
+
+#navgation.active {
+	right: 0;
+	visibility: visible
+}
+
+#navgation.active:before,.nav-mask.active {
+	opacity: 1;
+	visibility: visible
+}
+
+#navgation .nav-wrapper {
+	left: 0;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 101
+}
+
+#navgation .nav-wrapper:before,#navgation .nav-wrapper .nav {
+	display: inline-block;
+	vertical-align: middle
+}
+
+#navgation .nav-wrapper:before {
+	height: 100%;
+	content: ''
+}
+
+#navgation .nav-wrapper .nav {
+	width: 100%;
+	position: fixed;
+	top: 50%;
+	margin-top: -150px;
+}
+
+#navgation .nav-wrapper .nav li {
+	display: block;
+	text-align: right
+}
+
+#navgation .nav-wrapper .nav li a {
+	display: inline-block;
+	line-height: 46px;
+	padding: 10px 50px;
+	font-size: 20px;
+	color: #686967;
+	text-decoration: none;
+	-webkit-transition: color .6s linear;
+	transition: color .6s linear;
+	position: relative
+}
+
+#navgation .nav-wrapper .nav li a:hover {
+	color: #258fb8;
+}
+
+#navgation .nav-wrapper .nav li a:before {
+	-webkit-transition: all .3s linear;
+	transition: all .3s linear;
+	content: '';
+	height: 1px;
+	background-color: transparent;
+	position: absolute;
+	top: 50%;
+	left: 15px;
+	right: 105px
+}
+
+#navgation .nav-wrapper .nav li a:hover:before {
+	background-color: #258fb8;;
+	right: 15px
+}
+
+#navgation .nav-wrapper .logo {
+	display: block;
+	width: 185px;
+	height: 50px;
+	background: url(../img/logo.png) no-repeat;
+	background-size: cover;
+	position: absolute;
+	bottom: 30px;
+	right: 50px
+}
+
+/* v4-pre-loaded */
+#v4-pre-loaded {
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  z-index: 19900207;
+  text-align: center;
+  -webkit-transition: all .36s linear;
+  transition: all .36s linear
+}
+
+#v4-pre-loaded:before,#v4-pre-loaded .loading {
+  display: inline-block;
+  vertical-align: middle
+}
+
+#v4-pre-loaded:before {
+  content: '';
+  height: 100%
+}
+
+#v4-pre-loaded .loading {
+  width: 146px;
+  height: 146px;
+  background: url(../img/smohan_logo_mask.png) 50% no-repeat;
+  background-size: cover;
+  -webkit-transition: all .36s linear;
+  transition: all .36s linear;
+  -webkit-animation: loadingInit 1.3s cubic-bezier(0.30, 2.40, 0.85, 2.50) infinite;
+            animation: loadingInit 1.3s cubic-bezier(0.30, 2.40, 0.85, 2.50) infinite; 
+  /*margin-top: -148px*/
+}
+
+#v4-pre-loaded .loading:after {
+  width: 100%;
+  line-height: 36px;
+  content: 'The page is loading...';
+  position: absolute;
+  left: 0;
+  bottom: -36px;
+  font-size: 14px;
+  text-align: center;
+  color: #787977;
+  opacity: 0;
+  -webkit-transition: opacity .36s linear;
+  transition: opacity .36s linear;
+  -webkit-animation: fadeIn .8s linear 1s 1 forwards;
+  animation: fadeIn .8s linear 1s 1 forwards
+}
+
+@-webkit-keyframes loadingInit {
+  from, to {
+  -webkit-transform: translateY(-15vh) scaleY(1.02);
+          transform: translateY(-15vh) scaleY(1.02);
+  }
+  80% {
+  -webkit-transform: translateY(-30vh) scaleY(.98);
+          transform: translateY(-30vh) scaleY(.98);
+  }
+}
+
+@keyframes loadingInit {
+  from, to {
+  -webkit-transform: translateY(-15vh) scaleY(1.02);
+          transform: translateY(-15vh) scaleY(1.02);
+  }
+  80% {
+  -webkit-transform: translateY(-30vh) scaleY(.98);
+          transform: translateY(-30vh) scaleY(.98);
+  }
+}
+
+#v4-pre-loaded.hide {
+  opacity: 0;
+  visibility: hidden
 }

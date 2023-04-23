@@ -325,8 +325,7 @@ window.$docsify = {
               return responseText;
             }
           );
-          console.log("xhr.responseText", content);
-
+          // console.log("xhr.responseText", content);
           return content;
         } catch (error) {
           console.error("error", error);
@@ -431,7 +430,7 @@ window.$docsify = {
     },
     function (hook, vm) {
       hook.afterEach(function (html, next) {
-        let urlList = window.location.href.split("/");
+        // let urlList = window.location.href.split("/");
         // if (urlList.length === 6 && urlList[5] === "") {
         //   console.log(html, "Home page");
         //   GitHubCalendar(".calendar", "luuman", {
@@ -439,7 +438,16 @@ window.$docsify = {
         //     tooltips: true
         //   });
         // }
-        containerInit();
+        setTimeout(() => {
+          console.error("Element not found: my-element");
+          let loadding = document.getElementById("v4-pre-loaded");
+          if (loadding) {
+            loadding.classList.add("hide");
+          } else {
+            console.error("Element not found: my-element");
+          }
+        }, 500);
+        if (document.getElementById("container")) containerInit();
         next(html);
       });
     }
