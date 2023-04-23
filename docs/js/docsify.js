@@ -6,7 +6,7 @@ window.$docsify = {
   //   "/.*/_sidebar.md": "/_sidebar.md"
   // },
   subMaxLevel: 3,
-  sidebarDisplayLevel: 2,
+  sidebarDisplayLevel: 1,
   subMaxLevel: 4,
   maxLevel: 2,
   mergeNavbar: true,

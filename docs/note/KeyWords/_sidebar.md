@@ -8,5 +8,6 @@
 <!-- - [AI实践（持续更新）](/note/AIGC/) -->
   <!-- - [AIGC落地项目应用解析](/note/AIGC/baseToolsB/AIGC落地项目应用解析)
   - [探索AIGC在网易严选中的应用](/note/AIGC/Research/探索AIGC在网易严选中的应用) -->
+- [首页](/?id=aidrawingguide)
 - [Prompt集合](/note/KeyWords/)
 <!-- - [交流](/note/Share/) -->

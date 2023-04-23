@@ -1,3 +1,4 @@
+- [首页](/?id=aidrawingguide)
 - [MJ教程](/note/midjourney/)
   - [MJ入门](/note/midjourney/MidJourney注册教程)
   - [MJ指令](/note/midjourney/Instruct)
