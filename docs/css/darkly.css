@@ -10,6 +10,7 @@
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
+  user-select: none;
 }
 body:not(.ready) {
   overflow: hidden;

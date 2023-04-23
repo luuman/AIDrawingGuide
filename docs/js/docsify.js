@@ -440,6 +440,9 @@ window.$docsify = {
         //     tooltips: true
         //   });
         // }
+        document.addEventListener("contextmenu", function(event) {
+          event.preventDefault();
+        });
         html = html.replace(/<div id="docsify-darklight-theme"><p>\.<\/p><\/div>/g, '');
         setTimeout(() => {
           console.error("Element not found: my-element");
