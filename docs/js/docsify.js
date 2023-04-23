@@ -2,11 +2,11 @@
 window.$docsify = {
   coverpage: true,
   loadSidebar: true,
-  alias: {
-    "/.*/_sidebar.md": "/_sidebar.md"
-  },
+  // alias: {
+  //   "/.*/_sidebar.md": "/_sidebar.md"
+  // },
   subMaxLevel: 3,
-  sidebarDisplayLevel: 1,
+  sidebarDisplayLevel: 2,
   subMaxLevel: 4,
   maxLevel: 2,
   mergeNavbar: true,

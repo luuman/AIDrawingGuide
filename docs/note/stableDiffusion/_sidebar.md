@@ -1,0 +1,2 @@
+- [SD教程](/note/stableDiffusion/)
+  - [SD安装](/note/stableDiffusion/StableDiffusionSetUP)
