@@ -294,6 +294,7 @@ window.$docsify = {
     }
   },
   plugins: [
+    // DocsifyCarbon.create('CE7I52QU', 'xmakeio'),
     function (hook, vm) {
       hook.beforeEach(function (content) {
         try {
@@ -430,7 +431,7 @@ window.$docsify = {
     },
     function (hook, vm) {
       hook.afterEach(function (html, next) {
-        console.log('html', html);
+        // console.log('html', html);
         // let urlList = window.location.href.split("/");
         // if (urlList.length === 6 && urlList[5] === "") {
         //   console.log(html, "Home page");

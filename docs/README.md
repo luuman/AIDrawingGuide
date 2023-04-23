@@ -1,7 +1,7 @@
-
-
 # AIDrawingGuide
+
 ## Midjourney
+<p class="home-card" id="homeCardMj"></p>
 
 [Prompthero](https://prompthero.com/ "是一个在线的AI写作工具，它可以帮助用户自动生成文章、博客、社交媒体帖子、广告等内容的草稿。它使用人工智能技术，自动根据用户提供的关键词、主题和其他指导信息生成文本，用户可以根据自己的需求对生成的文本进行修改和编辑。")
 
@@ -20,43 +20,179 @@
 [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator "是一个基于GPT-3和CLIP的AI写作工具，它可以帮助用户自动生成文章、博客、产品说明、电子邮件等内容的草稿。它使用语言模型和机器学习技术，自动根据用户提供的关键词、主题和其他指导信息生成文本，用户可以根据自己的需求对生成的文本进行修改和编辑。Clip Interrogator还可以根据用户提供的图像生成文本，例如对一张食物图片生成菜单描述。") 图片生成描述
 
 ## stable diffusion
+<p class="home-card" id="homeCardSD"></p>
 
+## 其他
+<p class="home-card" id="homeCardOther"></p>
 
-<!-- <p class="home-card" id="homeCard">
-  <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
-    <span>Ansible</span>
-  </a>
-  <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
-    <span>Ansible</span>
-  </a>
-  <a href="./docs/ansible.html" style="background: rgb(238 0 0/ var(--bg-opacity));" class="contributing tag" data-lang="RedHat" data-info="👆看看还缺点儿什么？">
-    <img src="svg/safari-pinned-tab.svg" alt="SVG Image">
-    <span>Ansible</span>
-  </a>
-</p> -->
 
 <script>
-      console.log('arr')
+  console.log('arr')
   window.onload = function () {
-    const arr = [{
-      title: 'Prompthero',
-      link: 'https://prompthero.com/'
-    }];
-    console.log('arr', arr)
-    const p = document.getElementById('homeCard');
-    arr.forEach(({link, title}) => {
-      const a = document.createElement('a');
-      const img = document.createElement('img');
-      const span = document.createElement('span');
-      a.href = '#';
-      a.textContent = title;
-      span.textContent = title;
-      a.appendChild(img);
-      a.appendChild(span);
-      p.appendChild(a);
-    });
+    const arrJson = [
+      {
+        name: 'homeCardMj',
+        child: [
+          {
+            title: 'modelscope',
+            image: '',
+            type: '',
+            info: '中文版huggingface',
+            link: 'https://www.modelscope.cn/models'
+          },
+          {
+            title: 'Hugging Face ',
+            image: '',
+            type: '',
+            info: 'AIGC社区 Hugging Face – The AI community building the future.',
+            link: 'https://huggingface.co/'
+          },
+          {
+            title: 'codeium',
+            image: '',
+            type: '',
+            info: 'A Free AI-Powered Toolkit for Developers.',
+            link: 'http://Codeium.com'
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          },
+
+        ]
+      },
+      {
+        name: 'homeCardSD',
+        child: [
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          }
+        ]
+      },
+      {
+        name: 'homeCardOther',
+        child: [
+          {
+            title: 'Prompthero',
+            image: '',
+            type: '',
+            info: '',
+            link: ''
+          }
+        ]
+      }
+    ];
+    arrJson.forEach(item => {
+      forJsonHomeCard(item.name, item.child);
+    })
+    function getRandomRgbColor() {
+      const r = Math.floor(Math.random() * 256);
+      const g = Math.floor(Math.random() * 256);
+      const b = Math.floor(Math.random() * 256);
+      return `rgb(${r} ${g} ${b} / var(--bg-opacity))`;
+    }
+    function forJsonHomeCard(name, arr) {
+      console.log('arr', name, arr);
+      const pBox = document.getElementById(name);
+      arr.forEach(({link, title, type, info, image}) => {
+        const Box = document.createElement('a');
+        const imgBox = document.createElement('img');
+        const spanBox = document.createElement('span');
+
+        Box.href = link;
+        Box.classList.add("contributing", "tag");
+        if (type) Box.setAttribute('data-lang', type);
+        if (info) {
+          Box.setAttribute('data-info', 'info');
+        } else {
+          Box.setAttribute('data-info', '👆看看还缺点儿什么？');
+        }
+        Box.style.background = getRandomRgbColor();
+        imgBox.setAttribute('src', image);
+        spanBox.textContent = title;
+
+        if (image) Box.appendChild(imgBox);
+        Box.appendChild(spanBox);
+        pBox.appendChild(Box);
+      });
+    }
   }
 </script>
 <style>
