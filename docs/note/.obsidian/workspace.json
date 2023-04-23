@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "408960784950ab0d",
+        "id": "66f6c10d1044b87a",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff19c217fd5bd47",
+            "id": "3c713b3188a8637e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stableDiffusion/StableDiffusionSetUP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stableDiffusion/StableDiffusionSetUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stableDiffusion/StableDiffusionSetUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "stableDiffusion/StableDiffusionSetUP.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,16 +139,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ff19c217fd5bd47",
+  "active": "3c713b3188a8637e",
   "lastOpenFiles": [
-    "未命名.md",
-    "未命名 1.md",
-    "stableDiffusion/20230416205045.png",
-    "stableDiffusion/StableDiffusionSetUP.md",
-    "midjourney/未命名.md",
     "stableDiffusion/20230416203723.png",
     "stableDiffusion/20230416202749.png",
     "stableDiffusion/20230416201029.png",
+    "stableDiffusion/20230416205045.png",
+    "未命名 1.md",
+    "stableDiffusion/StableDiffusionSetUP.md",
+    "未命名.md",
+    "midjourney/未命名.md",
     "stableDiffusion/20230416200024.png",
     "stableDiffusion/20230416195651.png",
     "stableDiffusion/20230416151901.png",
@@ -188,7 +180,6 @@
     "AIGC/baseToolsB",
     "midjourney/README.md",
     "stableDiffusion/StableDiffusion安装教程.md",
-    "stableDiffusion/README.md",
-    "stableDiffusion/Stable Diffusion 安装教程.md"
+    "stableDiffusion/README.md"
   ]
 }
