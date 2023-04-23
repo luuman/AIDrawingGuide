@@ -1,6 +1,7 @@
 
 
-# Midjourney
+# AIDrawingGuide
+## Midjourney
 
 [Prompthero](https://prompthero.com/ "是一个在线的AI写作工具，它可以帮助用户自动生成文章、博客、社交媒体帖子、广告等内容的草稿。它使用人工智能技术，自动根据用户提供的关键词、主题和其他指导信息生成文本，用户可以根据自己的需求对生成的文本进行修改和编辑。")
 
@@ -18,7 +19,7 @@
 
 [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator "是一个基于GPT-3和CLIP的AI写作工具，它可以帮助用户自动生成文章、博客、产品说明、电子邮件等内容的草稿。它使用语言模型和机器学习技术，自动根据用户提供的关键词、主题和其他指导信息生成文本，用户可以根据自己的需求对生成的文本进行修改和编辑。Clip Interrogator还可以根据用户提供的图像生成文本，例如对一张食物图片生成菜单描述。") 图片生成描述
 
-# stable diffusion
+## stable diffusion
 
 
 <!-- <p class="home-card" id="homeCard">
