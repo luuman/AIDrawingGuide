@@ -430,6 +430,7 @@ window.$docsify = {
     },
     function (hook, vm) {
       hook.afterEach(function (html, next) {
+        console.log('html', html);
         // let urlList = window.location.href.split("/");
         // if (urlList.length === 6 && urlList[5] === "") {
         //   console.log(html, "Home page");
@@ -438,6 +439,7 @@ window.$docsify = {
         //     tooltips: true
         //   });
         // }
+        html = html.replace(/<div id="docsify-darklight-theme"><p>\.<\/p><\/div>/g, '');
         setTimeout(() => {
           console.error("Element not found: my-element");
           let loadding = document.getElementById("v4-pre-loaded");

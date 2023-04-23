@@ -464,3 +464,19 @@ pre:before {
 .u-menu-btn:hover span,.u-menu-btn.close:hover span {
 	background-color: #fff
 }
+
+#docsify-darklight-theme{
+  border-radius: 50px;
+  position: absolute;
+  bottom: 30px;
+  top: auto;
+  right: 246px;
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  background-image: var(--toogleImage);
+  background-size: 30px;
+  background-position: center;
+  background-color: #000;
+  cursor: pointer;
+}
