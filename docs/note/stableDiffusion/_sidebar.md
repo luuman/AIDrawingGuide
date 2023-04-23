@@ -1,0 +1,5 @@
+- [首页](/?id=aidrawingguide)
+- [SD安装](/note/stableDiffusion/StableDiffusionSetUP)
+- [插件](/note/stableDiffusion/plugin)
+- [控制器](/note/stableDiffusion/controlnet)
+- [模型](/note/stableDiffusion/models)

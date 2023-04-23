@@ -1,0 +1,6 @@
+- [首页](/?id=aidrawingguide)
+- [MJ教程](/note/midjourney/)
+  - [MJ入门](/note/midjourney/MidJourney注册教程)
+  - [MJ指令](/note/midjourney/Instruct)
+  - [MJ漫画: NiJi](/note/midjourney/Niji)
+  - [MJ实战：打造精美人物画面](/note/midjourney/moudePeople)

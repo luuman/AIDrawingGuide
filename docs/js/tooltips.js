@@ -1,6 +1,5 @@
 window.onload = function () {
   //  js file
-
   let toolTip = document.getElementById("tooltip");
   let copy = document.getElementById("copy");
   let ttImages = document.getElementsByClassName("tt-image");

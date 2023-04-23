@@ -10,6 +10,7 @@
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
+  user-select: none;
 }
 body:not(.ready) {
   overflow: hidden;
@@ -26,7 +27,7 @@ div#app {
   text-align: center;
 }
 div#app:empty:before {
-  content: 'Loading...';
+  /* content: 'Loading...'; */
 }
 .emoji {
   height: 1.2rem;

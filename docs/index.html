@@ -1,1038 +1,203 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>AIDrawingGuide</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta
-      name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="./_media/icon/Icon-57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="./_media/icon/Icon-60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="./_media/icon/Icon-72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="./_media/icon/Icon-76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="./_media/icon/Icon-114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="./_media/icon/Icon-120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="./_media/icon/Icon-144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="./_media/icon/Icon-152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="./_media/icon/Icon-180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="./_media/icon/Icon-192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="./_media/icon/Icon-32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="./_media/icon/Icon-96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="./_media/icon/Icon-16.png"
-    />
-    <link rel="manifest" href="./_media/manifest.json" />
-    <meta name="msapplication-TileImage" content="./_media/icon/Icon-144.png" />
-    <meta name="theme-color" content="#ffffff" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <!-- Stylesheets -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple"> -->
-    <!-- <link rel="stylesheet" href="https://luuman.github.io/docsify-themeable/assets/css/main.css"> -->
-
-    <!-- Alternate Stylesheets -->
-    <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults"> -->
-    <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="Simple Dark"> -->
-
-    <!-- Test Stylesheets -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"> -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/buble.css"> -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dark.css"> -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/pure.css"> -->
-
-    <!-- darklight-theme -->
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
-      title="docsify-darklight-theme"
-      type="text/css"
-    />
-
-    <!-- sidebar -->
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"
-    />
-    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
-
-    <style type="text/css">
-      #docsify-darklight-theme {
-        top: -4px;
-      }
-    </style>
-    <!-- tooltip -->
-    <style>
-      .loading {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background-color: rgba(255, 255, 255, 0.8);
-        padding: 10px;
-        border-radius: 5px;
-      }
-
-      .hidden {
-        display: none;
-      }
-
-      .tt-image {
-        display: block;
-      }
-
-      i[title] {
-        display: block;
-        font-style: inherit;
-        cursor: copy;
-      }
-
-      #tooltip {
-        position: fixed;
-        width: 150px;
-        padding: 4px;
-        margin: 0;
-        background: #fff;
-        /* opacity: 0; */
-        transition: opacity 0.2s;
-        box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.4);
-      }
-
-      #tooltip img {
-        display: block;
-        padding: 0;
-        margin: 0;
-        width: 100%;
-      }
-
-      p span {
-        cursor: pointer;
-      }
-
-      .show {
-        opacity: 1 !important;
-      }
-    </style>
-    <!-- 手风琴 -->
-    <style type="text/css">
-      ul.accordion-wrapper > li.active > p:first-of-type::after {
-        border-bottom-color: var(--background) !important;
-      }
-
-      .accordion {
-        background: #081623 !important;
-      }
-
-      .accordion.active .accordion-content-container {
-        background: var(--background);
-      }
-
-      body {
-        background: var(--background);
-      }
-
-      main {
-        z-index: 1;
-        background: var(--background);
-      }
-    </style>
-    <!-- 语法高亮 -->
-    <style type="text/css">
-      pre:after {
-        color: var(--codeTypeColor);
-        color: #fff;
-        box-sizing: border-box;
-        content: attr(data-lang);
-        text-transform: capitalize;
-        height: 30px;
-        line-height: 30px;
-        background: var(--codeTitleColor);
-        font-size: 16px;
-        position: absolute;
-        margin-top: -30px;
-        left: 0;
-        top: 30px;
-        width: 100%;
-        font-family: Ubuntu, sans-serif;
-        font-weight: 700;
-        padding: 0 80px;
-        text-indent: 15px;
-        text-align: center;
-        float: left;
-        z-index: 0;
-        border-radius: 5px 5px 0 0;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
-        border-bottom-right-radius: 0;
-        border-bottom-left-radius: 0;
-        pointer-events: none;
-      }
-
-      pre:before {
-        content: " ";
-        position: absolute;
-        border-radius: 50%;
-        background: #fc625d;
-        width: 12px;
-        height: 12px;
-        left: 12px;
-        top: 28px;
-        margin-top: -18px;
-        box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
-        z-index: 2;
-      }
-
-      .markdown-section pre {
-        padding-top: 10px;
-      }
-    </style>
-  </head>
-
-  <body>
-    <div id="app"></div>
-    <!-- JavaScript -->
-    <script>
-      // Docsify
-      window.$docsify = {
-        coverpage: true,
-        loadSidebar: true,
-        alias: {
-          "/.*/_sidebar.md": "/_sidebar.md"
-        },
-        subMaxLevel: 3,
-        sidebarDisplayLevel: 1,
-        subMaxLevel: 4,
-        maxLevel: 2,
-        mergeNavbar: true,
-        formatUpdated: "{MM}/{DD} {HH}:{mm}",
-        ga: "UA-50048801-2",
-        // codesponsor: 'id',
-        search: {
-          maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-          // paths: ["/note/daily/"], // or 'auto'
-          placeholder: "搜索",
-          noData: "找不到结果!"
-          // 搜索标题的最大程级, 1 - 6
-          // depth: 3
-        },
-        count: {
-          countable: true,
-          fontsize: "0.9em",
-          color: "rgb(90,90,90)",
-          language: "chinese"
-        },
-        mindmap: {
-          // or default
-          preset: "colorful",
-          // or bracket
-          linkShape: "diagonal"
-        },
-        tabs: {
-          sync: false,
-          theme: "classic"
-        },
-        select: {
-          detectOperatingSystem: {
-            enabled: false,
-            menuId: "operating-system"
-          },
-          sync: false,
-          theme: "classic"
-        },
-        darklightTheme: {
-          siteFont: "PT Sans",
-          defaultTheme: "dark",
-          codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
-          bodyFontSize: "17px",
-          dark: {
-            "nomnoml-svg-stroke": "#42b983",
-            "nomnoml-svg-fill-2": "#0e2233",
-            accent: "#42b983",
-            toogleBackground: "#ffffff",
-            background: "#091a28",
-            textColor: "#c0c0c0",
-            codeTextColor: "#00bc8c",
-            codeTitleColor: "#2a2e33",
-            codeBackgroundColor: "#0e2233",
-            borderColor: "#0d2538",
-            blockQuoteColor: "#858585",
-            highlightColor: "#d22778",
-            sidebarSublink: "#b4b4b4",
-            codeTypeColor: "#ffffff",
-            coverBackground: "#000",
-            // coverBackground: 'radial-gradient(50% 100%,#180526 0,#040e21 100%)',
-            toogleImage:
-              "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)"
-          },
-          light: {
-            "nomnoml-svg-stroke": "#42b983",
-            "nomnoml-svg-fill-2": "#0e2233",
-            accent: "#42b983",
-            toogleBackground: "#091a28",
-            background: "#ffffff",
-            textColor: "#34495e",
-            codeTextColor: "#525252",
-            codeTitleColor: "#858585",
-            codeBackgroundColor: "#f8f8f8",
-            borderColor: "rgba(0, 0, 0, 0.07)",
-            blockQuoteColor: "#858585",
-            highlightColor: "#d22778",
-            sidebarSublink: "#505d6b",
-            codeTypeColor: "#091a28",
-            coverBackground: "#000",
-            // coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
-            toogleImage:
-              "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)"
-          }
-        },
-        vueGlobalOptions: {
-          data: function () {
-            return {
-              groupSize: 3,
-              images: [],
-              tooltipVisible: false,
-              tooltipTop: 0,
-              tooltipLeft: 0,
-              tooltipImgSrc: "",
-              showTooltipDebounced: "",
-              loadingVisible: false
-            };
-          },
-          mounted() {
-            fetch("json/content.json")
-              .then((response) => response.json())
-              .then((data) => {
-                this.images = data;
-              });
-            this.showTooltipDebounced = _.debounce(this.showTooltip, 500);
-            this.$nextTick(() => {
-              // this.newOpen();
-            });
-          },
-          methods: {
-            copyText(text) {
-              console.log("trackMouse", text.target.innerText);
-              navigator.clipboard
-                .writeText(text.target.innerText)
-                .then(() => {
-                  console.log("复制成功");
-                })
-                .catch(() => {
-                  console.log("复制失败");
-                });
-            },
-            trackMouse(e) {
-              console.log("trackMouse");
-              // let mouseX = e.clientX - 50;
-              // let mouseY = e.clientY + 50;
-              // this.tooltipTop = mouseY;
-              // this.tooltipLeft = mouseX;
-            },
-            showTooltip(e) {
-              if (this.tooltipImgSrc) return;
-              console.log("showTooltip");
-              e.preventDefault();
-              const imgSrc = e.target.href;
-              let mouseX = e.clientX - 50;
-              let mouseY = e.clientY + 50;
-              this.tooltipTop = mouseY;
-              this.tooltipLeft = mouseX;
-              this.loadingVisible = true;
-              this.tooltipImgSrc = imgSrc;
-              this.tooltipVisible = true;
-            },
-            hideTooltip() {
-              console.log("hideTooltip");
-              this.tooltipImgSrc = "";
-              this.tooltipVisible = false;
-              this.loadingVisible = false;
-            },
-            hideLoading() {
-              console.log("hideLoading");
-              this.loadingVisible = false;
-            },
-            newOpen() {
-              const tooltip = document.getElementById("tooltip");
-              if (!tooltip) {
-                return;
-              }
-
-              const main = document.getElementById("main");
-              const sidebarWidth =
-                document.querySelector(".sidebar").clientWidth;
-              const ttImages = main.getElementsByTagName("a");
-
-              const trackMouse = _.throttle((e) => {
-                let mouseX =
-                  e.clientX + document.body.scrollLeft - sidebarWidth - 100; // get x position of mouse
-                let mouseY = e.clientY + document.body.scrollTop - 40; // get y position of mouse
-                tooltip.style.top = mouseY + "px";
-                tooltip.style.left = mouseX + "px";
-              }, 10);
-
-              const showTooltip = _.debounce((e) => {
-                if (e.target.tagName !== "A") {
-                  tooltip.classList.remove("show");
-                  return;
-                }
-
-                e.preventDefault();
-                const imgSrc = e.target.href;
-                if (imgSrc.includes("/#/note/")) {
-                  tooltip.classList.remove("show");
-                  return;
-                }
-
-                tooltip.innerHTML = `<img src="${imgSrc}">`;
-                tooltip.classList.add("show");
-              }, 10);
-
-              const preloadImages = () => {
-                const imgSrcs = [...ttImages]
-                  .filter((img) => !img.href.includes("/#/note/"))
-                  .map((img) => img.href);
-
-                const images = imgSrcs.map((src) => {
-                  const img = new Image();
-                  img.src = src;
-                  return img;
-                });
-              };
-
-              main.addEventListener("mousemove", trackMouse);
-              main.addEventListener("mouseover", showTooltip);
-
-              preloadImages();
-
-              // remove event listeners to prevent memory leaks
-              const cleanup = () => {
-                main.removeEventListener("mousemove", trackMouse);
-                main.removeEventListener("mouseover", showTooltip);
-                window.removeEventListener("DOMContentLoaded", cleanup);
-              };
-              window.addEventListener("DOMContentLoaded", cleanup, {
-                once: true
-              });
-            },
-            openImage() {
-              const tooltip = document.getElementById("tooltip");
-              if (!tooltip) {
-                return;
-              }
-
-              const main = document.getElementById("main");
-              const sidebarWidth =
-                document.querySelector(".sidebar").clientWidth;
-              const ttImages = main.getElementsByTagName("a");
-
-              const trackMouse = (e) => {
-                // const mouseX = e.clientX - sidebarWidth - 100;
-                // const mouseY = e.clientY - main.scrollTop - 40;
-                let mouseX =
-                  event.clientX + document.body.scrollLeft - sidebarWidth - 100; //  get x position of mouse
-                let mouseY = event.clientY + document.body.scrollTop - 40; //  get y position of mouse
-                tooltip.style.top = mouseY + "px";
-                tooltip.style.left = mouseX + "px";
-              };
-
-              const showTooltip = (e) => {
-                if (e.target.tagName !== "A") {
-                  tooltip.classList.remove("show");
-                  return;
-                }
-
-                e.preventDefault();
-                const imgSrc = e.target.href;
-                if (imgSrc.includes("/#/note/")) {
-                  tooltip.classList.remove("show");
-                  return;
-                }
-
-                tooltip.innerHTML = `<img src="${imgSrc}">`;
-                tooltip.classList.add("show");
-              };
-
-              const preloadImages = () => {
-                const imgSrcs = [...ttImages]
-                  .filter((img) => !img.href.includes("/#/note/"))
-                  .map((img) => img.href);
-
-                const images = imgSrcs.map((src) => {
-                  const img = new Image();
-                  img.src = src;
-                  return img;
-                });
-              };
-
-              main.addEventListener("mousemove", trackMouse);
-              main.addEventListener("mouseover", showTooltip);
-
-              preloadImages();
-
-              // remove event listeners to prevent memory leaks
-              const cleanup = () => {
-                main.removeEventListener("mousemove", trackMouse);
-                main.removeEventListener("mouseover", showTooltip);
-                window.removeEventListener("DOMContentLoaded", cleanup);
-              };
-              window.addEventListener("DOMContentLoaded", cleanup, {
-                once: true
-              });
-            },
-            groups(data) {
-              const groups = [];
-              for (let i = 0; i < data.length; i += this.groupSize) {
-                const group = data.slice(i, i + this.groupSize);
-                groups.push(group);
-              }
-              return groups;
-            }
-          }
-        },
-        plugins: [
-          function (hook, vm) {
-            hook.beforeEach(function (content) {
-              try {
-                // console.log('content', content)
-                // 加载 Table.md 文件中的变量
-                var variables = {};
-                content = content.replace(
-                  /\[common\]\((.+?) '\:include \:type=text'\)/g,
-                  function ($0, link) {
-                    const searchParams = new URLSearchParams(
-                        link.slice(link.indexOf("?") + 1)
-                      );
-                      variables = Object.fromEntries(searchParams.entries());
-                      var xhr = new XMLHttpRequest();
-                      xhr.open("GET", link.split("?")[0], false);
-                      xhr.send();
-                      let responseText = xhr.responseText;
-                      console.log("xhr.responseText", responseText);
-                      // // 替换变量
-                      responseText = responseText.replace(
-                        /\$(\w+)\$/g,
-                        function (match, name) {
-                          console.log("match, name", match, name);
-                          return variables[name] || match;
-                        }
-                      );
-                      console.log("xhr.responseText", responseText);
-
-                      return responseText;
-                  }
-                );
-                console.log("xhr.responseText", content);
-
-                return content;
-              } catch (error) {
-                console.error("error", error);
-              }
-            });
-          },
-          // 二级文档归纳
-          // function (hook, vm) {
-          //   hook.beforeEach(function (html) {
-          //     let urlList = vm.route.path.split("/");
-          //     if (urlList.length === 4 && urlList[3] === "") {
-          //       let arrayList = html.split(",");
-          //       var name = arrayList[0];
-          //       var value = arrayList[1];
-          //       // console.log(value)
-          //       if (!value) return html;
-          //       var editHtml = `${name} \n`;
-          //       editHtml += "\n";
-          //       for (let i = 0; i < value; i++) {
-          //         editHtml += `[common](../${name}/${
-          //           i + 1
-          //         }.md ':include :type=text')\n`;
-          //         editHtml += "\n";
-          //       }
-          //       // console.log(editHtml)
-          //       return editHtml;
-          //     }
-          //   });
-          // },
-          // image change
-          function (hook, vm) {
-            hook.beforeEach(function (html) {
-              return html.replace(/!\[\[(.*?)\]\]/g, function ($0, $1) {
-                return `![image](${$1})`;
-              });
-            });
-          },
-          // github editHtml
-          function (hook, vm) {
-            hook.beforeEach(function (html) {
-              var url =
-                "https://github.com/luuman/AIDrawingGuide/blob/main/docs/" +
-                vm.route.file;
-              var editHtml = "[📝 Edit MD](" + url + ")\n";
-              return (
-                editHtml + html
-                // + '\n----\n' +
-                // 'Last modified {docsify-updated} ' +
-                // editHtml
-              );
-            });
-          },
-          // icon ☑ ☒ 已读未读
-          // function(hook, vm) {
-          //   hook.beforeEach(function(html) {
-          //     // console.log('html', html)
-          //     let nums = 0;
-          //     var htmlMD = html.replace( /[#?]+/g,function ($0){
-          //       var str = nums < 1 ? '[☑]()' : '☒';
-          //       nums++;
-          //       return `${$0} ${str}`;
-          //     });
-          //     // console.log('html1', htmlMD)
-          //     return htmlMD
-          //   });
-          // },
-          // gitalk
-          function (hook, vm) {
-            hook.beforeEach(function (html) {
-              if (vm.route.path === "/") return;
-              return html + "\n" + "⏰ 更新于： {docsify-updated} ";
-            });
-            hook.doneEach(function () {
-              if (vm.route.path === "/") return;
-              console.log("afterEach", location.hash.match(/#(.*?)([?]|$)/)[1]);
-
-              var label, labelType, domObj, main, divEle, gitalk;
-              label = vm.route.path.split("/").pop();
-              labelType = vm.route.path;
-              domObj = Docsify.dom;
-              main = domObj.getNode("#main");
-              Array.apply(
-                null,
-                document.querySelectorAll("div.gitalk-container")
-              ).forEach(function (ele) {
-                ele.remove();
-              });
-              divEle = domObj.create("div");
-              divEle.id = "gitalk-container-" + label;
-              divEle.className = "gitalk-container";
-              divEle.style =
-                "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
-              domObj.appendTo(domObj.find(".content"), divEle);
-              console.log(vm.route.path.split("/"));
-              gitalk = new Gitalk(
-                Object.assign(gitalkConfig, {
-                  id: !labelType ? "home" : labelType
-                })
-              );
-              gitalk.render("gitalk-container-" + label);
-            });
-          },
-          function (hook, vm) {
-            hook.afterEach(function (html, next) {
-              let urlList = window.location.href.split("/");
-              if (urlList.length === 6 && urlList[5] === "") {
-                console.log(html, "Home page");
-                GitHubCalendar(".calendar", "luuman", {
-                  responsive: true,
-                  tooltips: true
-                });
-                containerInit();
-              }
-              next(html);
-            });
-          }
-          // TipTitle
-          // function (hook, vm) {
-          //   hook.doneEach(function () {
-          //     var clipboard = new ClipboardJS("i", {
-          //       text: function (trigger) {
-          //         return trigger.getAttribute("title");
-          //       }
-          //     });
-          //     clipboard.on("success", function (e) {
-          //       console.info("Action:", e.action);
-          //       console.info("Text:", e.text);
-          //       console.info("Trigger:", e.trigger);
-          //       e.clearSelection();
-          //     });
-          //     clipboard.on("error", function (e) {
-          //       console.error("Action:", e.action);
-          //       console.error("Trigger:", e.trigger);
-          //     });
-          //     var sweetTitles = {
-          //       x: 10,
-          //       y: 20,
-          //       tipElements: "a",
-          //       init: function (tipElements) {
-          //         $(tipElements || this.tipElements).unbind(
-          //           "mouseover mouseout mousemove"
-          //         ); //移除之前绑定的时间防止冲突
-          //         $("#tooltip").remove(); //pjax后防止提示未消失
-          //         $(tipElements || this.tipElements)
-          //           .mouseover(function (e) {
-          //             this.myTitle = this.title;
-          //             this.title = "";
-          //             var tooltip = "";
-          //             if (this.myTitle == "") {
-          //               tooltip = "";
-          //             } else {
-          //               tooltip =
-          //                 "<div id='tooltip'><div class='tipsy-arrow'></div><div class='tipsy-inner'>" +
-          //                 this.myTitle +
-          //                 "</div></div>";
-          //               $("body").append(tooltip);
-          //               $("#tooltip")
-          //                 .css({
-          //                   opacity: "0.9",
-          //                   top: e.pageY + 20 + "px",
-          //                   left: e.pageX + 10 + "px"
-          //                 })
-          //                 .show("fast");
-          //             }
-          //           })
-          //           .mouseout(function () {
-          //             if (this.myTitle != "") {
-          //               this.title = this.myTitle;
-          //               $("#tooltip").remove();
-          //             }
-          //           })
-          //           .mousemove(function (e) {
-          //             if (this.myTitle != "") {
-          //               $("#tooltip").css({
-          //                 top: e.pageY + 20 + "px",
-          //                 left: e.pageX + 10 + "px"
-          //               });
-          //             }
-          //           });
-          //       }
-          //     };
-          //     $(function () {
-          //       sweetTitles.init("a[title]"); //初始化
-          //       sweetTitles.init("i[title]"); //初始化
-          //     });
-          //   });
-          // },
-        ]
-      };
-    </script>
-    <!-- three.min.js -->
-    <script src="./js/coverpage/three.min.js"></script>
-
-    <!-- docsify -->
-    <!-- <script src="https://luuman.github.io/docsify-themeable/assets/js/main.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-
-    <!-- lodash -->
-    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
-
-    <!-- clipboard -->
-    <script
-      src="https://clipboardjs.com/dist/clipboard.min.js"
-      type="text/javascript"
-    ></script>
-
-    <!-- Production -->
-    <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
-
-    <!-- darklight-theme -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-
-    <!-- tabs -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-
-    <!-- docsify-select -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
-
-    <!-- 字数统计 -->
-    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-
-    <!-- 侧边栏折叠 -->
-    <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-
-    <!-- 全文搜索 -->
-    <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-    <script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
-
-    <script>
-      fetch("json/content.json")
-        .then((response) => response.json())
-        .then((data) => {
-          window.$docsify.content = data;
-        });
-    </script>
-
-    <!-- copy-code -->
-    <script src="//unpkg.com/docsify-copy-code"></script>
-    <style type="text/css">
-      .docsify-copy-code-button {
-        color: #333;
-        cursor: pointer;
-        display: inline-block;
-        font-weight: 700;
-        line-height: 1.6;
-        opacity: 0;
-        outline: 0;
-        padding: 2px 6px;
-        position: absolute;
-        transition: opacity 0.3s ease-in-out;
-        vertical-align: middle;
-        white-space: nowrap;
-        user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        -webkit-user-select: none;
-        right: 1px;
-        top: px;
-        z-index: 9999;
-        background-color: #eee;
-        background-image: linear-gradient(#fcfcfc, #eee);
-        border: 1px solid #d5d5d5;
-        border-radius: 3px;
-        font-size: 0.8125em;
-      }
-    </style>
-    <!-- 图片缩放 -->
-    <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-
-    <!-- 代码高亮 -->
-    <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-php.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
-
-    <!-- pagination -->
-    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
-    <!-- mermaid -->
-    <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
-    <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
-    <script>
-      mermaid.initialize({ startOnLoad: true, theme: "dark" });
-    </script>
-
-    <!-- CDN files for docsify-katex -->
-    <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
-    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
-    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/> -->
-    <!-- <script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script> -->
-
-    <!-- docsify-mindmap -->
-    <!-- <script src="//unpkg.com/docsify-mindmap/dist/docsify-mindmap.min.js"></script> -->
-
-    <!-- docsify-accordion -->
-    <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css" />
-    <!-- <script src="//unpkg.com/docsify-accordion/src/index.js"></script> -->
-    <!-- <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css"> -->
-    <script src="./js/docsify-accordion.js"></script>
-
-    <!-- sidebar-collapse -->
-    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
-
-    <!-- Include the library. -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/> -->
-    <link rel="stylesheet" href="./css/calendar-responsive.css" />
-    <!-- <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script> -->
-    <script src="./js/github-calendar.min.js"></script>
-
-    <!-- gitalk -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"> -->
-    <link rel="stylesheet" href="./css/gitalk.css" />
-
-    <!-- nomnoml -->
-    <!-- <script src="//cdn.jsdelivr.net/npm/graphre@0.1/dist/graphre.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/nomnoml@1.4/dist/nomnoml.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-nomnoml@1/dist/plugin.min.js"></script> -->
-
-    <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-    <script>
-      var gitalkConfig = {
-        clientID: "3917364bae5761855450",
-        clientSecret: "30f282d53d5bede2ed668de2402a32c45d6d6da1",
-        repo: "AIDrawingGuide",
-        owner: "luuman",
-        githubID: "luuman",
-        id: location["pathname"],
-        perPage: 20,
-        admin: ["luuman"],
-        title: location.hash.match(/#(.*?)([?]|$)/)[1],
-        id: location.hash.match(/#(.*?)([?]|$)/)[1],
-        distractionFreeMode: false
-      };
-      // var gitalk = new Gitalk({
-      //   clientID: '987eb43bc737bf99d17a',
-      //   clientSecret: 'ee57c838823856a7b152e09431156b4c56bf8617',
-      //   repo: 'AIDrawingGuide',
-      //   owner: 'luuman',
-      //   githubID: 'luuman',
-      //   id: location['pathname'],
-      //   perPage: 20,
-      //   admin: ['luuman'],
-      //   title: location.hash.match(/#(.*?)([?]|$)/)[1],
-      //   id: location.hash.match(/#(.*?)([?]|$)/)[1],
-      // })
-      // // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
-      // window.onhashchange = function(event){
-      //   if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
-      //     location.reload()
-      //   }
-      // }
-    </script>
-
-    <!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" /> -->
-
-    <!-- <div class="calendar">
-      Loading the data just for you.
-    </div> -->
-
-    <script>
-      // 地球仪
-      function containerInit() {
-        var container = document.getElementById("container");
-        var width = container.clientWidth;
-        var height = container.clientHeight;
-        var aspect = width / height;
-        var renderer = new THREE.WebGLRenderer();
-        renderer.setSize(width, height);
-        container.appendChild(renderer.domElement);
-        var scene = new THREE.Scene();
-        var camera = new THREE.PerspectiveCamera(50, aspect, 0.1, 1000);
-        camera.position.z = 500;
-        system = new THREE.Group();
-        scene.add(new THREE.AmbientLight(0xffffff, 0.2));
-        var light = new THREE.DirectionalLight(0xffffff, 2.5);
-        light.position.set(1500, 2500, 0);
-        scene.add(light);
-
-        var material = new THREE.MeshLambertMaterial({
-          color: 0x0c2d4d
-        });
-
-        var planet = new THREE.Mesh(
-          new THREE.IcosahedronGeometry(100, 3),
-          material
-        );
-
-        for (var i = 0; i < planet.geometry.vertices.length; i++)
-          planet.geometry.vertices[i].multiplyScalar(
-            Math.random() * 0.05 + 0.95
-          );
-
-        planet.geometry.computeFlatVertexNormals();
-        system.add(planet);
-
-        var asteroids = new THREE.Group();
-
-        for (var p = 0; p < Math.PI * 2; p = p + Math.random() * 0.15) {
-          var asteroid = new THREE.Mesh(
-            new THREE.IcosahedronGeometry(8, 0),
-            material
-          );
-
-          var size = Math.random() * 0.5;
-          for (var i = 0; i < asteroid.geometry.vertices.length; i++)
-            asteroid.geometry.vertices[i].multiplyScalar(
-              Math.random() * 0.5 + size
-            );
-
-          rand = Math.random() * 60 - 30;
-          asteroid.position.set(
-            200 * Math.sin(p) + rand,
-            rand,
-            200 * Math.cos(p) + rand
-          );
-
-          asteroid.geometry.computeFlatVertexNormals();
-          asteroids.add(asteroid);
-        }
-
-        system.add(asteroids);
-
-        system.rotation.x = 0.1;
-        system.rotation.y = -0.3;
-        system.rotation.z = -0.4;
-
-        scene.add(system);
-
-        for (i = 0; i < 10; i++) {
-          particles = new THREE.Points(
-            new THREE.Geometry(),
-            new THREE.PointsMaterial({
-              size: Math.random() * 5
-            })
-          );
-          for (j = 0; j < 20; j++) {
-            var vertex = new THREE.Vector3();
-            vertex.x = Math.random() * width * 1.1 - (width * 1.1) / 2;
-            vertex.y = Math.random() * height * 1.1 - (height * 1.1) / 2;
-            vertex.z = -500;
-            particles.geometry.vertices.push(vertex);
-            particles.material.color.setScalar(Math.random() * 0.4 + 0.2);
-          }
-          scene.add(particles);
-        }
-
-        function render() {
-          requestAnimationFrame(render);
-          planet.rotation.y += 0.001;
-          planet.rotation.z -= 0.0005;
-          asteroids.rotation.y += 0.003;
-          renderer.render(scene, camera);
-        }
-        render();
-      }
-    </script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>AIDrawingGuide</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <!-- <link rel="apple-touch-icon" sizes="57x57" href="./_media/icon/Icon-57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="./_media/icon/Icon-60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="./_media/icon/Icon-72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="./_media/icon/Icon-76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="./_media/icon/Icon-114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="./_media/icon/Icon-120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="./_media/icon/Icon-144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="./_media/icon/Icon-152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./_media/icon/Icon-180.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./_media/icon/Icon-192.png" />
+  <link rel="icon" type="image/png" sizes="96x96" href="./_media/icon/Icon-96.png" /> -->
+  <!-- <link rel="icon" type="image/png" sizes="32x32" href="./_media/icon/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="./_media/icon/favicon-16.png" />
+  <meta name="msapplication-TileImage" content="./_media/icon/Icon-144.png" />
+  <link rel="manifest" href="./_media/manifest.json" /> -->
+
+  <link rel="apple-touch-icon" sizes="180x180" href="./_media/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./_media/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./_media/favicon-16x16.png">
+  <link rel="manifest" href="./_media/site.webmanifest">
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+
+  <!-- Stylesheets -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple"> -->
+  <!-- <link rel="stylesheet" href="https://luuman.github.io/docsify-themeable/assets/css/main.css"> -->
+
+  <!-- Alternate Stylesheets -->
+  <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults"> -->
+  <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="Simple Dark"> -->
+
+  <!-- Test Stylesheets -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/buble.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dark.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/pure.css"> -->
+
+  <!-- darklight-theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    title="docsify-darklight-theme" type="text/css" />
+
+  <!-- sidebar -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
+  <link rel="stylesheet" href="./css/index.css" />
+</head>
+
+<body>
+  <div id="v4-pre-loaded">
+    <div class="loading"></div>
+  </div>
+  <a class="u-menu-btn" title="导航" onclick="toggleMenu()">
+    <span>&nbsp;</span>
+    <span>&nbsp;</span>
+    <span>&nbsp;</span>
+  </a>
+  <nav id="navgation">
+    <div class="nav-wrapper">
+      <ul class="nav">
+        <li>
+          <a onclick="toggleMenu()" href="/#/">首页</a>
+        </li>
+        <li>
+          <a onclick="toggleMenu()" href="/#/note/midjourney/">MidJourney</a>
+        </li>
+        <li>
+          <a onclick="toggleMenu()" href="/#/note/stableDiffusion/">StableDiffusion</a>
+        </li>
+        <li>
+          <a onclick="toggleMenu()" href="/#/note/Share/">交流区</a>
+        </li>
+      </ul>
+      <div class="logos">
+        <div id="docsify-darklight-theme"><p>.</p></div>
+        <span class="logo"></span>
+      </div>
+    </div>
+  </nav>
+  <div id="app"></div>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1/index.min.js"></script> -->
+
+  <script src="./js/docsify.js"></script>
+  <!-- three.min.js -->
+  <script src="./js/coverpage/three.min.js"></script>
+
+  <!-- docsify -->
+  <!-- <script src="https://luuman.github.io/docsify-themeable/assets/js/main.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+
+  <!-- lodash -->
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+  <!-- clipboard -->
+  <script src="https://clipboardjs.com/dist/clipboard.min.js" type="text/javascript"></script>
+
+  <!-- Production -->
+  <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
+
+  <!-- darklight-theme -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+
+  <!-- tabs -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+  <!-- docsify-select -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
+
+  <!-- 字数统计 -->
+  <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
+
+  <!-- 侧边栏折叠 -->
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+  <!-- 全文搜索 -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
+
+  <!-- copy-code -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
+
+  <!-- 图片缩放 -->
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script> -->
+
+  <!-- 代码高亮 -->
+  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-php.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
+
+  <!-- pagination -->
+  <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+
+  <!-- mermaid -->
+  <!-- <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
+  <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true, theme: "dark" });
+  </script> -->
+
+  <!-- CDN files for docsify-katex -->
+  <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/> -->
+  <!-- <script src="https://7.url.cn/edu/jslib/comb/require-2.1.6,jquery-1.9.1.min.js"></script> -->
+
+  <!-- docsify-mindmap -->
+  <!-- <script src="//unpkg.com/docsify-mindmap/dist/docsify-mindmap.min.js"></script> -->
+
+  <!-- docsify-accordion -->
+  <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css" />
+  <!-- <script src="//unpkg.com/docsify-accordion/src/index.js"></script> -->
+  <!-- <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css"> -->
+  <script src="./js/docsify-accordion.js"></script>
+
+  <!-- sidebar-collapse -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
+
+  <!-- Include the library. -->
+  <!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/> -->
+  <link rel="stylesheet" href="./css/calendar-responsive.css" />
+  <!-- <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script> -->
+  <script src="./js/github-calendar.min.js"></script>
+
+  <!-- nomnoml -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/graphre@0.1/dist/graphre.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/nomnoml@1.4/dist/nomnoml.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-nomnoml@1/dist/plugin.min.js"></script> -->
+
+  <!-- git评论 -->
+  <!-- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"> -->
+  <link rel="stylesheet" href="./css/gitalk.css" />
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="./js/talk/gitalkConfig.js"></script>
+
+  <!-- 地球仪 -->
+  <script src="./js/three/containerInit.js"></script>
+
+  <!-- git日历 -->
+  <!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" /> -->
+  <!-- <div class="calendar">Loading the data just for you.</div> -->
+  <!-- <script>
+    fetch("json/content.json")
+      .then((response) => response.json())
+      .then((data) => {
+        window.$docsify.content = data;
+      });
+  </script> -->
+
+  <!-- 广告位 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1/index.min.js"></script> -->
+</body>
+
 </html>
