@@ -24,7 +24,7 @@ CPU：无硬性要求，不是古董机一般都行
 
 - 如何查看显存大小：右键点击电脑最下方的任务栏，选择任务管理器，选择第二个性能选项卡，在最下方一般是显卡（GPU）的详细信息，单击后可以右侧看到显卡内存。
 
-![[20230416151901.png]]
+![](https://user-images.githubusercontent.com/10662852/233849645-14f4f0d9-717b-47c8-a27f-7eda40eccc5c.png)
 
 ### 2. Mac🍎
 
@@ -56,7 +56,7 @@ Windows 用户可以直接下载一键傻瓜版安装包
 
 - 提取码：c132
 
-  ![[20230416202749.png]]
+  ![](https://user-images.githubusercontent.com/10662852/233849658-9d397000-8344-4973-ab46-f330d0af0fb4.png)
 
 #### 2. 安装依赖
 
@@ -66,11 +66,11 @@ Windows 用户可以直接下载一键傻瓜版安装包
 
 先解压 sd-webui-aki-v4，接着找到“**A 启动器.exe**”文件运行即可。
 
-![[20230416203723.png]]
+![](https://user-images.githubusercontent.com/10662852/233849660-f0249e14-bf6c-4a6f-b24e-b29b37c6a372.png)
 
 看到以上的界面，就是封装好的傻瓜版 Stable diffusion 启动器，点击一键启动，软件会自动运行，并打开浏览器进入画图页面。
 
-![[20230416205045.png]]
+![](https://user-images.githubusercontent.com/10662852/233849662-83006557-beae-412a-b287-7df6e2580db9.png)
 
 ---
 
@@ -121,11 +121,11 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 这里以 stable diffusion 2.0 训练模型为例，到 Hugging face 里下载最基础的一个模型作为演示，跳转到该[模型网站](https://huggingface.co/stabilityai/stable-diffusion-2)。
 
 
-![[20230416200024.png]]
+![](https://user-images.githubusercontent.com/10662852/233849653-30c2f22f-6402-4bb7-8ec0-1e24c0b8f520.png)
 
 选择“Files and Versions”选项卡，并点击我们需要下载的测试基础模型，然后找到左上角的 download 点击并下载
 
-![[20230416195651.png]]
+![](https://user-images.githubusercontent.com/10662852/233849649-65afe0e3-4807-4c04-ac65-aefcd26e20f2.png)
 
 下载好后，把下载好的 ckpt 文件放在“你的用户名”> Stable-diffusion-webui>Models>Stable-diffusion 文件夹里，如:
 `/Users/richardlee/Stable-diffusion-webui>Models>Stable-diffusion/`
@@ -154,7 +154,7 @@ cd stable-diffusion-webui
 
 打开浏览器，输入**http://127.0.0.1:7860**即可进入 stable-diffusion 页面，整体的页面如图所示。
 
-![[20230416201029.png]]
+![](https://user-images.githubusercontent.com/10662852/233849655-f3a21cb8-54b3-40cd-882e-4247c15483af.png)
 
 ## 常见问题
 
