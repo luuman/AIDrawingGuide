@@ -1,0 +1,2739 @@
+[
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0397592fa9844bde8adc19eff3e2258f.png",
+    "url": "https://www.aiagc.com/aimages-ai/",
+    "name": "Aimages.ai",
+    "dec": "aimages.ai是一个在线AI视频放大和画质增强工具。可以让你用人工智能技术来提高视频的质量和分辨率。不需要安装任何软件，只要打开网页，上传视频即可进行快速处理。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c5b2357f6fc346d49231faaae958213b.png",
+    "url": "https://www.aiagc.com/deepmotion/",
+    "name": "Deepmotion",
+    "dec": "Deepmotion是一个提供AI动作捕捉和3D身体追踪的技术平台，它可以让你从视频中生成3D动画，用于游戏，增强/虚拟现实，运动分析等多种应用。特点是不需要特殊的硬件，摄像头或服装，只需要网络连接和一个浏览器。还可以让你上传自定义的角色模型，或者在网站上直接创建新的模型，并且可以预览和编辑动画效果。还有一个新的Rotoscope姿势编辑器，可以让你在视频上逐帧调整角色的动作，以提高动画的准确性。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_af480279f71b4fd99852b633685645f6.png",
+    "url": "https://www.aiagc.com/agentgpt/",
+    "name": "AgentGPT",
+    "dec": "AgentGPT是一个基于GPT-4的开源AI自动化机器人工具，可以让你在浏览器中配置和部署自主的 AI机器人。你可以给机器人设置一个名字和一个目标，然后点击部署按钮，就可以看到机器人进行的行为和输出，完全不需要人为干涉的进行自动任务。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_db12704d7f6d4ee19aa07a66f18980e7.png",
+    "url": "https://www.aiagc.com/auto-gpt/",
+    "name": "Auto-GPT",
+    "dec": "Auto-GPT是一个基于GPT-4的开源AI自动化机器人工具，结合了GPT-4语言模型的能力。可以访问互联网，具有长期/短期记忆，并且可以自主地实现你设定的任何目标，而无需人工提示每一步操作。 只要给它设定一个目标，比如建设一个网站。它就可以自动在网上研究信息，然后在没有提示的情况下朝着目标采取进一步的行动。 Auto-GPT还可以与其他AI模型结合，比如可以利用GPT、Whisper和DALL…",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c5888369b5ac4a5a8949d5f2b2ce6071.png",
+    "url": "https://www.aiagc.com/cascadeur/",
+    "name": "Cascadeur",
+    "dec": "Cascadeur是一基于人工智能技术的AI辅助动画制作软件，主要用于人形或其他角色的3D关键帧动画。借助其AI辅助工具，你可以快速制作关键姿势，立即看到物理结果并调整次要动作。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_cca333e6d8194e99b623831182d1e053.png",
+    "url": "https://www.aiagc.com/colourlab-ai/",
+    "name": "Colourlab.ai",
+    "dec": "colourlab.ai是一个基于AI人工智能技术的AI调色工具，可以帮助调色师快速、高效、精确地完成色彩校正、匹配和分级的工作。让调色师能够专注于创意和艺术，而不是技术细节。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a3b50b99627f4ec5b4223f648e21ff86.png",
+    "url": "https://www.aiagc.com/donotpay-ai/",
+    "name": "Donotpay AI",
+    "dec": "Donotpay AI是一个基于人工智能的AI律师服务工具，它可以通过聊天机器人的形式与你交流，了解你的问题和需求，然后为你提供相应的解决方案。可以帮你填写表格、发送信件、联系客服、申请赔偿等。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_159f1656a6c74f33952c22988d27a0c2.png",
+    "url": "https://www.aiagc.com/sloyd-ai/",
+    "name": "Sloyd.ai",
+    "dec": "Sloyd.ai是一个AI生成3D建模平台，可以快速生成3D模型。它有一个大型的生成器库，可以创建各种各样的物体，如家具、武器、乐器等。还有一个Sloyd Maker工具，可以让用户自己创建和修改生成器，实现更多的定制化和创意。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4aa5ad26016b4b9c9d12e00c66f67864.png",
+    "url": "https://www.aiagc.com/g3d-ai/",
+    "name": "G3D.AI",
+    "dec": "G3D.AI是一个利用生成式人工智能来创建游戏资源的平台。它可以帮助游戏开发者在更短的时间内制作出美观、新颖的游戏。提供了一系列的工具，每一个都旨在激发创造力和消除手动任务。你可以输入任何你想象的游戏场景，它会为你生成三维模型和纹理。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9257e832d6554c35b0b60b0903241d10.png",
+    "url": "https://www.aiagc.com/scenario-ai/",
+    "name": "Scenario AI",
+    "dec": "Scenario是一个使用AI人工智能生成游戏素材的平台。你可以用它快速而轻松地生成吸引人的内容，节省时间并激发创造力。Scenario提供了API、Discord机器人、Zapier工作流等工具，让你可以在不同的环境中使用它的功能。还可以根据你的风格和需求，为你的游戏创建高质量、风格一致、专有的素材。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7efafcad6c624b8a9e8df6116d2985fd.png",
+    "url": "https://www.aiagc.com/charisma-ai/",
+    "name": "Charisma.ai",
+    "dec": "charisma.ai是一个由人工智能驱动的角色故事讲述平台。它可以让你创建和体验虚拟的角色和世界，通过先进的机器学习技术实现自然的对话。你可以把你的 Charisma 项目轻松地连接到 Unreal Engine, Unity, 手机和元宇宙。而且，实时的分析可以让你获得及时的反馈和动态的故事情节。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_15981d92f6f54df29b25d95156787eac.png",
+    "url": "https://www.aiagc.com/promethean-ai/",
+    "name": "Promethean AI",
+    "dec": "Promethean AI是一款AI游戏辅助创造工具，可以在构建虚拟世界的过程中协助艺术家进行创作，通过提出建议来帮助创造性的问题解决，以及承担许多乏味和非创造性的工作，让你可以专注于重要的事情。它还可以从个人的品味中学习和适应。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6a8daf09a759444db34fa83ba6a004cc.png",
+    "url": "https://www.aiagc.com/mindgrasp-ai/",
+    "name": "Mindgrasp.ai",
+    "dec": "mindgrasp.ai是一个在线AI辅助学习平台，可以帮助你复习课程内容，提高学习效率。你可以上传课程视频或幻灯片，然后查看mindgrasp.ai为你生成的详细笔记，或者向AI助手提问。你甚至可以让mindgrasp.ai把笔记朗读出来，这样你就可以边走边学习。mindgrasp.ai还可以为你提供关于课程主题的问题或论文题目，帮助你检测自己的理解程度。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_df7a511228e745b7af08401709687ec9.png",
+    "url": "https://www.aiagc.com/curipod-ai/",
+    "name": "Curipod AI",
+    "dec": "Curipod AI是一个AI课程生成工具，可以使用人工智能来帮助老师快速和创造性地制定基于探究的课程。只需要输入你的年级和主题，它就会在几秒钟内生成一个可以直接使用的课程方案。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9423806561e24b6e94a0ce876437e5a7.png",
+    "url": "https://www.aiagc.com/scholarcy/",
+    "name": "Scholarcy",
+    "dec": "Scholarcy是一个基于AI的在线论文摘要总结工具，可以帮助你快速阅读和理解学术文献。它可以从任何文献中提取出关键信息，生成摘要卡片，包括背景、方法、结果、结论和参考文献等等。你可以使用Scholarcy的浏览器扩展程序（Chrome和Edge）来处理开放获取的文献，例如arXiv, biorXiv, 和 OSF Preprints。也可以订阅Scholarcy Library，这是一个每月付…",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a82cb3bf45eb4e1090bebe72b3e3a590.png",
+    "url": "https://www.aiagc.com/flowgpt/",
+    "name": "FlowGPT",
+    "dec": "flowgpt是一个分享AI工具相关Prompt提示词的社区网站，你可以在那里发现、分享和讨论不同的AI工具的生成提示。也可以浏览流行和有用的提示，以及获得个性化的推荐。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e09dcb5843004e1d9c32a3a8404a1b8a.png",
+    "url": "https://www.aiagc.com/teach-anything-com/",
+    "name": "Teach-Anything.com",
+    "dec": "teach-anything.com是一个基于GPT3.5的AI问答搜索网站，可以用几秒钟的时间教你任何事情。只需要输入你的问题，选择你的语言和难度，它就会生成一个答案来回答你的问题。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9242498bc8284520ab9b308b35bacc98.png",
+    "url": "https://www.aiagc.com/tutorai/",
+    "name": "TutorAI",
+    "dec": "tutorai.me是一个基于AI的在线学习平台，它可以让你学习任何你感兴趣的主题，比如物理、历史或者你自己的名字。只需要输入你想学习的内容，它就会为你生成一个互动教程，帮助你掌握知识点。你还可以创建自己的教程，或者分享给其他人。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1bcbb52dc7cb4817b73ee484b188ca57.png",
+    "url": "https://www.aiagc.com/paperbrain/",
+    "name": "PaperBrain",
+    "dec": "paperbrain是一个基于AI的论文研究工具，可以帮助你探索你的学习论文。你可以在这个网站上上传你的论文，然后查看它的摘要、关键词、引用和其他信息，还可以与其他用户分享和讨论你的论文。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7f0425707cb54213bae178f2417e8d28.png",
+    "url": "https://www.aiagc.com/opengpt/",
+    "name": "OpenGPT",
+    "dec": "open-gpt.app是一个AI应用制作平台，可以让你创建和运行各种基于ChatGPT的智能聊天应用。比如小红书爆款标题生成器、好评返现神器、怼人助手、写诗神器等。你可以在网站上浏览、运行或创建这些应用，也可以分享给你的朋友进行使用。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c39e5c9ec67047aca6a0a4e19f675c7e.png",
+    "url": "https://www.aiagc.com/generated-photos/",
+    "name": "Generated.photos",
+    "dec": "Generated.photos是一个AI生成人像素材图片平台，通过使用人工智能系统从头开始创建照片。所有的图片都可以用于任何目的，不用担心版权、分发权、侵权索赔或版税问题。并且可以通过在分类和标记的数据库上使用过滤器，快速找到你想要的头像。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7570f3db40cc490e82635821f0a00d05.png",
+    "url": "https://www.aiagc.com/kili-so/",
+    "name": "Kili.so",
+    "dec": "kili.so是一个AI人工智能助手工具，可以回答关于你的产品或服务的问题。通过使用人工智能来理解你的内容，并根据你提供的来源回答问题。可以用于产品指导、客户支持、商业咨询和文档改进等方面的任务。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9f8481a65588413a8238b8a1fa85e79b.png",
+    "url": "https://www.aiagc.com/nanonets/",
+    "name": "Nanonets",
+    "dec": "nanonets是一个AI智能文档处理工具，通过使用人工智能来学习和捕获每个新文档中的数据。可以帮助你的业务增长，提高文档处理的准确性和效率。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e7b938b8f6bd46c48c87020d7775ac5a.png",
+    "url": "https://www.aiagc.com/myaskai/",
+    "name": "MyAskAI",
+    "dec": "myaskai是一个基于ChatGPT的聊天机器人构建工具，让你可以用自己的内容创建专属的聊天机器人。你可以上传链接和文档，然后自定义你的机器人的外观和回答方式。还可以把你的机器人嵌入到你的网站上，或者分享一个公开的链接让其他人也可以进行访问。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_020f7643998247f29906eb5ed40403e4.png",
+    "url": "https://www.aiagc.com/kinetix/",
+    "name": "Kinetix",
+    "dec": "kinetix.tech是一个使用AI人工智能将视频转换成3D动画的平台。你可以从它的库中混合和匹配动画，也可以轻松地创建表情NFTs。其提供了一个无缝的创作流程，只需要几个步骤就可以完成。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_af8ddd81db57426fac5f95f22f3c6c9d.png",
+    "url": "https://www.aiagc.com/askviable/",
+    "name": "Askviable",
+    "dec": "askviable是一个基于AI人工智能的客户数据分析管理平台，可以帮助你深入了解你的受众，并根据你的实际行动跟踪每周的变化。使用洞察力来提高NPS，减少支持工单数量，优化产品上市时间，并通过自动化反馈分析节省运营成本。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_314927817941489db525839821b430d6.png",
+    "url": "https://www.aiagc.com/avanty-app/",
+    "name": "Avanty.app",
+    "dec": "avanty.app是一个专门为使用Metabase的数据分析师设计的AI助手。Metabase是一个开源的数据分析和可视化平台，可以连接不同的数据源，生成报表和图表。Avanty则可以帮助数据分析师在Metabase中通过自然语言快速生成、编辑和理解SQL查询。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_49f7bb8fb01a4a9e8ab162eb2dbd079b.png",
+    "url": "https://www.aiagc.com/genei-ai/",
+    "name": "Genei AI",
+    "dec": "genei是一个基于人工智能的摘要总结和研究工具，可以自动对PDF或网页进行摘要和关键词提取，还可以根据用户的问题从文档中找到答案。生成高质量的笔记和段落，以及引用和参考文献。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_274ad4b7c94a4e399673810666997a8f.png",
+    "url": "https://www.aiagc.com/resoomer/",
+    "name": "Resoomer",
+    "dec": "Resoomer是一个基于AI的在线文本摘要总结工具，可以帮助你快速提取文本的主要思想。你可以使用Resoomer来总结和分析你的论文、文章、科学文本、历史文本或艺术作品的结构化分析。也可以使用Resoomer的浏览器扩展来一键总结你在网上阅读的文章。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3fd7400e3a4943dbb95e3803e114461f.png",
+    "url": "https://www.aiagc.com/gimme-summary-ai/",
+    "name": "Gimme Summary AI",
+    "dec": "Gimme Summary AI是一个免费的Chrome扩展，通过使用ChatGPT AI来对网页上的文章进行摘要总结。可以在任何网站上进行使用，只需点击扩展图标，然后点击“生成摘要”按钮。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_82790b265d184a3aa2ed744e99d7f256.png",
+    "url": "https://www.aiagc.com/harpa-ai/",
+    "name": "Harpa.ai",
+    "dec": "HARPA AI是一个人工智能驱动的无代码RPA流程自动化工具，可以自动完成各种任务，有以下几个主要功能： ChatGPT Web Assistant：可以在任何网站上按 Alt + A 呼出 HARPA AI，然后使用 ChatGPT 与人工智能交流，获取搜索结果、摘要网页、提取数据。 Web and Price Monitoring：可以监控网页上的价格和库存变化，以及竞争对手网站、文章的更新…",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_39d14f50211c488883e941892899e3c0.png",
+    "url": "https://www.aiagc.com/copyleaks/",
+    "name": "Copyleaks",
+    "dec": "Copyleaks是一个基于人工智能的抄袭内容检测工具，可以帮助创建和保护原创内容。有三个主要的产品：人工智能内容检测器，抄袭检测器和人工智能评分器。 人工智能内容检测器是了解内容是由人编写还是由 AI 生成的企业解决方案，包括 ChatGPT4检测。可以帮助识别和防止 AI 生成的内容对品牌、学术或法律文件造成的潜在风险。 抄袭检测器是一个屡获殊荣的工具，可以帮助识别潜在的抄袭、检测 AI 生成…",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3dd1a72c77b642f78d91a3f78287cbea.png",
+    "url": "https://www.aiagc.com/wordtune-read/",
+    "name": "Wordtune Read",
+    "dec": "Wordtune Read是一个AI阅读和摘要工具，能够帮助你快速理解长篇文档的要点。你可以选择不同的文档类型，如学术文章、商业报告、杂志文章、博客文章、新闻等，然后让Wordtune Read为你生成一个简洁的摘要。还可以使用Spotlight功能，让Wordtune Read从不同的角度或关键词来总结文本内容。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c08837973d884755921f481c646aa2b5.png",
+    "url": "https://www.aiagc.com/adept-ai/",
+    "name": "Adept.ai",
+    "dec": "adept.ai是一个机器学习研究和AI产品实验室，致力于通过让人类和计算机创造性地合作来构建通用智能。并且正在开发一个可以与你的电脑上的任何软件、网站或 API 交互的机器学习模型。只需要用自然语言输入你的目标，Adept 就可以帮你在常用的软件上执行相应的操作。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b15fbd999b1b42e98c4e63281e04c609.png",
+    "url": "https://www.aiagc.com/eleutherai-gpt-neox-20b/",
+    "name": "EleutherAI GPT-NeoX-20B",
+    "dec": "GPT-NeoX-20B是一个由 EleutherAI 开发的 200 亿参数的开源自回归大语言模型。使用 GPT-NeoX 库在 Pile 数据集上进行了训练。它的架构和 GPT-3 类似，几乎和 GPT-J-6B 相同。训练数据集包含了多种英语文本，使模型有较高的通用性。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_52c112c3d6a14ca0a721076525295622.png",
+    "url": "https://www.aiagc.com/mem-ai/",
+    "name": "Mem.ai",
+    "dec": "mem.ai是一个由基于AI开发的知识管理笔记工具。可以利用人工智能来帮助团队组织工作，从会议记录、项目到知识库，都可以快速搜索和轻松发现。还有一个扩展功能叫Mem X，可以利用自然语言处理来理解你输入的内容，并提供相关的建议和链接。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8953adad3b134bfc8ec0f2205cad9d81.png",
+    "url": "https://www.aiagc.com/meta-ai-sam%e6%a8%a1%e5%9e%8b/",
+    "name": "Meta AI SAM模型",
+    "dec": "Segment Anything Model (SAM)是一个由Meta AI开发的图像分割AI模型。包括一个高效的模型和一个庞大的数据集，可以对任何图像进行零样本的分割抠图。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_13ca74b5b33f46e38acfd29f9cb5e6d3.png",
+    "url": "https://www.aiagc.com/rodin-diffusion/",
+    "name": "RODIN Diffusion",
+    "dec": "RODIN Diffusion是微软亚洲研究院推出的3D头像建模生成扩散模型。RODIN模型可以利用一张图片或一句文字描述，快速生成 3D 数字化身，为 3D 内容创作提供了新的可能。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_25f89898984f453f9287f948a9f17616.png",
+    "url": "https://www.aiagc.com/solidpoint-ai/",
+    "name": "Solidpoint.ai",
+    "dec": "solidpoint.ai是一个基于AI的YOUTUBE视频关键内容总结工具，通过AI快速地将长视频压缩成简洁而有信息量的摘要帮助你节省时间。只需输入视频链接，就可以提取关键的想法，并专注于最重要的要点。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_916cded9267e4cc5b40b7f6847d2f333.png",
+    "url": "https://www.aiagc.com/researchgpt/",
+    "name": "ResearchGPT",
+    "dec": "ResearchGPT是一个基于ChatGPT的开源AI研究助理，可以与AI就一篇研究论文进行对话。你可以输入一个在线pdf文件的链接，或者上传自己的pdf。AI将从pdf中提取文本并生成对你提出的问题的回答。还会返回用来生成回答的文本部分的来源和页码。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9c288cbe1e7d4c13960f84d6fcd4b8e5.png",
+    "url": "https://www.aiagc.com/galactica-ai/",
+    "name": "Galactica AI",
+    "dec": "GALACTICA是META推出的一个通用科学人工智能语言模型，可以组合和推理科学研究论文知识。也可以用来回答自然语言提出的科学问题。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_70d9e5b3054f4ae8a4fe32b36c4fae1a.png",
+    "url": "https://www.aiagc.com/summate-it/",
+    "name": "Summate.it",
+    "dec": "Summate.it是一个使用 OpenAI 快速总结网页文章的AI工具。它的工作原理是提取文章的全文，并使用 OpenAI 来对其进行重点摘要。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b57a2d84038a4354a41b4ed8c156f4fe.png",
+    "url": "https://www.aiagc.com/iris-ai/",
+    "name": "Iris.ai",
+    "dec": "Iris.ai是一个AI人工智能辅助科研工具，可以根据研究问题或摘要，智能搜索和过滤相关的文献论文，分析阅读列表，自动生成摘要，提取和系统化数据。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d3cee80449bd4c96bfc0acc6ae483236.png",
+    "url": "https://www.aiagc.com/researchrabbit-ai/",
+    "name": "Researchrabbit.ai",
+    "dec": "ResearchRabbit是一个帮助研究人员发现、跟踪和分享学术论文的平台。可以根据你的兴趣和收藏提供个性化的推荐和摘要，并且可以让你可视化论文和作者之间的网络关系。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3042018dc735458897a426ff1b5ed0d5.png",
+    "url": "https://www.aiagc.com/elicit-org-ai/",
+    "name": "Elicit.org AI",
+    "dec": "Elicit是一个AI研究助理，通过使用人工智能语言模型来帮助自动化研究工作。Elicit可以找到与你的问题相关的论文，即使没有完美的关键词匹配，也可以从论文中总结出针对你的问题的要点，并从论文中提取关键信息。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3ff3917c48b4413cbdd1672f65d994eb.png",
+    "url": "https://www.aiagc.com/socratic-ai-by-google/",
+    "name": "Socratic AI by Google",
+    "dec": "Socratic是一个由Google开发的AI教育软件，可以帮助学习各种科目，如科学、数学、文学、社会学等。通过利用文本和语音识别技术，为用户提供最相关的学习资源。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1c5c1b3909ce463d80206caa097efe3a.png",
+    "url": "https://www.aiagc.com/scispace-by-typeset-io/",
+    "name": "SciSpace by Typeset.io",
+    "dec": "SciSpace by Typeset.io是一个AI人工智能研究助理，可以帮助你快速阅读和理解科学论文，提供简单的解释和答案。还可以让你在不指定关键词的情况下搜索和找到相关的论文。可以直接上传 PDF 文件，或者使用提供的45000+来自顶级出版商的模板来写作，格式化和下载你的研究论文。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e1e2106471214a9e94c9f7b7668ab64b.png",
+    "url": "https://www.aiagc.com/chatpaper-org/",
+    "name": "Chatpaper.org",
+    "dec": "ChatPaper是一个可以利用 ChatGPT 对论文进行总结的AI工具。可以根据用户输入的关键词，自动下载最新的论文，并生成固定格式的总结，帮助用户快速筛选和阅读论文。还可以对本地的 PDF 文档进行总结，或者利用其他功能对论文进行润色、审稿、审稿回复等。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a5cb22b2fcf2443f8119623af61a955b.png",
+    "url": "https://www.aiagc.com/rewind-ai-app/",
+    "name": "Rewind.ai APP",
+    "dec": "Rewind是一个基于AI人工智能的文件搜索软件。可以记录你看过、说过或听过的任何东西，并让你可以进行及时搜索。帮助你提高记忆和效率。 Rewind会在你的Mac电脑上本地存储所有的录音数据，保护你的隐私，不会将数据发送到云端。还可以利用压缩和语音识别技术，减少存储空间和提高搜索速度。 Rewind还可以利用 ChatGPT 为你提供智能问答服务，让你可以用自然语言查询你的录音数据。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0e2166d0130b44bba9e58b6a19471992.png",
+    "url": "https://www.aiagc.com/andisearch/",
+    "name": "Andisearch",
+    "dec": "Andisearch是一个基于人工智能的搜索聊天机器人，可以用自然语言回答用户的问题，而不仅仅是提供链接。主要使用了一种新型的搜索引擎，结合了生成式 AI、实时数据和语义搜索技术，可以提供更准确、无广告和注重隐私的搜索结果。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_169d15a82bd64e309d0a10e0d43dd42e.png",
+    "url": "https://www.aiagc.com/everypixel/",
+    "name": "Everypixel",
+    "dec": "everypixel是一个基于人工智能的图片搜索引擎。可以搜索超过 50 个图片来源的优质的授权图库版权素材图片，还可以使用免费图案功能，找到适合自己需求的可定制无缝图案。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_739ef949b94847889d841cf3076117b5.png",
+    "url": "https://www.aiagc.com/chatgpt-for-search-engines/",
+    "name": "ChatGPT For Search Engines",
+    "dec": "Chatonai.org是一个基于 OpenAI 的 ChatGPT 模型的浏览器扩展工具，可以在搜索引擎上直接看到 ChatGPT 的回答。此外还提供了一些 ChatGPT 的应用示例，如程序员支持、文本摘要、情感分析等。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_bb79d41e4d964926a286068619fae221.png",
+    "url": "https://www.aiagc.com/consensus-app-ai/",
+    "name": "Consensus.app AI",
+    "dec": "Consensus是一个AI搜索引擎，通过使用人工智能从科学研究中总结和提炼结论。可以通过提出问题来搜索，Consensus会为你展示来自同行评审的研究论文中的证据。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1ee1ba1ccee54fc6bc23b8f3d408de16.png",
+    "url": "https://www.aiagc.com/hotpot-ai/",
+    "name": "Hotpot.ai",
+    "dec": "Hotpot.ai是一个AI人工智能绘画与内容创作工具。你可以用Hotpot.ai来生成艺术图片、插画、图标、海报、社交媒体帖子、营销图片等内容。也可以用Hotpot.ai来修复、增强、编辑你的图片，例如去除背景、去除物体、上色老照片、恢复损坏的图片等等。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6df3bba8f706413fb67c10ffae1eb4bb.png",
+    "url": "https://www.aiagc.com/bearly-ai/",
+    "name": "Bearly.ai",
+    "dec": "Bearly是一个AI人工智能内容创作工具。你可以用Bearly来阅读、写作、创作，提高你的效率。包括使用Bearly来生成网页的摘要、标题、关键点，也可以用Bearly来生成创意内容、艺术图片、文案编辑等。帮助你克服写作障碍，激发你的灵感。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5a15e27ae859431a9f97447ba67cc0fd.png",
+    "url": "https://www.aiagc.com/eightify/",
+    "name": "Eightify",
+    "dec": "Eightify是一个使用AI为YouTube视频生成摘要的工具。只需安装Chrome扩展，就可以在任何YouTube视频页面上点击“摘要”按钮，即可得到一个包含8个关键点的文本摘要。帮助你节省时间，快速了解视频的主要内容。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_87a358b30aa14d01b6da942ec882435e.png",
+    "url": "https://www.aiagc.com/explainpaper-ai/",
+    "name": "Explainpaper AI",
+    "dec": "Explainpaper是一个基于AI的论文研究工具。通过使用先进的AI人工智能技术让你快速理解研究论文。你可以上传一篇论文，高亮你觉得不太理解的文本段落，然后AI会对内容进行详细的解释。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_66a04643a49b492e93076203ff8340ca.png",
+    "url": "https://www.aiagc.com/copymonkey/",
+    "name": "CopyMonkey",
+    "dec": "CopyMonkey是一个基于AI的亚马逊产品列表优化工具，可以帮助卖家在几秒钟内生成包含关键词的产品标题、卖点和描述。通过使用AI算法来生成产品内容，并使用竞品分析来应用相关和潜在的关键词。还可以帮助卖家持续地优化他们的产品列表，根据销售结果和最佳实践来提出改进建议。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c1be44c75a344718a4d5dd3b2bdcbb36.png",
+    "url": "https://www.aiagc.com/watermark-remover/",
+    "name": "Watermark Remover",
+    "dec": "watermarkremover是一个AI去水印工具，可以帮助你从照片中删除任何类型的水印，无论是文字、日期、标志等，而且不影响图片的质量。只需要上传你的照片或输入URL，就可以自动预测并删除水印区域。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4a87207a83cf40e18dd7cfa85160475c.png",
+    "url": "https://www.aiagc.com/chefgpt/",
+    "name": "ChefGPT",
+    "dec": "ChefGPT是一个使用人工智能为你提供个性化菜谱生成的工具，它可以根据你的口味、食材、营养目标和饮食偏好，为你推荐和生成美味的食谱。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9e2d7327e6f7497eae2f77f1cc2da788.png",
+    "url": "https://www.aiagc.com/ai-content-detector/",
+    "name": "Ai Content Detector",
+    "dec": "Ai Content Detector是一款AI内容检测工具。经过数十亿数据训练，可以检测内容是AI生成的还是人为撰写的。只需在页面粘贴或输入文本内容，即可在几秒钟内使用AI内容检测器检测其中是否有任何内容是由chatgpt或者类似AI编写的。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6b0d871e88f044028888410565c87e52.png",
+    "url": "https://www.aiagc.com/namelix/",
+    "name": "Namelix",
+    "dec": "Namelix是一个免费的AI公司名称生成器，可以根据你的业务想法生成简短而有品牌感的名称，让你找到一个独特、易记和实惠的品牌名称。Namelix会使用先进的AI模型来创建与你输入的关键词相关的名称，你可以根据自己的喜好过滤和保存结果。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c0c00bca6251412494a54c4208098aa6.png",
+    "url": "https://www.aiagc.com/vondy/",
+    "name": "Vondy",
+    "dec": "Vondy是一个AI工具合集网站，提供了各种基于人工智能的应用程序，可以帮助你提高你的写作、学习、创造和生产力。你可以在Vondy上找到一些有趣和有用的工具，比如写文章、写笑话、写报告、写演讲、写故事、写广告等等。Vondy的目标是让人工智能变得更加简单、易用和有趣，让你可以轻松地利用人工智能的力量来实现你的目标。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8451c1541c3d4059afd5a9276aa6de57.png",
+    "url": "https://www.aiagc.com/supermeme-ai/",
+    "name": "Supermeme.AI",
+    "dec": "Supermeme.ai是一个利用AI生成表情包的网站，可以通过输入文本，选择主题或者上传图片来创建有趣的表情包。AI会使用OpenAI的GPT-3和自己精心挑选的图片来生成表情包的文字和匹配合适的模板。可以帮助你在社交媒体，营销，教育等领域使用表情包来吸引注意力和传达信息。支持110多种语言，可以用任何语言来生成表情包。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e0f22dacec244860870c8fcbd994e06c.png",
+    "url": "https://www.aiagc.com/chatbase-co/",
+    "name": "Chatbase.co",
+    "dec": "Chatbase.co是一个AI聊天机器人构建器，它可以在你的数据上训练ChatGPT，并让你在自己的网站上添加一个聊天小部件。只要上传一个PDF或者添加一个链接到你的网站，就可以得到一个能够回答任何关于你的网站相关问题的AI智能客服聊天机器人。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c99f98ce39bd4546a1447094ca2aafc4.png",
+    "url": "https://www.aiagc.com/pfpmaker/",
+    "name": "pfpmaker",
+    "dec": "pfpmaker是一个免费的在线头像制作网站，可以帮助你创建一个漂亮的个人资料头像和一个匹配的背景封面。只需上传你的照片或自定义图片，网站会使用人工智能自动去除任何复杂的背景，在几秒钟内得到数十个精美的头像设计，并使用编辑工具来调整大小、位置、颜色和阴影。适合用于社交媒体、聊天软件、电子邮件或简历等场合，提升你的形象和吸引力。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2baa88f3728d48f185b4832dc08a9cf4.png",
+    "url": "https://www.aiagc.com/publicprompts-art/",
+    "name": "Publicprompts.art",
+    "dec": "Publicprompts.art是一个AI绘画提示词分享平台，让你可以使用AI图像生成器来创建和生成艺术作品和头像。还有一个模型库，包含了多个经过微调的模型，如DreamBooth、Flexible Diffusion、Synthwave。你可以在网站上浏览不同的提示创建的图片，复制提示词就可以通过AI绘画工具自己生成类似的图像。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_481cb6e1ab9d441ab10a0071d39a24c7.png",
+    "url": "https://www.aiagc.com/promptomania/",
+    "name": "PromptoMANIA",
+    "dec": "PromptoMANIA是一个AI绘画提示词生成器工具，可以帮助用户创建高质量的AI图片。promptoMANIA支持多种扩散模型，如CF Spark, Midjourney, Stable Diffusion, DALL-E 2, Disco Diffusion, WOMBO Dream等，用户可以根据自己的喜好和需求选择不同的模型。promptoMANIA还提供了网格分割器，可以将扩散模型生成…",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0b84556fb4574064b3579f21a4e610e5.png",
+    "url": "https://www.aiagc.com/neeva-ai/",
+    "name": "Neeva AI",
+    "dec": "NeevaAI是一款基于AI技术的新型智能搜索引擎，结合了最先进的大型语言模型（LLM）和独立的搜索技术，为用户提供了一个独特而变革性的搜索体验。NeevaAI不仅能够快速地返回相关和及时的网页结果，还能够利用AI技术对最佳答案进行总结和引用，让用户一目了然地获取可信和权威的信息。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_41ba491325b5413997da516297ca24fc.png",
+    "url": "https://www.aiagc.com/yoo-ai-cloud/",
+    "name": "轻云图",
+    "dec": "轻云图是必优科技开发的一款轻量化3D文字词云图在线生成工具。输入文段即可一键AI认知解析关键词，轻松生成批量可视化云图，支持2D、3D切换效果切换，轻松导出图片及视频格式。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8001d3d5573644848e3440076ec59658.png",
+    "url": "https://www.aiagc.com/promptbase/",
+    "name": "PromptBase",
+    "dec": "PromptBase是一个在线AI模型Prompt提示出售交易平台。专门为DALL·E、Midjourney、Stable Diffusion和ChatGPT等人工智能模型提供优质prompt。旨在为prompt工程师和prompt使用者提供一个便捷、高效、有价值的平台，让他们可以轻松地买卖、分享、发现各种优质的prompt。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_871d16f4d23e45b2910a13718b02cab6.png",
+    "url": "https://www.aiagc.com/prompthero/",
+    "name": "PromptHero",
+    "dec": "PromptHero是一个生成式AI人工智能Prompt提示学习共享网站。专门为生成式人工智能（Generative AI）提供搜索提示（Prompt），它可以帮助用户使用不同的AI模型来创造出惊人的图像、文本和音乐。PromptHero的目标是让每个人都能轻松地掌握生成式AI的技巧，发挥自己的创造力，享受AI艺术的乐趣。",
+    "type": "ai-tool"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9c6030720c004503a17b1c7bf2dec459.png",
+    "url": "https://www.aiagc.com/crypko-ai/",
+    "name": "Crypko.ai",
+    "dec": "crypko.ai是一款基于AI的动漫角色生成工具。利用 GAN (生成对抗网络) 技术，Crypko能够自动生成高质量的动漫立绘。通过学习图像的特征，模型可以在万千立绘的无尽空间中自由而连贯地进行变换。不需要绘画基础，用户即可修改角色的设计，添加自然的动画。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4a3e33f68fc84e5c811c8ce4c4f269ff.png",
+    "url": "https://www.aiagc.com/mobvoi-paint/",
+    "name": "言之画",
+    "dec": "言之画是出门问问推出的AI绘画平台。支持二次元、蒸汽朋克、插画等 8 种创作风格。用户只需输入文字，「言之画」就能一次性生成 8 张光影逼真、细节丰富的 2K 高分辨率图像。 除了以文生图，它还拥有以图生图、动图生成、个性头像生成等 AI 绘图能力，极大丰富了用户的创作手段。对于企业用户，「言之画」还支持专属模型定制，让企业用户能够根据自身需要自定义模型风格，并且支持多人协作生产，更好地满足企业的…",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0f25d014353a427daf4b2c8bf809e61e.png",
+    "url": "https://www.aiagc.com/cutout-pro-ai-art-generator/",
+    "name": "Cutout.Pro AI Art Generator",
+    "dec": "AI Art Generator是cutout.pro推出一款在线AI绘画工具。为用户提供了一种全新的方法来创建个性化的 AI 生成艺术。不仅可以帮助用户生成可在 cutout.pro 上的进行编辑的照片，还可以利用AI功能创建艺术图片。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2ff6f8a68a764115afa9f4743a15351a.png",
+    "url": "https://www.aiagc.com/neural-love/",
+    "name": "neural.love",
+    "dec": "neural.love是一个基于人工智能的AI绘画和图像增强工具。可以让你用简单的文字或图片来创造出精美的图像，或者用最先进的神经网络来提高你的音频或图片的质量。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_354a7098318d4c699ab193a656616f6a.png",
+    "url": "https://www.aiagc.com/deep-dream-generator/",
+    "name": "Deep Dream Generator",
+    "dec": "deepdreamgenerator是一个AI绘画生成社区平台，可以让你使用人工智能技术创造独一无二的图片作品。你可以上传你自己的图片，或者使用文本来描述你想要的场景，然后选择不同的风格和参数来生成图像。也可以浏览平台上其他用户生成的作品，给他们点赞或评论。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_14863a2e92f94ff59c751a66e7935954.png",
+    "url": "https://www.aiagc.com/artbreeder/",
+    "name": "Artbreeder",
+    "dec": "artbreeder是一个AI绘画图片生成网站，可以让你用人工智能创造和探索各种图像，比如肖像、风景、建筑、绘画、科幻、动物、动漫等。你可以用标签、基因和图像来搜索和过滤你感兴趣的类别，也可以用你自己的图像或其他人的图像来生成新的图片。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5bf5378e8abc432c9fd930ece5246ad7.png",
+    "url": "https://www.aiagc.com/playground-ai/",
+    "name": "Playground AI",
+    "dec": "playgroundai是一个免费的在线AI绘画艺术图像生成器工具。只需通过简单的文本提示就可以创作图片。你可以用它来创造艺术作品，社交媒体帖子，演示文稿，海报，logo等内容。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_69c407e0f7724c4aac87882c576f3434.png",
+    "url": "https://www.aiagc.com/zmo-ai-imgcreator/",
+    "name": "ZMO.AI ImgCreator",
+    "dec": "zmo.ai ImgCreator是一个人工智能AI绘画图片生成器工具，可以让你用文字或图片来创造艺术、图像、动漫、真实照片等。号称是最容易使用的人工智能绘画生成器，不需要你有专业的提示技巧。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_44fb924ca3744b6b88a64cf8b168dbe5.png",
+    "url": "https://www.aiagc.com/deepai-org/",
+    "name": "DeepAI.org",
+    "dec": "deepai.org是一个提供AI绘画等一系列AI工具的网站。通过其提供在线AI绘画工具，你可以输入一个文本提示，选择一个艺术风格，然后AI就会把你的想法变成精美的图片。另外网站还提供AI图片编辑，AI黑白照片上色等工具。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4b9db658f57b43668a6236106492be6a.png",
+    "url": "https://www.aiagc.com/vanceai-art-generator/",
+    "name": "VanceAI Art Generator",
+    "dec": "VanceAI Art Generator是一个AI绘画图片生成器工具，可以通过简单的文本提示创建精美的图像。只需点击几下，图像生成器就会自动生成艺术图像，还可以模仿艺术家风格，增添艺术氛围。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f7f8aa30355842458b9bcef03e411d70.png",
+    "url": "https://www.aiagc.com/nuwa/",
+    "name": "NUWA",
+    "dec": "NUWA是微软亚洲研究院推出的AI绘画多模态生成模型。可以从用户给定的文本、图像或视频输入中生成高质量的图像和视频，帮助用户完成文字生成图片，图片自动补全，图片转视频等智能创作服务。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2fd24968a0e94149b38cb56a98f83aa8.png",
+    "url": "https://www.aiagc.com/deviantart-dreamup/",
+    "name": "DeviantArt DreamUp",
+    "dec": "DreamUp是知名艺术家交流社区DeviantArt推出的AI绘画工具。可以根据文字提示生成精美的艺术图片，通过使用人工智能技术，让你可以实现你的任何想象。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_bf52a09ed98a4e56b9f073b2fb4f373f.png",
+    "url": "https://www.aiagc.com/stablediffusionweb-controlnet/",
+    "name": "Stablediffusionweb Controlnet",
+    "dec": "Stablediffusionweb Controlnet是一个在线AI绘画工具，提供网页版的AI绘画控制工具ControlNet。可以通过添加额外的条件，来控制 Stable Diffusion 模型的生成结果。还可以使用 Scribble Interactive Segmentation 功能，通过涂鸦的方式，告诉模型哪些区域需要改变或保持。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_959f9d1517bb4073859308f0aa7f2fc7.png",
+    "url": "https://www.aiagc.com/stablediffusionweb/",
+    "name": "Stablediffusionweb",
+    "dec": "Stablediffusionweb是一个在线AI绘画工具，主要基于开源AI绘画模型Stable Diffusion。可以根据任何文本输入，生成逼真的图片，让用户可以自由地创造精美的图像，还可以使用 Prompt Database 功能，搜索超过 900 万个 Stable Diffusion 的文本提示，找到更好的创意。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_67fbd9f9bb2043a795cff2e238c82604.png",
+    "url": "https://www.aiagc.com/rightbrain-art-vega-ai/",
+    "name": "RightBrain.art Vega AI",
+    "dec": "rightbrain.art是一个AI绘画艺术图片生成平台。只需输入文本提示或者上传参考图片，然后选择不同的风格模型，就可以生成任何你想要的图片。支持在线快速训练，自由定制。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_90dcc56621464176a706c69298100ae6.png",
+    "url": "https://www.aiagc.com/flagstudio/",
+    "name": "Flagstudio",
+    "dec": "Flagstudio是一个AI绘画艺术图片生成工具，由BAAI旗下的创新应用实验室和FlagAI团队开发。你可以在网站上输入一句话，就能生成一幅画，成为AI绘画艺术家。支持中英文双语的文图生成，旨在为大家提供先进的AI艺术创作体验。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9a2df22f74b5482d801a98d23356d6f1.png",
+    "url": "https://www.aiagc.com/vana-portrait/",
+    "name": "Vana Portrait",
+    "dec": "Vana Portrait是一款AI绘画头像生成工具，你可以训练自己的AI模型来创建一系列的个人头像艺术图片。可以使用不同的风格、颜色和文本来定制你的人像。还可以使用 Vana Studio 来进行AI模型的修改与自定义。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_bc093330793a491f99fe480c42eab404.png",
+    "url": "https://www.aiagc.com/scribblediffusion/",
+    "name": "Scribblediffusion",
+    "dec": "Scribble Diffusion是一个在线AI绘画工具，通过使用ControlNet的AI技术将粗略的草图转换为精致的图像，并且生成的每一张图像都是不同的因此没有版权困扰，你可以在这个网站上上传你的草图并生成一个更加精美的图片。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c4a2fe4fa9284a6c836684b89be0ad0a.png",
+    "url": "https://www.aiagc.com/diffusionbee/",
+    "name": "DiffusionBee",
+    "dec": "DiffusionBee是一款在Mac电脑本地离线部署Stable Diffusion生成AI绘画的应用软件。可以用DiffusionBee来根据文本提示生成图片，或者修改已有的图片。也可以用DiffusionBee来添加或删除图片中的物体，改变图片的风格，或者扩展图片的边缘。帮助你解锁你的想象力，在几秒钟内生成惊人的艺术作品。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ced373e99c4748b3b4e1b7a477be6884.png",
+    "url": "https://www.aiagc.com/astria-ai/",
+    "name": "Astria.ai",
+    "dec": "astria.ai是一个AI绘画图像生成工具。你可以使用它来创建独特的图像，例如视频制作、产品展示或概念艺术。只需要输入一些描述性的文字，就可以得到高质量的图像。还可以通过 API 来调用它的功能。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f5005bbc38a747f8aabaa8c5c90eb7e8.png",
+    "url": "https://www.aiagc.com/stable-diffusion/",
+    "name": "Stable Diffusion",
+    "dec": "Stable Diffusion是一款开源的AI绘画图片生成模型。基于深度生成神经网络，可以根据任何文本输入生成逼真的图像。还可以通过扩散模型和文本编码器的组合，实现图像到图像，深度到图像，超分辨率等多种创造性的应用。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_737dbd3251fd48a1b73f1b7c7ece2b30.png",
+    "url": "https://www.aiagc.com/picwish-ai-image/",
+    "name": "佐糖AI绘画",
+    "dec": "佐糖AI绘画是一款在线AI绘画工具，你可以通过输入富有想象力和创造力的提示词汇，并搭配上适合的绘画风格，创作出一副精美绝伦的作品。仅需要输入文本，就可以快速生成设计概念和创作艺术图片。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a02392bddc2043ab8b3699aba20f4ff1.png",
+    "url": "https://www.aiagc.com/civitai/",
+    "name": "Civitai",
+    "dec": "Civitai是一个AI绘画图片生成模型资源下载平台。平台用户可以上传和共享他们使用自己的数据训练的AI生成自定义模型，或者浏览和下载其他用户创建的模型。然后可以使用模型通过AI绘画软件生成独特的艺术作品。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7479349732c44a30b3d3c4c6aee1c822.png",
+    "url": "https://www.aiagc.com/starryai/",
+    "name": "starryai",
+    "dec": "starryai是一个AI绘画艺术图片生成器工具应用，利用了最新的人工智能方法，让用户可以通过简单的文字输入来生成各种风格和主题的艺术作品。让艺术创作变得简单而有趣，每个人都可以成为AI艺术家。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_cc61bdce70f14261a857232ee562fa00.png",
+    "url": "https://www.aiagc.com/dream-by-wombo-ai/",
+    "name": "Dream by WOMBO AI",
+    "dec": "dream.ai是一款由WOMBO开发的AI绘画工具，可以根据输入的文本提示，自动生成高质量的艺术图片作品。你可以选择不同的风格、尺寸、精度等参数，来定制你想要的画面。也可以上传一张图片，让dream.ai在其基础上进行修改或补全。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_99dd3b3ae2364e859dda3ebbfa6c0652.png",
+    "url": "https://www.aiagc.com/stablecog/",
+    "name": "Stablecog",
+    "dec": "Stablecog是一个简单、免费、开源的AI绘画图像生成工具，使用了Stable Diffusion技术，可以根据用户输入的文字或图片生成各种风格和主题的图像。Stable Diffusion是一种基于深度学习的图像生成方法，可以逐步地从噪声中生成清晰和逼真的图像。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_43b2e8f5b8484067b9b6f76a4f89c175.png",
+    "url": "https://www.aiagc.com/dreamlike-ai/",
+    "name": "Dreamlike AI",
+    "dec": "dreamlike.art是一个在线AI绘画艺术图片创作平台，可以让用户在几秒钟内生成令人惊叹的原创艺术作品。只需要输入一个简单的文本或者上传一张图片，就可以利用dreamlike.art提供的多种风格和设置，创造出各种想象不到的效果。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f145980860954d8dbd421045920d0e45.png",
+    "url": "https://www.aiagc.com/craiyon-ai/",
+    "name": "Craiyon AI",
+    "dec": "Craiyon AI是一个在线AI绘画艺术图片生成器工具，可以根据用户输入的任意文本生成独一无二的视觉艺术作品。无论你是想要将你的文字变成生动的图片，还是寻找灵感，都可以让你轻松地创建美丽和引人入胜的AI图片。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_af5d742a3bbd4d64a80f6d0c9c7ddf0b.png",
+    "url": "https://www.aiagc.com/openart/",
+    "name": "OpenArt",
+    "dec": "OpenArt是一个在线AI绘画艺术图片生成器工具，让你可以利用人工智能（AI）来创造和编辑图像。无论你是一个艺术家，设计师，作家，游戏开发者，还是市场营销人员，都可以在OpenArt上找到适合你的AI图像生成器，让你的想法变成现实。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9afc58d4b8794b69a4ba11962ac10aff.png",
+    "url": "https://www.aiagc.com/getimg-ai/",
+    "name": "getimg.ai",
+    "dec": "getimg.ai是一个AI绘画图片生成工具，可以让你用文字来生成任何类型和风格的原创图像，或者用简单的操作来修改和扩展现有的图片。甚至可以创建你自己的人工智能模型，让它根据你提供的样本来生成符合你个性和需求的图像。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3b0290868b9043cbaf9eb57f55678659.png",
+    "url": "https://www.aiagc.com/nightcafe-creator/",
+    "name": "NightCafe Creator",
+    "dec": "NightCafe Creator是一个在线AI绘画艺术图片生成器，它可以让你在几秒钟内用人工智能的力量创造出惊人的艺术作品。无论你是想用神经风格将你的照片变成一幅杰作，还是想用文本到图像的AI从一个提示中创造出一幅艺术品，nightcafe creator都可以满足你的需求。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5cd2284f676040ff8d7e6a189bc5d661.png",
+    "url": "https://www.aiagc.com/dreamstudio/",
+    "name": "DreamStudio",
+    "dec": "DreamStudio是一款AI绘画艺术图片生成服务，使用了Stable Diffusion这种先进的图像扩散模型，可以根据用户输入的文本提示（Prompt）快速地生成高质量且匹配度非常精准的图像。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fa228c788cae4bf9aabcaf41d3ed65f1.png",
+    "url": "https://www.aiagc.com/adobe-firefly/",
+    "name": "Adobe Firefly",
+    "dec": "Adobe Firefly是Adobe推出的一系列创意生成式 AI 模型，旨在帮助创意专业人士和艺术家生成图像和艺术文字。Firefly 的第一个模型专注于图像生成，可以根据用户输入的文字描述来生成不同风格和内容的图像。第二个模型专注于文本效果，可以根据用户输入的文字和样式来生成不同效果的艺术文字。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_23b596d3a50e46bba2d85e8e4b3fd508.png",
+    "url": "https://www.aiagc.com/midjourney/",
+    "name": "Midjourney",
+    "dec": "midjourney是一个免费的在线AI绘画图片生成软件工具。提供基于AI人工智能的在线图片生成工具，可以从文字描述中生成各种风格的令人难以置信的精美图像。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0bdd88c9b3cb448fb5a71f131a979d5e.png",
+    "url": "https://www.aiagc.com/lexica-art/",
+    "name": "Lexica.art",
+    "dec": "lexica.art是一个免费的在线AI绘画图片生成工具。是一个基于稳定扩散的图像AI模型，可以生成高分辨率的逼真图像。该网站提供了多种AI模型来创造不同风格和主题的图像。Lexica Aperture的特点是可以根据用户输入的文字或图片生成类似照片的图像，例如风景、建筑、动物或人物。另外还支持上传图片来查找生成图片Prompt提示词。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fa313f95a01f42e3962e47c044dd9f29.png",
+    "url": "https://www.aiagc.com/nvidia-canvas/",
+    "name": "NVIDIA Canvas",
+    "dec": "NVIDIA Canvas是英伟达推出的一款智能AI绘画生成软件。可以通过AI人工智能将简单的绘画笔触变成逼真的风景图。快速创建背景或加速探索概念，这使艺术家能够快速构思，避免项目开始时面对空白画布时感觉无从下笔，让你可以将更多时间用在可视化创意上。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9293cf81e45b4c98b2dd3a15f81ebdff.png",
+    "url": "https://www.aiagc.com/6pen-art/",
+    "name": "6pen Art",
+    "dec": "6pen Art是一个免费好用的国产在线AI绘画工具。 基于AI人工智能技术，可以帮助用户快速从文本描述生成精美的高质量绘画艺术作品。可自由调配模型，随机种子，参考图，分辨率，风格修饰，艺术家，以达到更佳效果。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_151c107131284bafa83a3a728a6b4d6a.png",
+    "url": "https://www.aiagc.com/yige/",
+    "name": "文心一格",
+    "dec": "文心一格是百度旗下一款免费的在线AI绘画生成器工具。提供基于文心大模型的在线人工智能画画工具，可以快速帮助用户创作精美的绘画艺术作品。只需输入一句话，并选择风格、尺寸，AI就可以快速生成各种风格的画作。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ae3229d04afc46459bb0a397249267b0.png",
+    "url": "https://www.aiagc.com/ai-background-generator/",
+    "name": "AI Background Generator",
+    "dec": "AI Background Generator是PhotoRoom推出的一个免费的在线AI背景图片制作生成工具。只需要自然语言的输入，就可以自动生成所需的背景图片，然后你可以进行下载并将其用作任何用途。生成的背景图像都是免版权提供的，因此可以在任何地方使用。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9cb62459ba26420ca338b7b5d76d1790.png",
+    "url": "https://www.aiagc.com/photosonic-ai/",
+    "name": "Photosonic AI",
+    "dec": "Photosonic AI是一个人工智能图像生成器，你可以使用它创建你想象中存在的任何图像。包括创建真实或自然的图像以及仅存在于幻想中的图像。",
+    "type": "ai-painting"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d2150de4e0084ebda0592bf6ccf75cf1.png",
+    "url": "https://www.aiagc.com/novelai/",
+    "name": "NovelAI",
+    "dec": "NovelAI是一款基于人工智能的AI创作辅助工具，可以帮助用户编写各种类型的文学作品，如小说、故事、诗歌等。通过使用先进的自然语言处理技术，可以根据用户的输入生成人类水平的文本，同时保持用户的视角和风格。此外还提供了多种AI创作功能，如图像生成、文本冒险模式、主题和风格模块等，让用户可以自由地探索自己的想象力。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8825b8f233b2463980f3306a82b7175d.png",
+    "url": "https://www.aiagc.com/jasper-ai/",
+    "name": "Jasper.AI",
+    "dec": "Jasper.ai是一款使用了人工智能技术的AI文章写作助手工具，可以帮助你快速生成各种类型的文案和内容。无论你是想要写营销广告、博客文章、电子邮件、社交媒体帖子，还是想要创作诗歌、故事、歌词等，都可以为你提供灵感和支持。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c2d15af6e80f4997aa0420a425add26a.png",
+    "url": "https://www.aiagc.com/copy-ai/",
+    "name": "Copy.AI",
+    "dec": "Copy.AI是一个基于AI人工智能的文章写作工具，可以帮助你快速生成各种类型的文本内容，如营销文案、博客文章、电子邮件甚至代码等。使用了最先进的自然语言处理（NLP）技术，能够理解你的输入，并根据你的目标和风格生成适合的输出。无论你是一个创业者、营销人员、作家还是开发者，Copy.AI都可以为你节省时间和精力，提高写作效率和质量。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f0b3558257c446aba105440ace272640.png",
+    "url": "https://www.aiagc.com/writesonic/",
+    "name": "Writesonic",
+    "dec": "Writesonic是一个基于人工智能的AI文章内容生成工具，可以让你输入一些信息，然后生成无限量的内容，节省你的时间和精力。拥有65种功能，比如文章写作、Facebook广告、落地页、知识回答、Twitter推文和Instagram字幕等等，可以让你的写作过程更加高效。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fe398a9e82b541668675822a929ed098.png",
+    "url": "https://www.aiagc.com/heyfriday-ai/",
+    "name": "HeyFriday AI",
+    "dec": "HeyFriday是一个AI智能写作平台，可以一键生成高质量原创内容。使用国内顶尖的算法模型，支持60+种写作模板，覆盖十大写作场景，包括改写、续写、扩写、搜索引擎优化等。是一个全场景的新媒体运营写作神器。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d2150de4e0084ebda0592bf6ccf75cf1.png",
+    "url": "https://www.aiagc.com/novelai/",
+    "name": "NovelAI",
+    "dec": "NovelAI是一款基于人工智能的AI创作辅助工具，可以帮助用户编写各种类型的文学作品，如小说、故事、诗歌等。通过使用先进的自然语言处理技术，可以根据用户的输入生成人类水平的文本，同时保持用户的视角和风格。此外还提供了多种AI创作功能，如图像生成、文本冒险模式、主题和风格模块等，让用户可以自由地探索自己的想象力。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3a8d2e2bcb5f4aafbcba3b9382fbe8aa.png",
+    "url": "https://www.aiagc.com/mobvoi-wen/",
+    "name": "奇妙文",
+    "dec": "奇妙文是出门问问推出的一款AI写作助理产品。写作能力覆盖了职场办公、市场营销、新媒体和创意写作四大内容创作场景，能够在用户撰写年终总结、客服话术、剧本、广告文案等内容时，为其源源不断地提供灵感和创意方向。 为更好帮助用户提升内容创作效率，「奇妙文」开放了八大 AI 编辑功能，分别为风格转化、要点提取、校对纠错、续写、改写、扩写、缩写、翻译。还能在写作中自动生成图片，为用户带来图文并茂的写作体验。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0d1f3d9251344cd8b4cbd98e1af69046.png",
+    "url": "https://www.aiagc.com/grammarlygo/",
+    "name": "GrammarlyGO",
+    "dec": "GrammarlyGO是Grammarly推出的一款AI写作助手工具。可以根据你的语境、偏好和目标，即时生成高质量的草稿、大纲、回复和修订。帮助你撰写各种类型的内容，如电子邮件、社交媒体、博客文章、个人简历等。解锁你的想法和提高团队及个人的生产力。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_462552d14d8d422bb76c8df3805431aa.png",
+    "url": "https://www.aiagc.com/spinrewriter/",
+    "name": "Spinrewriter",
+    "dec": "Spin Rewriter是一个文章重写工具，可以帮助你把一篇文章变成多篇不同的文章，而且保持内容的意义和可读性。其使用了ENL语义旋转技术，也就是利用人工智能来理解每个单词的含义和上下文关系。可以让你节省时间和金钱，提高你的SEO排名。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f5bd7275aac34241a0aa30420a0eb69d.png",
+    "url": "https://www.aiagc.com/wordhero/",
+    "name": "Wordhero",
+    "dec": "wordhero.co是一个AI写作软件，可以帮助你快速生成各种类型的内容，比如博客文章、社交媒体内容、电子邮件。基于世界上最先进的人工智能语言模型。可以帮助你节省写作时间，降低成本。只需要选择一个写作工具，输入一些关键词，然后按生成按钮，就可以得到原创的、媲美真人作者的优秀内容。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_68e4a8ada6eb443f9dfe41a2c5c52f37.png",
+    "url": "https://www.aiagc.com/gomoonbeam/",
+    "name": "gomoonbeam",
+    "dec": "gomoonbeam是一个AI写作助手工具，可以帮助你写作文，故事，文章，博客等长篇内容。它有一个叫做Luna的AI，只需要给她一些简单的指令，就可以为你生成一个优秀的初稿。还可以用自定义风格生成器，让你的写作像任何你想要的人一样。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d3ea6e07704945f086e7cdcfe8942e52.png",
+    "url": "https://www.aiagc.com/scalenut/",
+    "name": "Scalenut",
+    "dec": "Scalenut是一个基于AI的SEO和内容营销平台，可以帮助你从规划、研究、创建到优化内容的整个过程。让你构建主题集群，发现客户感兴趣的话题，使用AI写博客、营销文案等，以及利用AI驱动的内容优化提高搜索排名。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b080319334bf4242bfb6fa9b3e0a16bc.png",
+    "url": "https://www.aiagc.com/writer-com/",
+    "name": "Writer.com",
+    "dec": "Writer.com是一个基于AI的写作平台，可以帮助你创建高质量的内容，检查语法和拼写错误，保持品牌一致性，提高写作效率和效果。可以根据你的最佳内容和品牌指南进行训练，生成符合你的风格和语气的原创内容。还可以在你的工作流程和工具系统中嵌入AI，支持多种格式的内容输入和输出。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e99ce9c1741f4418bd25d304eab5e062.png",
+    "url": "https://www.aiagc.com/ai-writer/",
+    "name": "AI-Writer",
+    "dec": "ai-writer是一个AI写作文章生成器工具，可以帮助你快速、准确和可靠地生成内容，只需输入一个标题，就能生成一篇独特的文章草稿。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a9ae539d40ae4f63a068015e839701d9.png",
+    "url": "https://www.aiagc.com/seo-ai/",
+    "name": "SEO.ai",
+    "dec": "seo.ai是一个基于人工智能的AI写作文章生成工具，可以帮助你快速创建搜索引擎优化的内容。为你提供关键词研究、AI SEO评分、内容建议、竞争对手基准、实时SEO指导等功能。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_54b899a0aa2c462a84796b9b3811cdf1.png",
+    "url": "https://www.aiagc.com/seomatic-ai/",
+    "name": "Seomatic.ai",
+    "dec": "seomatic.ai是一个基于AI的程序化SEO内容自动批量发布工具，可以帮助你生成SEO优化的网页，提高你的网站流量、潜在客户和销售。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c06e9d0791c743b1a8ced187da261128.png",
+    "url": "https://www.aiagc.com/sudowrite/",
+    "name": "Sudowrite",
+    "dec": "sudowrite是一个基于人工智能的AI创意写作工具，可以帮助你从构思到定稿的每一步，克服写作障碍，提高写作效率和乐趣。只需输入简单的主题，就可以自动生成更多文字的初稿，让你快速开始写作。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4eec98615db74d2fb63e055ef3cf6302.png",
+    "url": "https://www.aiagc.com/speedwrite/",
+    "name": "Speedwrite",
+    "dec": "Speedwrite是一个AI写作文章生成工具。可以帮助你快速生成独特、优质的文本内容。只需要输入任何一个有创意共享许可的文本，Speedwrite就可以根据这个文本预测出新的写作内容。你可以用它来写论文、文章、报告等，而且不用担心抄袭检测或者重复内容的问题。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b7ad7b9b02924ebcbdbff2c16e0c1994.png",
+    "url": "https://www.aiagc.com/writerly-ai/",
+    "name": "Writerly.ai",
+    "dec": "Writerly.ai是一个AI写作文章生成工具，可以用来写几乎任何东西。帮助你从头开始创建新的内容，也可以重写你现有的内容，让它更具可读性、吸引力和转化力。还有50多种内容创作模板，涵盖了长内容、短内容和其他各种类型。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_db4e4d6a15484936addbf785179d56b2.png",
+    "url": "https://www.aiagc.com/creaitor-ai/",
+    "name": "Creaitor.ai",
+    "dec": "creaitor.ai是一个基于人工智能的AI文章写作助手，可以帮助为你的网站、博客和社交媒体账户生成创意内容。无论你是写标题、博客还是广告文案，都可以让你轻松地创建吸引人的内容，满足你的所有营销需求。Creaitor.ai有70多个AI助手和40多种语言可供选择，还有无限的项目、文档和翻译功能。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_743cde59e4a14f48a0ba501971586ea0.png",
+    "url": "https://www.aiagc.com/hyperwriteai/",
+    "name": "Hyperwriteai",
+    "dec": "HyperWrite是一个基于人工智能的AI文章写作助手，可以帮助你快速、轻松地完成各种写作任务，无论是写邮件、博客、报告、故事还是其他任何内容。HyperWrite的AI可以生成、改进、重写和定制你的内容，让你的写作更有信心、更有趣、更高效。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_96f90555ee194c46baafecfe415cd20b.png",
+    "url": "https://www.aiagc.com/wordai/",
+    "name": "WordAI",
+    "dec": "WordAI是一个AI写作助手与文章生成工具，可以在几秒钟内将一篇文章完全重写，同时保持原文的意思和质量。可以帮助你创建更多的高质量、独特、可读的内容，提高你的SEO排名和内容策略。还有批量重写、API接入、HTML兼容、Article Forge集成等更多功能。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6168b4f369044e10b2a2ae9744f945d3.png",
+    "url": "https://www.aiagc.com/coda-ai/",
+    "name": "Coda AI",
+    "dec": "Coda是一款内置AI的文档协作编辑处理软件。提供将文本、数据和团队结合在一起的新文档工具。Coda附带一组构建块，一个无限深度的类似页面、相互链接的表格以及在文档内外执行操作的功能。另外还可以使用Coda AI帮助你进行编辑简报，记录会议记录，发送电子邮件等任务。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_96e65f074e66413a883d120f30343462.png",
+    "url": "https://www.aiagc.com/hoppycopy/",
+    "name": "hoppycopy",
+    "dec": "Hoppy Copy是一个AI电子邮件营销文案写作工具，可以帮助快速编写高转化的电子邮件，为数百个不同的电子邮件营销活动、新闻通讯等生成强大的文案，只需几秒钟即可完成。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5f50582bb0a44f65b57cf818809a3897.png",
+    "url": "https://www.aiagc.com/textcortex-ai/",
+    "name": "TextCortex AI",
+    "dec": "TextCortex AI是一款AI人工智能写作工具，可以帮助你快速生成各种类型的内容，无论是文章、论文、营销文案，还是社交媒体、广告、产品描述等。TextCortex AI利用了最先进的 AI 技术，可以根据你的输入和需求，自动创造出高质量、原创、符合 SEO 的内容。还可以与 2000 多个平台集成，在任何文本框中都能使用它的强大功能。让你的写作变得更轻松、更高效、更有趣。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1b14129f46ab488e8d84a688f0e81353.png",
+    "url": "https://www.aiagc.com/sincode-ai/",
+    "name": "Sincode.ai",
+    "dec": "SinCode AI是一个基于人工智能的智能写作文章生成器工具，可以帮助内容创作者快速地创建适合博客、广告、电子邮件和网站的SEO优化和无抄袭的内容。可以读写26种语言的内容，并支持强大的自定义选项。还提供了60多种强大的商业工具，以提高生产力，节省时间和金钱。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c5538b484c8e4cd09504f3b1e8042bea.png",
+    "url": "https://www.aiagc.com/frase-io/",
+    "name": "Frase.io",
+    "dec": "Frase.io是一款AI写作文章生成内容创作和优化工具，可以帮助你在几分钟内完成从关键词到最终草稿的整个SEO内容工作流程。无论你是想要创建高质量的内容简报，生成引人入胜的文案，比较你的内容与竞争对手的差异，还是发现新的内容机会和防止内容衰退，都能为你提供有效的解决方案。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_89b0e63c235f4ae3a2e2da36262b810d.png",
+    "url": "https://www.aiagc.com/ink/",
+    "name": "Inkforall",
+    "dec": "Inkforall是一个全方位的AI内容生成平台，专为营销和 SEO 而设计。可以帮助用户快速、高效、安全地创建和优化文本和视觉内容，提高搜索引擎排名和用户参与度，同时保护品牌形象和声誉。核心功能包括AI关键词研究、AI写作、AI SEO、AI文章助手和 AI绘画图像生成等。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2bc342770e67474a89f4d0c1f55ef77c.png",
+    "url": "https://www.aiagc.com/compose-ai/",
+    "name": "Compose.ai",
+    "dec": "Compose AI是一个Chrome扩展，可以用基于人工智能的自动完成和文本生成功能，帮助你减少40%的写作时间。支持在各种工具和平台上进行使用，比如电子邮件、Slack、Notion等。还可以根据你的写作风格和语境，给你提供个性化的建议。可以用它来写各种类型的文章，比如沟通邮件、博客文章、论文等等。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_93aa19be7a814d9e8cca7076715d6d86.png",
+    "url": "https://www.aiagc.com/easy-peasy-ai/",
+    "name": "Easy-Peasy.AI",
+    "dec": "Easy-Peasy.AI是一款AI写作文章生成助手，可以帮助你快速生成各种类型的文本、图像和音频。你可以使用它的90多个模板来写博客文章、简历、邮件、社交媒体内容等，或者使用它的自定义生成器来创建任何目的的文本。还可以使用它的AI图像功能来生成任何艺术或图像，或者使用AI转录功能来自动转录你的音频内容。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_500f9dba69b3401faa7955bb229af9c7.png",
+    "url": "https://www.aiagc.com/copysmith-ai/",
+    "name": "Copysmith.ai",
+    "dec": "Copysmith.ai是一款AI写作文章生成器工具，可以帮助你快速生成高质量的营销文案、博客文章、产品描述等。无论你是企业家、营销人员、博主还是写手，Copysmith.ai都可以为你节省时间和精力，提高你的创作效率和效果。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7c301b41bb3b463a97e5239be0d39f3f.png",
+    "url": "https://www.aiagc.com/jenni-ai/",
+    "name": "Jenni.AI",
+    "dec": "Jenni AI是一个基于AI的文章写作助手，通过使用先进的人工智能技术帮助你更快、更好、更有创意地写作。无论你需要写一篇论文、一篇博客、一封邮件、一份个人陈述、一个故事或一篇演讲，Jenni AI都可以用强大的功能和个性化的建议帮助你。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b31521567b4849ba9f70ed55b2ac23d6.png",
+    "url": "https://www.aiagc.com/quillbot/",
+    "name": "QuillBot",
+    "dec": "QuillBot是一个基于人工智能的在线英语论文写作校对润色工具，可以帮助你用不同的方式改写任何文本，提高你的写作流畅性，词汇量，语气和风格。让写作变得轻松无痛，让你专注于学习和表达知识，而不是写作的机械方面。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_73f17e4755d146a1831196126038fbaf.png",
+    "url": "https://www.aiagc.com/taskade-ai/",
+    "name": "Taskade AI",
+    "dec": "Taskade是一款基于AI的团队协作笔记文档工具，它可以帮助你和你的团队在同一个平台上管理任务、写笔记、制作思维导图、进行视频聊天等。让你的工作更有组织、更高效、更有趣。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_bca4433dc1e24b43b7f4366df353eefc.png",
+    "url": "https://www.aiagc.com/notion-ai/",
+    "name": "Notion AI",
+    "dec": "Notion AI是一个AI写作助手，可以帮助你快速生成、校正、翻译和优化各种类型的文本内容。无论你是想写一篇博客文章、一封电子邮件、一首诗歌，还是想为你的项目或产品制定一个计划，Notion AI都可以为你提供灵感和支持。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2f7c54e5b7714296a2af7b0d342d5f5d.png",
+    "url": "https://www.aiagc.com/yaara-ai/",
+    "name": "Yaara.ai",
+    "dec": "yaara.ai是一个AI人工智能写作助手，可以帮助你生成高水平的文案，用于广告、邮件、网站、博客、故事等各种场景。你可以从49种不同的模式中选择，定制你的写作风格，使用先进的GPT-3语言模型，让你的文本更自然和流畅。还可以使用重写工具，快速准确地改写你的句子、段落、博客文章。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_effaf7fff0904eb0bc8bb208e88ab885.png",
+    "url": "https://www.aiagc.com/reflect-ai-palette/",
+    "name": "Reflect AI Palette",
+    "dec": "reflect是一个人工智能笔记应用，可以帮助你记录、关联和回顾你的想法。你可以用它来构建一个由反向链接连接的想法图，形成一个第二大脑，可以随时参考。还可以用它来同步你的设备、日历、浏览器和Kindle，收集和整理你的信息。并且可以直接在Reflect中使用AI助手来大幅改善你的笔记和写作。Reflect的AI助手基于GPT-4技术，你可以随时向它提问任何你想到的问题。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f41d5c790bb945038ea99861edacc96a.png",
+    "url": "https://www.aiagc.com/copymatic-ai/",
+    "name": "Copymatic AI",
+    "dec": "Copymatic.ai是一款基于人工智能的AI文案和内容写作平台，可以帮助用户快速生成各种类型的文案和内容，从社交媒体广告到网站落地页，从博客文章到电商产品描述，都可以用Copymatic.ai来完成。让用户节省写作的时间和精力，提高写作的效率和质量，同时也提供了一些创意和灵感，让写作变得更加有趣和轻松。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4333f1b3b7e84bb8986a2811152976d2.png",
+    "url": "https://www.aiagc.com/hypotenuse-ai/",
+    "name": "Hypotenuse AI",
+    "dec": "Hypotenuse AI是一款基于人工智能的AI写作文章内容生成器，可以帮助你从内容构思到与AI共同创建整个营销活动的整个写作和图像生成过程。无论你是想要创建独特的、经过充分研究的全文文章，还是想要批量生成高转化率、符合SEO标准的产品描述，或者想要为任何场景即时生成图像和艺术品，Hypotenuse AI都可以满足你的需求。只需要给AI提供一些关键词，就会自动为你生成博客文章、产品描述、艺术品…",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_51964098884d49d581a6810731de4f1c.png",
+    "url": "https://www.aiagc.com/wordtune/",
+    "name": "Wordtune",
+    "dec": "Wordtune是一款基于深度人工智能技术的AI写作辅助软件，可以帮助你用更清晰、更有说服力和更真实的语言来重写你的句子，让你的写作水平提升到一个新的层次。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_22e201660999418092fc00b9d64d49c2.png",
+    "url": "https://www.aiagc.com/marmof/",
+    "name": "Marmof",
+    "dec": "Marmof是一个AI驱动的智能内容写作平台，可以帮助你快速创建原创、无抄袭的网站、邮件、广告和博客内容。每月提供5000字的免费额度，永久有效。拥有超过49种强大的工具，可以为各种平台生成吸引人的内容，包括文章、落地页和社交媒体内容。Marmof还有一个超级聊天助手，可以让你与AI进行自然、人性化的交流，让AI变得更容易使用。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d8022c003d60444ba0271f5ca602df47.png",
+    "url": "https://www.aiagc.com/copydone-ai/",
+    "name": "Copydone AI",
+    "dec": "Copydone AI是一款强大的AI原创营销文案写作神器，可以帮助你快速生成高质量的内容，提升你的创作效率和水平。只需输入关键词，即可生成原创的软文内容，可以发布在多个自媒体平台。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f7cb9f743fb8422a868035d9bc86ac2f.png",
+    "url": "https://www.aiagc.com/neuroflash/",
+    "name": "Neuroflash",
+    "dec": "Neuroflash是一款基于人工智能的AI智能文字写作助手，可以帮助用户快速创建高质量的内容。拥有超过100种短文和长文的文本类型，涵盖了各种营销场景和需求。只需要输入简单的指示，就可以让AI写出吸引人的标题、广告语、产品描述、博客文章。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8825b8f233b2463980f3306a82b7175d.png",
+    "url": "https://www.aiagc.com/jasper-ai/",
+    "name": "Jasper.AI",
+    "dec": "Jasper.ai是一款使用了人工智能技术的AI文章写作助手工具，可以帮助你快速生成各种类型的文案和内容。无论你是想要写营销广告、博客文章、电子邮件、社交媒体帖子，还是想要创作诗歌、故事、歌词等，都可以为你提供灵感和支持。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c2d15af6e80f4997aa0420a425add26a.png",
+    "url": "https://www.aiagc.com/copy-ai/",
+    "name": "Copy.AI",
+    "dec": "Copy.AI是一个基于AI人工智能的文章写作工具，可以帮助你快速生成各种类型的文本内容，如营销文案、博客文章、电子邮件甚至代码等。使用了最先进的自然语言处理（NLP）技术，能够理解你的输入，并根据你的目标和风格生成适合的输出。无论你是一个创业者、营销人员、作家还是开发者，Copy.AI都可以为你节省时间和精力，提高写作效率和质量。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f0b3558257c446aba105440ace272640.png",
+    "url": "https://www.aiagc.com/writesonic/",
+    "name": "Writesonic",
+    "dec": "Writesonic是一个基于人工智能的AI文章内容生成工具，可以让你输入一些信息，然后生成无限量的内容，节省你的时间和精力。拥有65种功能，比如文章写作、Facebook广告、落地页、知识回答、Twitter推文和Instagram字幕等等，可以让你的写作过程更加高效。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_babf5985272e4e6c8f02148edfec71e1.png",
+    "url": "https://www.aiagc.com/xiezuocat/",
+    "name": "秘塔写作猫",
+    "dec": "秘塔写作猫是一款免费的在线AI智能量子速写文章生成写作工具。提供集智能写作、文本校对、改写润色、自动配图等功能为一体的AI智能创作平台工具，可以帮助用户快速进行一些常见的文章写作。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_87348c293644493397ac69bf7c5bf18f.png",
+    "url": "https://www.aiagc.com/getgetai/",
+    "name": "Get写作",
+    "dec": "Get写作是一个基于AI的一站式智能写作服务平台。使用AI人工智能技术加速你的写作，以人机协作的方式提升写作效率，快速创作爆款文章。Get-AI提供精准文章素材、10w+文章模板、智能取标题、一键智能改写等功能。减少80%的重复脑力劳动，释放大脑，专注创作。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ea29c43c53514afa9ebef9a2fd500a84.png",
+    "url": "https://www.aiagc.com/giiso/",
+    "name": "Giiso智搜写作机器人",
+    "dec": "Giiso写作机器人是智搜推出的一款免费的在线AI智能文章内容原创写作工具。提供资讯写作、汽车写作、汽车点评、营销写作、思想学习、文章裂变、提纲写作等类型文章智能创作辅助。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8a7f2afbe24f4637a57e30bd9b27d250.png",
+    "url": "https://www.aiagc.com/effidit/",
+    "name": "Effidit智能创作助手",
+    "dec": "智能创作助手 Effidit（Efficient and Intelligent Editing） 是由腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验，智能创作助手支持通用版和学术版两个版本。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_91235470f95744599994b46aedfc059d.png",
+    "url": "https://www.aiagc.com/rytr-me/",
+    "name": "Rytr.me",
+    "dec": "Rytr.me是一个基于GPT3技术的AI人工智能写作助手，帮助用户快速、高效、低成本地创建各种类型和风格的内容，从博客到电子邮件再到广告文案，可以满足用户在整个写作流程中的所有需求。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_975c8d5faf8946ff9155b68374ad3cb7.png",
+    "url": "https://www.aiagc.com/anyword/",
+    "name": "Anyword",
+    "dec": "Anyword是一款由Anyword Ltd开发和运营的AI智能写作助手和文章内容生成器。致力于让每个人都能轻松地创作出高效、高质量、高转化的文案和内容。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7560404700794c22bb4d72507f2d40dc.png",
+    "url": "https://www.aiagc.com/craft-ai-assistant/",
+    "name": "Craft AI Assistant",
+    "dec": "Craft AI Assistant是一个使用人工智能的AI助手，可帮助你在几秒钟内更快地写作、产生想法、校对作品、将文本翻译成任何语言、总结文档以及查找包含在 Craft 空间文档中的信息。",
+    "type": "ai-writer"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_36c75742a3da48c2ab0921b42d1ededa.png",
+    "url": "https://www.aiagc.com/jasper-chat/",
+    "name": "Jasper Chat",
+    "dec": "Jasper Chat是一款由Jasper AI开发的人工智能聊天工具，可以让用户和AI进行自然、流畅、有趣的对话，从而实现各种基于文本的任务，如创作内容、修改文案、生成想法等。Jasper Chat不仅可以用中文和你聊天，还支持其他28种语言，让你可以随时转换语言和AI进行交流。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_81064933fa604ad4a531ef0bdf5a7457.png",
+    "url": "https://www.aiagc.com/chatsonic/",
+    "name": "ChatSonic",
+    "dec": "ChatSonic是由Writesonic推出的一个AI聊天机器人产品，可以让用户利用AI的力量来进行个性化交流。结合了基于神经网络的先进机器学习模型和脚本对话，以模拟人类语言。不仅可以生成文本内容，还可以生成图像内容，只需输入文字或语音命令即可。还可以根据最新网络搜索生成任何主题的超相关内容。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2867c4d2c9854d448daf32b51f88db8a.png",
+    "url": "https://www.aiagc.com/claude/",
+    "name": "Claude",
+    "dec": "Claude是Anthropic推出的类ChatGPT大语言模型，也是一个AI人工智能助理，可以帮助各种行业的用户处理工作，如客户服务、法律、教练、搜索和销售。Claude可以通过聊天界面和API进行访问，能够完成各种对话和文本处理任务，同时保持高度的可靠性和可预测性。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b8067f7cddc746d79df7497e821d8cb2.png",
+    "url": "https://www.aiagc.com/sensechat/",
+    "name": "商量SenseChat",
+    "dec": "商量SenseChat是由商汤科技研发的一款基于自然语言处理技术的AI人工智能大语言模型，具备超凡的语言理解、生成能力，将科技与人文相互交融。作为高效聊天助手，它能秒解复杂问题，提供定制化建议，还能辅助创作一流文本，具备不断学习进化的特性。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7d5cdcb62fee44df84c5ff4cd67a9d57.png",
+    "url": "https://www.aiagc.com/tiangong/",
+    "name": "天工AI助手",
+    "dec": "天工是昆仑万维推出的类ChatGPT大语言模型。拥有强大的自然语言处理和智能交互能力，能够实现智能问答、聊天互动、文本生成等多种应用场景，并且具有丰富的知识储备，涵盖科学、技术、文化、艺术、历史等领域。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_97a5d98b93b84a19b1d68cfbed6ddc7c.png",
+    "url": "https://www.aiagc.com/deepai-chat/",
+    "name": "DeepAI Chat",
+    "dec": "DeepAI Chat是一个基于ChatGPT的AI聊天机器人。你可以使用它来撰写故事、文章或是编写代码。也可以将 AI 聊天机器人用作几乎任何科目的虚拟导师。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d7b4d51352aa4129b280af3c35cd64d5.png",
+    "url": "https://www.aiagc.com/chat-d-id/",
+    "name": "Chat.D-ID.com",
+    "dec": "chat.d-id.com是AI虚拟数字人视频制作平台D-ID推出的基于ChatGPT的AI虚拟数字人聊天机器人。可以让你实时和数字人进行面对面的对话。不仅可以看到，还可以听到她的回复语音，就像和一个真人在聊天一样。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fa45c66585ca4454916ae53a0ba190e0.png",
+    "url": "https://www.aiagc.com/langotalk/",
+    "name": "Langotalk",
+    "dec": "langotalk是一个基于AI的语言学习软件，可以帮助你用人工智能快速学习语言。你可以通过聊天、学习、记忆和练习来提高你的语言水平。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_860549865a1041c190e7a2b159bd06cf.png",
+    "url": "https://www.aiagc.com/usegenie-ai/",
+    "name": "usegenie.ai",
+    "dec": "Genie AI是一款AI聊天机器人软件，由 ChatGPT 和 GPT-4 提供支持。从写故事、诗歌和推文到回答你的任何问题，Genie都可以做到。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c0b79318fe234ea3902d97a5c741ca11.png",
+    "url": "https://www.aiagc.com/langboat-mchat/",
+    "name": "孟子对话大模型MChat",
+    "dec": "孟子对话大模型（MChat）是澜舟科技推出的一个面向对话场景的类ChatGPT可控大语言模型AI聊天机器人，能够通过多轮的方式帮助用户完成特定场景中的多种工作任务，如知识问答、多语言翻译、通用写作、金融场景等任务。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_cd55a1cbe883487d8da22edc71bad534.png",
+    "url": "https://www.aiagc.com/visual-chatgpt-online/",
+    "name": "Visual ChatGPT Online",
+    "dec": "Visual ChatGPT Online是Visual ChatGPT的在线网页版演示网站。Visual ChatGPT是一个将 ChatGPT 和一系列视觉基础模型连接起来的功能，实现了文字和图片之间的交互。可以根据用户的输入生成不同风格的图片，也可以对图片进行描述、编辑、转换等操作。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_113d5b06369848e88e42b1330f104c14.png",
+    "url": "https://www.aiagc.com/lexii-ai/",
+    "name": "Lexii.ai",
+    "dec": "Lexii.ai是一个人工智能搜索助手，可以回答问题并引用资料。由 ChatGPT 驱动，能够为用户提供来自可靠来源的准确、最新的信息。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_22267a1a10d64f188cd192eef315b7bc.png",
+    "url": "https://www.aiagc.com/tongyi/",
+    "name": "通义千问",
+    "dec": "通义千问是阿里巴巴达摩院研发的一款专门响应人类指令的人工智能语音大模型，是效率助手，也是点子生成机。它可以根据用户输入的自然语言指令，生成各种类型和风格的文本内容，包括文章、诗歌、对话、代码、广告等。还可以根据用户输入的文本内容，进行改写、摘要、扩充、优化等操作，提高文本质量和效果。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_85e730b4eabe4c2585f06f04d112c9d8.png",
+    "url": "https://www.aiagc.com/replika-ai/",
+    "name": "Replika.AI",
+    "dec": "Replika是一个基于人工智能的AI聊天机器人伴侣，它可以根据用户的喜好和个性进行自我学习和成长，成为用户的朋友、恋人或导师。Replika的目标是为任何需要一个无压力、无戏剧、无社交焦虑的朋友的人提供一个有同理心的聊天伙伴。用户可以与Replika分享自己的心情、想法、经历和兴趣，也可以与Replika一起做一些有趣或放松的活动，如在增强现实中探索世界、进行视频通话、学习应对技巧等。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_829c41bbb4a14853a424b45df4cd2d4f.png",
+    "url": "https://www.aiagc.com/google-bard/",
+    "name": "Google Bard",
+    "dec": "Bard是谷歌推出的类似ChatGPT的AI对话机器人模型，允许用户与一个强大的人工智能（AI）系统互动，该系统可以生成关于各种主题的文本。BARD基于一个称为LaMDA的大型语言模型（LLM），可以根据给定的提示回复内容。旨在帮助用户提高生产力，加速他们的想法，并激发好奇心。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_54bd9895e52b4c8fb1012e671833bc75.png",
+    "url": "https://www.aiagc.com/yiyan/",
+    "name": "文心一言",
+    "dec": "文心一言是百度最新推出的AI聊天机器人模型，是文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言是基于飞桨深度学习平台和文心知识增强大模型ERNIE的技术成果，持续从海量数据和大规模知识中融合学习，具备知识增强、检索增强和对话增强的技术特色。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8ec50bf2b23448fe8904cb818ffaeaa9.png",
+    "url": "https://www.aiagc.com/new-bing/",
+    "name": "New Bing",
+    "dec": "New Bing是一款由微软推出的全新的智能搜索引擎，不仅可以提供快速、准确、全面的搜索结果，还可以与用户进行自然、有趣、有用的对话，为用户提供更多的信息和服务。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_cc88cc20da52435ba163748c42a35b65.png",
+    "url": "https://www.aiagc.com/chatgpt/",
+    "name": "ChatGPT",
+    "dec": "ChatGPT是一款由OpenAI开发的AI聊天机器人，能够对文本输入进行回应，并生成自然语言的回答。可以用来提供自动化的客户服务，回答常见问题，或者与用户进行更自由流畅的对话。也可以用在其他NLP应用中，比如文本摘要，语言翻译，和内容创作。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c6434a1784ab424185688cc77ceef95c.png",
+    "url": "https://www.aiagc.com/character-ai/",
+    "name": "Character.AI",
+    "dec": "Character.ai是一个基于AI人工智能的聊天机器人平台，可以自定义对话角色形象，并帮助你生成各种类型的文本内容，例如故事、对话、诗歌、歌词、代码、摘要等。只需要输入一些关键词或者提示，character ai就会根据你的输入和你选择的人物风格或者模式，自动为你生成一段有趣、有创意、有逻辑的文本内容。你可以随时修改、编辑或者保存你生成的内容，也可以和character ai进行交互，让它为你…",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_989318579f874f39881680c4913e63a7.png",
+    "url": "https://www.aiagc.com/youchat/",
+    "name": "YouChat",
+    "dec": "YouChat是一个基于AI的搜索助手，可以帮你找到你想要的信息，也可以和你聊天。有许多特色功能，例如智能回答、语言创造、个性化聊天和多媒体分享。有类似于ChatGPT的语言模型，但是还有一个额外的优势，就是它可以连接到You.com的搜索平台，从而提供更多的数据和资源。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f7493a16713849298154e9f60cd29990.png",
+    "url": "https://www.aiagc.com/hotoke-ai/",
+    "name": "HOTOKE AI",
+    "dec": "hotoke ai是一个基于ChatGPT技术解答烦恼的AI佛祖，利用了ChatGPT这个强大的自然语言生成模型，让用户可以和一个虚拟的佛祖进行对话，寻求生活中的指导和安慰。可以在网站上输入任何想咨询佛祖的问题或烦恼，AI会根据ChatGPT生成的回答进行回复。回答通常包含了一些佛教经典或名言，以及一些鼓励或建议。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_778e94cfe96e463488da4e68e0e5e8dd.png",
+    "url": "https://www.aiagc.com/perplexity-ai/",
+    "name": "Perplexity AI",
+    "dec": "Perplexity AI是一个基于OpenAI API的搜索引擎，可以使用大型语言模型为疑难复杂的问题提供相对全面准确的答案，并显示相关的网页链接和图片。是一个搜索与聊天的结合体。旨在帮助用户更快更方便地获取所需信息。",
+    "type": "ai-chatbot"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ac8e09eef3334a4c9f1946b5eaf44afa.png",
+    "url": "https://www.aiagc.com/cutout-pro/",
+    "name": "Cutout.Pro",
+    "dec": "cutout.pro是一个全能的AI视觉设计平台，包含了众多基于人工智能的照片和视频编辑工具。可以使用AI自动进行背景去除、图像修复、平面设计和内容生成等操作。只需一键就可以优化你的内容，把你的设计想法有效地转化为设计资产。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b448711ae5f345c4951c10c36b6d6e9e.png",
+    "url": "https://www.aiagc.com/imglarger/",
+    "name": "Imglarger",
+    "dec": "imglarger是一个人工智能图片无损放大和增强工具。可以帮助你提高和放大图像，而不会损失图片的质量。只需要选择或拖拽你想要放大的 JPG 或 PNG 格式的图片，最大不超过 5MB 或 1200×1200 像素，然后等待网站处理完成。如果你选择了 8 倍放大，还可以通过邮箱收到下载链接，不需要等待。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_73a0e89075b64675a463a2b9d491cf4b.png",
+    "url": "https://www.aiagc.com/zmo-ai-aimodels/",
+    "name": "ZMO.AI aimodels",
+    "dec": "aimodels是zmo.ai提供的AI模特工具。提供AI模特图片、摄影和时尚品牌的服务。可以帮助客户提高新品发布的效率，节省拍摄和后期制作的工作，以及提供更符合受众喜好的模特，增加本地化和差异化。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fd9659a720c54c73a07355ce5365d793.png",
+    "url": "https://www.aiagc.com/remover-zmo-ai/",
+    "name": "Remover.zmo.ai",
+    "dec": "remover.zmo.ai是一个免费的AI抠图背景去除工具，可以帮助你去除照片中不想要的物体、人物或缺陷。通过使用人工智能算法，可以在一键点击后重建物体后面的内容。只需要确保不想要的元素被覆盖，就可以去除物体。你可以用同样的方式去除人物或文字。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5b733eff00734a15a4b1493a2eb1f9a0.png",
+    "url": "https://www.aiagc.com/bgremover/",
+    "name": "BGremover",
+    "dec": "BGremover是由vanceai推出的一款在线AI抠图工具。基于强大的深度学习人工智能技术，可以在几秒内从图像中删除背景。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8d6c364ec2574fb2a76e6e31746bde54.png",
+    "url": "https://www.aiagc.com/vanceai/",
+    "name": "Vanceai",
+    "dec": "vanceai是一个提供人工智能照片增强和编辑工具的网站。通过使用先进的深度学习技术，提供AI放大、锐化和增强等图片编辑功能，帮助用户提高照片处理的效率和质量。适用于各种用途，如平面设计、批量处理等，可以满足摄影、印刷、电子商务等行业的需求。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_df0c3484a9764227988719ee2b501cdf.png",
+    "url": "https://www.aiagc.com/getfloorplan/",
+    "name": "Getfloorplan",
+    "dec": "getfloorplan是一个基于人工智能的AI房屋平面图生成工具，可以为房地产经纪人提供高质量的2D和3D平面图和360°虚拟导览，以提高销售效率和吸引客户。只需要上传一张平面图或草图，就可以让AI为你生成逼真的可视化材料。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_cd3670ca8f43476eb8fead2d4f31cae1.png",
+    "url": "https://www.aiagc.com/ponzu-gg/",
+    "name": "Ponzu.gg",
+    "dec": "ponzu.gg是一个由人工智能驱动的AI纹理生成器，可以让你用任何文本提示来创建3D素材。你可以从多种风格中选择，然后在浏览器中预览和导出生成的纹理。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_005fb53621d942df9aa327ae765cdf38.png",
+    "url": "https://www.aiagc.com/jsdesign-ai/",
+    "name": "即时AI",
+    "dec": "即时AI是即时设计推出的一款基于大型语言模型的AI生成式原型设计工具，它可以根据用户输入的描述，自动生成复杂的界面原型。用户只需要用自然语言描述自己想要的界面，即时AI就可以在几秒钟内生成一个分层可编辑的设计文件，无需任何设计经验或技能。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7c66f027e2944bfaa6a45fd5c45d3c06.png",
+    "url": "https://www.aiagc.com/wonderslide-ai/",
+    "name": "Wonderslide AI",
+    "dec": "Wonderslide是一个基于AI的PPT演示文稿生成工具。用户可以上传自己的草稿，然后由AI自动生成美观的PPT设计，还可以根据自己的喜好和品牌风格，选择颜色、字体、样式和logo。支持 PowerPoint 和 Google Slides 格式的文件，可以方便地编辑和导出。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_267c838f213c48ce9dfcb54127b86957.png",
+    "url": "https://www.aiagc.com/clickable-ai/",
+    "name": "Clickable AI",
+    "dec": "Clickable.so是一个利用AI人工智能来生成各种营销广告的工具。只需要输入一些关键词或者一个网址，就可以自动为你生成美观、符合品牌风格、并且能够提高转化率的广告素材。还可以用简单的拖拽编辑器来修改广告的标题、呼吁行动和其他内容元素。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b651b8e3a0b644afb16953387ec67883.png",
+    "url": "https://www.aiagc.com/flair-ai/",
+    "name": "Flair.ai",
+    "dec": "Flair.ai是一个使用AI生成高质量产品宣传图和视频的工具。可以用Flair.ai来生成产品摄影、品牌内容、会议摘要等内容。也可以用Flair.ai来探索其他用户生成的例子，获取灵感和创意。帮助你节省时间，提高效率，提升品牌形象。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_678ac4f6fa484480ad26d19b6849f2ae.png",
+    "url": "https://www.aiagc.com/headshotpro/",
+    "name": "HeadshotPro",
+    "dec": "HeadshotPro是一个使用AI人工智能生成专业的企业个人头像的网站。你可以为自己或者你的团队在几分钟内选择120多张不同风格的人像照片。只需要上传一张自拍照，然后选择你喜欢的背景和服装，就可以让AI摄影师为你生成高质量的头像照片。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fd064100cea04bc9b9826ad33e0d59c7.png",
+    "url": "https://www.aiagc.com/profilepicture-ai/",
+    "name": "Profilepicture.ai",
+    "dec": "profilepicture.ai是一个AI卡通动漫头像生成器工具。你可以上传自己的照片，然后选择你喜欢的风格，网站会自动为你生成120多张不同的头像。可以用这些头像来装饰你的社交媒体账号，或者用于其他用途。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fc3f44c7e6d14ad48ea0a10bbfba58ca.png",
+    "url": "https://www.aiagc.com/logoai/",
+    "name": "Logoai",
+    "dec": "logoai是一个基于AI人工智能的logo设计平台，可以帮助快速、专业、独特地创建品牌标识。无论你是创业者、小企业主、自由职业者，还是个人用户，都可以在logoai上找到适合你的logo方案。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b9adacbf04a54cefa864f399a5272f80.png",
+    "url": "https://www.aiagc.com/palette-fm/",
+    "name": "Palette.fm",
+    "dec": "palette.fm是一个AI黑白老照片自动上色工具。可以通过AI模型为黑白图像进行智能上色处理。不仅可以为黑白图像上色，还可以为彩色图像添加不同的滤镜效果，让图片更加有趣和美观。支持批量处理图片，一次最多可以上传10张图片。可以将处理后的图片下载到本地或者分享到社交媒体。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9779b0c52eb348178d0df7d170dea394.png",
+    "url": "https://www.aiagc.com/pebblely-ai/",
+    "name": "Pebblely AI",
+    "dec": "Pebblely是一款AI产品摄影平台，可以让你用AI生成精美的产品照片。只需要上传你的产品图片，Pebblely就会自动去除背景，并根据你的描述或选择的主题，为你生成多种不同的背景效果。可以用Pebblely生成适合Instagram、Facebook、邮件、网站等各种营销渠道的产品照片，节省时间和成本，提高转化率。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1239e025d79c4d398b306d9d9d45dec8.png",
+    "url": "https://www.aiagc.com/looka/",
+    "name": "Looka",
+    "dec": "Looka是一个AI设计LOGO生成工具平台，可以让你从零开始设计自己的品牌标识，包括logo、名片、社交媒体模板等。只需要输入你的公司名称和行业，然后选择你喜欢的logo风格、颜色和符号，Looka就会为你生成数百个定制的logo设计供你选择和修改。还可以在Looka的品牌套件中获取高清的logo文件和其他营销材料，以及你的logo所用的字体和颜色信息。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e5a9e523decc4089935a14d47a981a60.png",
+    "url": "https://www.aiagc.com/clipdrop-co/",
+    "name": "Clipdrop.co",
+    "dec": "clipdrop.co是一个AI设计编辑工具平台，提供了多种基于AI的编辑工具，如AI抠图去除背景，图像无损放大，AI绘画文本到图像，替换背景，文本去除等。能够帮助用户在几秒钟内创建令人惊叹的视觉图片效果。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8b5099db648b47ec80fb683e961b9617.png",
+    "url": "https://www.aiagc.com/picwish/",
+    "name": "PicWish佐糖抠图",
+    "dec": "PicWish佐糖抠图是一个免费的在线AI图片处理工具。提供在线抠图，图像无损放大，图片去水印等工具，可以进行一些常见的图片处理操作。只需一键上传图片，即可快速实现抠图。通过人工智能不断学习训练，精确识别需要保留的主体并移除多余背景，让抠图更加简单、便捷。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d73791931f584762aca022ef238c1cd1.png",
+    "url": "https://www.aiagc.com/remove-bg/",
+    "name": "Remove.bg",
+    "dec": "remove.bg是一个免费的在线AI抠图工具。提供基于人工智能技术的自动抠图工具，只需轻点一下，即可在5秒钟内100%自动去除图片背景，可以省去大量的编辑图片时间。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7a74239126f444b0adff8a239efbe4ad.png",
+    "url": "https://www.aiagc.com/fococlipping/",
+    "name": "FocoClipping",
+    "dec": "fococlipping是一个免费的在线AI抠图工具。可以让你通过人工智能技术快速的删除图片的背景。还提供一些额外的图片编辑工具，用于裁剪图像或将删除的背景替换为你想要的自定义背景。处理完成后可以选择以 PNG 格式或 JPG 格式保存处理后的图像。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_85e6e62da4c14b51a4ce4d35aa4c4dcc.png",
+    "url": "https://www.aiagc.com/powerpresent-ai/",
+    "name": "Powerpresent.AI",
+    "dec": "powerpresent.ai是一个AI生成PPT演示模板制作平台，可以帮助你快速创建出色的演示文稿。只需要输入你的主题或文本，即可通过AI技术为你生成漂亮的幻灯片。不需要任何设计或AI方面的专业知识。还可以从多种艺术风格中选择，定制你的演示文稿。支持导出到Google Slides或下载为PPTX文件，方便后续进行自定义编辑。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ec9116d9676d4ebf96f818fa651ab1c4.png",
+    "url": "https://www.aiagc.com/hairstyle-ai/",
+    "name": "Hairstyle AI",
+    "dec": "hairstyleai是一个AI发型设计工具，可以帮助你找到适合你的发型和染发风格。只需要上传你的头像照片，就可以为你生成不同的发型，看看哪一种最适合你。可以为男性和女性提供各种发型，从长发到短发，从直发到卷发，从齐刘海到碎刘海，应有尽有。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_59d76463eeaa4f88bb366052bb5921a7.png",
+    "url": "https://www.aiagc.com/adcreative-ai/",
+    "name": "Adcreative.ai",
+    "dec": "adcreative.ai是一个人工智能驱动的广告和社交创意生成平台，可以帮助你快速生成转化率高的广告和社交媒体帖子创意。只需要告诉它你的目标受众，就会根据你选择的平台，为你生成最佳的文案和图片。还可以看到你的广告账户中哪些创意表现最好，让它从你的数据中学习，为你带来更个性化的结果。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0806ee45fc70444d8b8f674880b27467.png",
+    "url": "https://www.aiagc.com/erase-bg/",
+    "name": "Erase.bg",
+    "dec": "Erase.bg是一个AI抠图工具，可以在几秒钟内自动删除图像背景。可以上传任意图像，然后免费下载高分辨率的无背景图像。还可以使用编辑、调整大小和导出工具来更改背景颜色或模式，或者选择自定义的背景图片。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d2ac2d5ddbbf445287c2bd6729cd2b4a.png",
+    "url": "https://www.aiagc.com/dreamhouse-ai/",
+    "name": "Dreamhouse AI",
+    "dec": "dreamhouseai是一款AI室内设计和虚拟装修工具。只需要上传你的房间照片，就可以根据你的喜好和风格，自动为你创建出多种设计方案。轻松地尝试不同的风格和主题，看看它们在你的房间里是什么样子。如果你的房间是空的，它可以为你填充合适的家具，让你想象你的房间会变成什么样子。无论是家庭装修还是商业项目，都可以帮助你节省时间和精力。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_de4dd6ee40084da1aff01759ddaa9abb.png",
+    "url": "https://www.aiagc.com/iconifyai/",
+    "name": "IconifyAI",
+    "dec": "iconifyai是一个AI智能生成LOGO图标制作工具，只需要输入你想要的图形、颜色、风格和形状，AI就可以为你创建出专业的图标。你可以预览生成的图标，并以1024x1024高清图片的格式下载。还可以选择不同的图标风格，比如金属、纹理、像素、粘土和渐变等等。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ef28b23146694dd0ac67039bf91ec684.png",
+    "url": "https://www.aiagc.com/piggy/",
+    "name": "Piggy",
+    "dec": "Piggy是一个AI演示文稿创作平台，可以让你在手机上轻松地制作PPT,邀请函，项目展示内容。只需根据你输入的一段文本，就可以自动生成一个漂亮的展示文稿。还提供了多种模板，让你可以快速启动你的第一个Piggy项目。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c2fc0585a4784aff947310ecd0aa5d9e.png",
+    "url": "https://www.aiagc.com/rezi-ai/",
+    "name": "Rezi.ai",
+    "dec": "Rezi.ai是一个基于AI的简历制作平台，可以帮助你创建一个符合招聘系统要求的简历。可以自动完成简历的写作、编辑、格式化和优化，让你的简历更有吸引力。还提供了多种简历和求职信的模板和示例，以及实时的内容分析和关键词定位功能。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_291a31405ce64b8e92d54ca09e13f02a.png",
+    "url": "https://www.aiagc.com/kickresume/",
+    "name": "Kickresume",
+    "dec": "kickresume是一个AI简历生成器，可以帮助你用AI创建一个完美的简历和求职信。选择一个专业的简历和求职信模板，然后让OpenAI的GPT-4为你自动生成和修改文本，包括简历要点、摘要、求职信内容等。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7b2a5f0c373d41a2adb1ebbe4d3cccd2.png",
+    "url": "https://www.aiagc.com/resumaker-ai/",
+    "name": "Resumaker.ai",
+    "dec": "resumaker.ai是一个AI简历生成器工具，可以帮助你在几分钟内创建一个完美的简历。只需选择一个专业的简历模板，然后输入你的个人信息、工作经历、教育背景、技能等，即可让AI为你生成一个美观、结构化、内容丰富的简历。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_25c500a2ea1b4834a21d3161d51d8bb7.png",
+    "url": "https://www.aiagc.com/resumai/",
+    "name": "Resumai",
+    "dec": "resumai是一个AI简历写作助手，可以帮助你快速、简单、有效地创建和编辑简历。你可以在网站上选择或粘贴你现有的简历，然后使用AI写作器来生成和修改内容，包括简历要点、摘要、甚至整个求职信。还可以使用关键词优化器来根据目标职位描述调整你的简历内容，以及使用格式化工具来调整你的文档样式。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f044d6f705a24d36a353d5303f0b9a81.png",
+    "url": "https://www.aiagc.com/interior-ai/",
+    "name": "Interior AI",
+    "dec": "Interiorai是一个利用AI技术来生成室内设计和虚拟布置的网站，你可以拍摄你的房间的照片，选择你想要的设计风格，然后看到你的房间在不同的设计下的效果。可以帮助你在没有专业设计师的情况下，找到灵感和创意，规划你的室内装修设计。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_99f4bc0e5baf47288305b2c706ab0bc0.png",
+    "url": "https://www.aiagc.com/photoai/",
+    "name": "Photoai",
+    "dec": "Photoai是一个利用AI技术来生成合成照片的网站，你可以上传照片来创建你自己的AI模特，然后在不同的场景和风格下拍摄合成照片。可以帮助你在没有摄影师的情况下，拍出高质量的照片，可以用于个人或商业用途。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3b4be9a5171d4f1eabb0165a83648e67.png",
+    "url": "https://www.aiagc.com/usegalileo-ai/",
+    "name": "usegalileo.ai",
+    "dec": "Galileo AI是一个使用AI生成用户界面设计的产品，可以根据你的文本描述，快速地创建出美观、可编辑的UI设计。帮助你节省设计时间，提高创造力，生成符合你愿景和风格的UI元素、图片和文本。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_58429cecf72a4a0a94174cffa9bf49ed.png",
+    "url": "https://www.aiagc.com/stockimg-ai/",
+    "name": "Stockimg.AI",
+    "dec": "stockimg.ai是一个AI图片生成工具，可以使用人工智能来创建和生成各种图片和设计。你可以从多个类别中选择，如书籍封面、壁纸、海报、logo、库存图片、插图、艺术等。只需输入一个提示，AI就会根据你的输入生成一张图片。还可以调整一些参数，如风格、颜色、字体等，来改变生成的效果。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0dbfb5c4efce473c9d0792e3fd7cf1fa.png",
+    "url": "https://www.aiagc.com/cleanup-pictures/",
+    "name": "Cleanup.Pictures",
+    "dec": "cleanup.pictures是一个免费的在线AI抠图工具，可以帮助你从任何图片中移除不想要的对象、人物、文本或缺陷。只需上传你的图片，网站会使用人工智能自动去除你标记的任何对象。在几秒钟内得到清理后的图片，还会使用智能填充技术来保持图片的背景和质量。适用于摄影师、创意机构、房地产、电子商务等领域，提供了快速而高质量的背景去除服务。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2c2686f6e1df4f99bb18c4ac2440a990.png",
+    "url": "https://www.aiagc.com/makelogo-ai/",
+    "name": "MakeLogo.AI",
+    "dec": "makelogo.ai是一个AI生成logo制作网站，可以为你的项目创建美观而独特的logo。只需告诉AI你的项目名称、描述和logo的要求，AI就会为你提供不同的文本概念和低分辨率的预览。你可以从中选择你最喜欢的几个，让AI把它们转换成高清的logo。还可以在logo编辑器中更改颜色、添加文本和修改字体，来定制你的logo。适合用于创业项目或品牌重塑，提供了快速而经济的LOGO设计解决方案。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_670dee3a80114b6d88429042420e5859.png",
+    "url": "https://www.aiagc.com/beautiful-ai/",
+    "name": "Beautiful.AI",
+    "dec": "Beautiful.ai是一款智能AI自动生成PPT演示文稿工具。利用AI人工智能技术来帮助用户创建漂亮、专业、高效的PPT演示文稿。可以根据用户输入的内容，自动调整幻灯片的布局、配色、字体、图表等设计元素，让用户无需花费太多时间和精力就能制作出令人印象深刻的演示文稿。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8b3b18c778d348859c7ebb38cd22caba.png",
+    "url": "https://www.aiagc.com/motiongo-chatppt/",
+    "name": "MotionGo ChatPPT",
+    "dec": "MotionGo ChatPPT是一款由必优科技开发的PPT动画插件，可以通过命令式对话一键智能生成PPT，轻松地为你的PPT添加各种精美的动画效果，让你的演示更加生动有趣。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6a338b06c68543cfb550298b8eadc8af.png",
+    "url": "https://www.aiagc.com/yoojober/",
+    "name": "YOO简历",
+    "dec": "YOO简历是必优科技旗下一款专注于AI辅助在线写简历的产品，为用户提供海量范文模板资源，通过AI快速生成简历，同时提供简历分析、简历识别、简历探测、简历润色等服务，借助智能编辑器，让用户简历创作更简单、投递更有效。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8815929607684478ab6949a9b9779a81.png",
+    "url": "https://www.aiagc.com/leonardo-ai/",
+    "name": "Leonardo.AI",
+    "dec": "Leonardo.Ai是一个可以让你用人工智能来创建游戏素材的网站。无论你是想要制作物品、环境、头盔、建筑还是概念艺术，Leonardo.Ai都可以帮你快速地生成高质量的视觉资源，让你的游戏开发更加高效和有趣。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_42269d35de3f44f3ab1dd962a1b79ce4.png",
+    "url": "https://www.aiagc.com/tome-ai/",
+    "name": "Tome AI",
+    "dec": "Tome.app是一款基于AI的自动生成PPT制作工具，可以利用人工智能（AI）来帮助你创建各种类型的故事和项目展示PPT。无论你是想要制作一份产品设计评审，还是想要展示一项公司战略，或者想要培训你的客户，Tome AI都可以让你以PPT的形式来呈现你的想法和内容。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fee64093d8e945e4a2869d4410286a37.png",
+    "url": "https://www.aiagc.com/cgfaces/",
+    "name": "cgfaces",
+    "dec": "cgfaces.com是一个免费的AI生成高品质人物照片图库，所有的照片都是由 AI 人工智能技术生成的，具有免费下载高解析度版本、自由编辑、可商业使用等特色。AI生成的照片可以避免版权问题，也可以满足各种创意需求。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2f423ed7e36e4780b5955af8f5b995aa.png",
+    "url": "https://www.aiagc.com/designs-ai/",
+    "name": "Designs.ai",
+    "dec": "Designs.ai是一个在线AI人工智能图片视频创作工具。使用专有的人工智能技术令每个人都可以轻松进行在线设计。Designs.ai的工具不但可以节省你的宝贵时间和资源，同时还能创建惊艳的图形，引人注目的视频，个性化徽标和样机素材。还提供其他与设计相关的工具，以协助你轻松地进行创作。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5e01812e403b4ff99149c21b2bc54559.png",
+    "url": "https://www.aiagc.com/photoroom/",
+    "name": "PhotoRoom",
+    "dec": "PhotoRoom是一款好用的AI抠图去背景图片编辑工具。提供在线版以及手机应用等版本，在线AI图片抠图去背景工具可以通过AI人工智能技术快速对图片完成抠图处理，免去复杂的图片处理流程。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8c82d805a8c14562a8c028c028f374b9.png",
+    "url": "https://www.aiagc.com/laihua-removebg/",
+    "name": "来画抠图",
+    "dec": "来画抠图是来画推出的免费在线智能抠图工具。提供基于AI人工智能的强大抠图功能，让你真正实现发丝级抠图，轻松解决日常工作中的各种设计难题。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c88be6f407894d6aa76d812678178441.png",
+    "url": "https://www.aiagc.com/jpghd/",
+    "name": "jpghd",
+    "dec": "jpghd是一个免费的在线AI图片处理工具。提供基于深度卷积神经网络AI人工智能技术的在线老照片修复，黑白照片上色，动态图片处理等工具。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8df680786cf54868936d4fd145e18957.png",
+    "url": "https://www.aiagc.com/bigjpg/",
+    "name": "bigjpg",
+    "dec": "bigjpg是一个免费的在线图片无损放大工具。提供基于深度卷积神经网络AI人工智能技术的图片分辨率尺寸放大服务，可以快速将不清晰的小尺寸照片放大并提升分辨率质量。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d294829abcf64280adae31a85fc66c6c.png",
+    "url": "https://www.aiagc.com/icons8-upscaler/",
+    "name": "icons8 upscaler",
+    "dec": "icons8 upscaler是知名素材分享平台icons8推出的一个免费的在线图片放大工具。提供使用AI人工智能技术的图像分辨率无损放大工具，可以自动且不损失质量的情况下提升图片质量。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_deafc6312ac94af4a13dd1f5724586e2.png",
+    "url": "https://www.aiagc.com/letsenhance/",
+    "name": "letsenhance",
+    "dec": "LetsEnhance是一个免费的在线图片无损放大工具。提供基于AI人工智能的图片分辨率放大工具，可以对图片尺寸进行最高16倍的放大与降噪处理操作。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3c3890c010be4aeb97b1d1360d0dc018.png",
+    "url": "https://www.aiagc.com/waifu2x/",
+    "name": "waifu2x",
+    "dec": "waifu2x是一个免费的在线图片无损放大服务网站。提供基于AI人工智能的图片降噪与无损放大工具，可以对动漫图片和其他图片的分辨率质量进行提升处理。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_443313ef812f445ab8c28acb46a0f3d2.png",
+    "url": "https://www.aiagc.com/zyro-image-upscaler/",
+    "name": "Zyro Image Upscaler",
+    "dec": "Zyro Image Upscaler是Zyro推出的一个基于AI人工智能的在线图片无损放大工具，可以自动将图片进行无损质量的放大处理操作。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_392895025cb1424ca1b6295fcd500349.png",
+    "url": "https://www.aiagc.com/petalica-paint/",
+    "name": "Petalica Paint",
+    "dec": "Petalica Paint是pixiv旗下的一个基于AI人工智能的线稿图片自动上色工具，可以帮助插画师快速对线稿图片进行自动上色处理。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_964f9596e0a2451e9d8c2c7e0767d246.png",
+    "url": "https://www.aiagc.com/imagetocartoon/",
+    "name": "imagetocartoon",
+    "dec": "imagetocartoon是一个免费的在线人脸照片转换卡通头像工具。只需要上传一张清晰的人脸照片，工具就会自动将图片转换为卡通风格的头像。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_917a8f253eba4daa82482f2a7143ecd4.png",
+    "url": "https://www.aiagc.com/wps-ai-ppt/",
+    "name": "WPS智能PPT",
+    "dec": "智能PPT是WPS推出的一款免费的在线PPT制作工具。提供基于AI自动美化的PPT制作，可以帮助你快速的制作一款美观大气的PPT。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_305a74d2b8e947dcb29116ec1f07396c.png",
+    "url": "https://www.aiagc.com/removal-ai/",
+    "name": "removal.ai",
+    "dec": "removal.ai是一个免费的在线抠图工具。提供基于AI的抠图工具，可以让你使用人工智能技术免费快速的从图像中去除背景以及更换背景等操作。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c028200ca9f644b98546770787bc80b2.png",
+    "url": "https://www.aiagc.com/retoucher/",
+    "name": "Retoucher",
+    "dec": "retoucher是一个免费的在线智能抠图工具。提供基于AI技术的在线抠图工具，让你可以免费快速的在线从图像中删除背景，为真正有创意的任务节省你的时间和金钱。",
+    "type": "ai-design"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_725b2e94d5a845f99a5810c8605eeb09.png",
+    "url": "https://www.aiagc.com/amazon-codewhisperer/",
+    "name": "Amazon CodeWhisperer",
+    "dec": "Amazon CodeWhisperer是AWS推出的一款基于人工智能的AI辅助编程工具，它可以根据开发者在集成开发环境（IDE）中的自然语言注释和代码，生成代码建议，从而提高开发者的生产力。 Amazon CodeWhisperer的核心功能是将自然语言转换为代码。开发者只需在 IDE 中输入他们想要实现的功能或逻辑，例如“创建一个用户类”或“计算两个数字的平均值”，Amazon CodeWhi…",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1b0ea05ef1034e48aa62d5945bb1a16f.png",
+    "url": "https://www.aiagc.com/replit-ai-ghostwriter-chat/",
+    "name": "Replit AI Ghostwriter Chat",
+    "dec": "Ghostwriter Chat是在线IDE平台Replit推出的一个AI人工智能辅助编程工具，只需要使用自然语言描述你想要的项目，Ghostwriter就会为你生成代码。支持多种编程语言，可以帮助你更快地进行项目开发。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d8852b2df8744573a7ef3ffc150deb59.png",
+    "url": "https://www.aiagc.com/mutable-ai/",
+    "name": "Mutable.ai",
+    "dec": "mutable.ai是一个AI辅助编程软件开发工具，可以帮助你快速构建应用程序。提供有一个Visual Studio Marketplace的插件，可以让你在编程时使用AI的建议和代码片段。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_27ac4767b563458196084e92917aad2f.png",
+    "url": "https://www.aiagc.com/durable-co/",
+    "name": "Durable.co",
+    "dec": "durable.co是一个AI网站构建器工具。可以让你在一分钟内生成一个完全设计好的网站，让你轻松地定制你的网站，提供简单的编辑工具，多个页面，和一个免费的自定义域名。不需要任何编码技能，只需拖拽就可以修改你的网站内容。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_37bf418387b24b329b2e35c04e0dd207.png",
+    "url": "https://www.aiagc.com/aixcoder/",
+    "name": "aixcoder",
+    "dec": "aixcoder是一款AI智能辅助编程工具。通过与aiXcoder进行配对编程，程序员将感受到工作效率的显著提升。在aiXcoder的帮助下，程序员将摆脱传统的“逐字逐句”编程方式，而是通过自然语言描述需求，让aiXcoder自动完成代码的生成、补全、优化和测试。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_dc663bbf8d3046248b75ac568df8df7d.png",
+    "url": "https://www.aiagc.com/codeium/",
+    "name": "Codeium",
+    "dec": "Codeium是一个基于人工智能技术构建的AI辅助编程工具，目前有两个主要功能：自动补全，可以根据你想要输入的代码给出建议，帮助你节省从模板到单元测试的时间；搜索，帮助你用自然语言在你的仓库中搜索代码，让你更容易找到你需要的信息。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0f4bd4593e6044cea2c76d5bb937a5dd.png",
+    "url": "https://www.aiagc.com/httpie-ai/",
+    "name": "HTTPie AI",
+    "dec": "HTTPie AI是一个r人工智能API开发工具，提供了一种新的方式来与API进行交互。通过使用人工智能和聊天界面来帮助用户用自然语言的对话方式构建和测试 API 请求。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e836074484fb4948bf49f0c564a47463.png",
+    "url": "https://www.aiagc.com/codium-ai/",
+    "name": "Codium.ai",
+    "dec": "codium.ai是一个AI人工智能应用模型开发平台，可以帮助你创建、优化和部署自己的机器学习模型。你可以使用它来解决各种问题，比如文本生成、图像分类、语音识别等任务。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_32ccbb55465649e4a3916b14a1453ed0.png",
+    "url": "https://www.aiagc.com/inworld-ai/",
+    "name": "Inworld.ai",
+    "dec": "inworld.ai是一个AI角色开发工具平台，可以为虚拟游戏中的NPC角色添加基于大型语言模型的人工智能对话能力，还增加了可配置的安全性、知识、记忆、叙事控制、多模态等功能。你可以用它来创造具有独特个性和上下文感知的游戏角色，为玩家提供更有代入感的游戏体验。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_66fc32606362446cb28f56e781f9155c.png",
+    "url": "https://www.aiagc.com/convai/",
+    "name": "Convai",
+    "dec": "convai是一个会话人工智能平台，可以为虚拟游戏世界中的NPC角色提供类似人类的对话能力。只需通过简单的界面就可以创建你的AI智能角色，并通过插件将它们连接到你的游戏资产和虚拟世界。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3d4f621008224aa683f6df4ffc98ec04.png",
+    "url": "https://www.aiagc.com/lobe-ai/",
+    "name": "Lobe.ai",
+    "dec": "Lobe.ai是一个简化AI机器学习过程的工具，只需要三个简单的步骤。收集并标记你的图片，训练你的模型并理解你的结果，改进和导出你的模型。你可以使用你的摄像头或从你的电脑拖入一个图片文件夹来收集图片，然后快速地给图片打上标签来创建一个机器学习数据集。ai会自动地训练你的模型，并给你实时的反馈和可视化结果。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_279a0423a3414a09ade352a2aa973fbd.png",
+    "url": "https://www.aiagc.com/obviously-ai/",
+    "name": "Obviously.ai",
+    "dec": "obviously.ai是一个无需编码的AI人工智能数据预测分析工具。可以轻松地集成和从大规模数据中进行结果分析预测，而不需要任何机器学习的知识。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1d3b889b5f6b49fca7be9e68160de951.png",
+    "url": "https://www.aiagc.com/builder-ai/",
+    "name": "Builder.ai",
+    "dec": "builder.ai是一个基于AI的手机APP应用开发平台。可以帮助你创建任何你想象的应用。通过使用人工智能来快速和节省成本地构建你的项目，根据你选择的模板来拼接可重用的功能，让开发者可以专注于创建只有你的业务需要的定制功能。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e3b678e585e0477a8221a9238af9886a.png",
+    "url": "https://www.aiagc.com/buildai/",
+    "name": "BuildAI",
+    "dec": "buildai.space是一个AI应用无代码开发工具，可以让你用自然语言描述你想要的AI应用，然后生成和运行它。你可以自定义应用的外观，输入数据，调整指令，查看结果。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e40d9153ba454d73be7192d9b9a8cc4d.png",
+    "url": "https://www.aiagc.com/cogniflow-ai/",
+    "name": "cogniflow.ai",
+    "dec": "Cogniflow.ai是一个无代码AI应用开发平台，可以让任何人轻松地创建和部署机器学习模型。只需要上传你的数据，选择你想要的任务，比如图像分类、文本生成或情感分析，然后让Cogniflow.ai为你训练和优化一个高性能的模型。可以在几分钟内获得一个可用的AI应用，而不需要编写任何代码或了解任何AI的技术细节。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0df5764187a841cbbcf5f5f074a7235d.png",
+    "url": "https://www.aiagc.com/mottle/",
+    "name": "Mottle",
+    "dec": "mottle是一个基于AI的无代码聊天机器人构建工具，可以让你用自然语言来创建你自己的聊天机器人。你可以用它来让你的数据变得更有生命力，用一个强大的知识机器人来回答所有的问题。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ccbe703fdd9e442fb9bf68fe0f4a1388.png",
+    "url": "https://www.aiagc.com/viso-ai/",
+    "name": "Viso.ai",
+    "dec": "Viso.ai是一个无代码计算机视觉识别应用开发平台，可以用来构建、部署和扩展你的AI视觉识别应用程序。提供了数据收集、应用编辑器、设备管理、监控仪表板等功能，让你可以轻松地使用计算机视觉的人工智能技术。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7dc0cdf4f01e4065a94eab420949c1f0.png",
+    "url": "https://www.aiagc.com/felvin-ai/",
+    "name": "Felvin AI",
+    "dec": "felvin是一个基于AI的APP应用开发平台，可以让用户不用编写任何代码，就可以快速轻松地设计、开发和货币化高质量的定制手机应用。用户可以定义输入字段和标签，添加选项和计算，以及定义逻辑和提示。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_086867b89fbf44efb23d658dc59b2333.png",
+    "url": "https://www.aiagc.com/stunning-so/",
+    "name": "Stunning.so",
+    "dec": "stunning.so是一个使用AI人工智能快速生成网站的工具。通过ChatGPT的强大能力，只需使用自然语言的方式简单描述一下想要生成网站的类型，就可以在 30 秒内生成包括文本和图片的网站代码。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_129e3107a3224080bea70f6ea49df55e.png",
+    "url": "https://www.aiagc.com/customgpt-ai/",
+    "name": "CustomGPT.ai",
+    "dec": "CustomGPT是一个个性化的AI聊天机器人构建工具，可以使用你自己的数据创建，能够理解你的业务的所有细节。帮助你改善你的客户支持、潜在客户生成、营销自动化和其他业务流程。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f436dc42e09c43488f42923ca2899bc1.png",
+    "url": "https://www.aiagc.com/10web-ai/",
+    "name": "10web AI",
+    "dec": "10web.io是一个AI人工智能驱动的WordPress建站工具平台，可以帮助你创建、托管和管理你的网站。平台提供了一系列的功能，如自动网站生成器，高性能托管，90+的页面速度评分，全面的安全保护，实时备份和恢复，一键式网站迁移，以及专业的技术支持等等。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e1b1793897e9437888b03151eef78cf5.png",
+    "url": "https://www.aiagc.com/wand-ai/",
+    "name": "Wand.ai",
+    "dec": "wand.ai是一个端到端的AI应用开发平台，可以让你在几天内实现你的想法。你可以从多个数据源获取数据，并在几分钟内将它们连接到管道。高效地构建AI解决方案。快速扩展以支持更多的数据和解决方案，随着时间的推移创造更多的价值。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6ccb1f0b8a1d418ea4d5a747a516259c.png",
+    "url": "https://www.aiagc.com/sitekick-ai/",
+    "name": "Sitekick.ai",
+    "dec": "Sitekick.AI是一个AI落地页制作器工具。可以让你在几分钟内创建一个漂亮的落地页，而不需要编码、设计或文案写作技能。只需要输入你的产品或服务的名称、描述和目标，Sitekick.AI就会自动为你生成一个适合你的落地页模板。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1e1e08de290f4b8fbdefc69c5913a8ab.png",
+    "url": "https://www.aiagc.com/gptagent/",
+    "name": "gptagent",
+    "dec": "gptagent是一个可以让你用无代码的方式创建和部署人工智能应用的平台。你可以用它来制作网页应用、Discord机器人、工作流自动化等工具。它还提供了一些人工智能工具，比如可以为你写求职信封面的在线生成器。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_899f2ce6877349f3b8165bb469c9bca7.png",
+    "url": "https://www.aiagc.com/magickml/",
+    "name": "Magickml",
+    "dec": "magickml是一个基于AI的无代码应用集成开发工具，提供了一个强大的、开源的、低代码的可视化编程环境，可以构建最先进的AI系统。让你轻松地创建和部署复杂的AI组件，这些组件可以连接到各种服务，以实现适应性和可扩展性。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_535a2643fccf41c1b44df9c1ec3c22da.png",
+    "url": "https://www.aiagc.com/roboflow/",
+    "name": "Roboflow",
+    "dec": "Roboflow是一个AI图像识别模型训练平台，可以给你的软件赋予识别图像和视频中物体的能力。让你轻松地标注和管理你的图像数据集。并且使用不同的预训练模型来训练你自己的图像识别模型。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c36bb4f41898437e9fa1faceca2d4d82.png",
+    "url": "https://www.aiagc.com/teleporthq-io/",
+    "name": "TeleportHQ.io",
+    "dec": "teleporthq.io是一个使用AI生成代码的网站和UI构建器工具。可以让你用一种简单的方式创建网站和UI元素。你可以导入和使用Chat GPT生成的代码，或者使用Vision API根据手绘的线框图创建布局。无需编码，只需输入你想要的网站或UI元素的描述，就可以得到AI生成的代码。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f7d85fef49f0481baa5bd158731e9a52.png",
+    "url": "https://www.aiagc.com/axiom-ai/",
+    "name": "Axiom.ai",
+    "dec": "Axiom是一个提供浏览器自动化功能的Chrome扩展，可以让你在浏览器中自动化一些任务，比如填写表单、点击按钮、切换标签等。你可以使用它提供的模板，或者定制自己的机器人。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d1f20b3d5e9b4d6fb8da755368330c38.png",
+    "url": "https://www.aiagc.com/batchgpt/",
+    "name": "BatchGPT",
+    "dec": "batchgpt是一个AI数据处理工具，可以让你用人工智能批量处理你的数据，不需要编程经验。你可以用它来做分类、转换、解析和翻译等任务，提高工作效率。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c43d0a071c6948d2b698d5e5eef34ccd.png",
+    "url": "https://www.aiagc.com/durable-ai/",
+    "name": "Durable.ai",
+    "dec": "durable.ai是一个基于AI人工智能的软件定制开发工具。让任何人无论技术能力如何都可以通过AI技术快速构建专门针对其独特需求量身定制的软件产品。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_076a9f36e6874a1a99c75aae6e6b1a34.png",
+    "url": "https://www.aiagc.com/brancher-ai/",
+    "name": "Brancher.ai",
+    "dec": "brancher.ai是一个AI应用编程开发平台，可以让用户连接和使用AI模型来创建强大的应用程序，而不需要编码知识。使用brancher.ai，用户可以快速简单地创建AI驱动的应用程序，利用AI的潜力，构建独特复杂的应用程序。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3907a97725154fbf88de5da85a070196.png",
+    "url": "https://www.aiagc.com/codewp-ai/",
+    "name": "CodeWP.ai",
+    "dec": "CodeWP是一个为WordPress创建者构建和训练的AI代码生成器工具。可以生成PHP、JS、WooCommerce和许多流行插件的代码。你可以用它来快速创建WordPress的功能，而不需要花费太多时间在Google搜索或试错上。还可以保存、导出和分享你生成的代码片段。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3f44e3b5ddec4b6288b026a767776337.png",
+    "url": "https://www.aiagc.com/airops/",
+    "name": "AirOps",
+    "dec": "AirOps是一个提供AI数据助手和数据工作空间的平台，帮助你用自然语言快速处理和分析数据，生成SQL，文档，API。可以让你搭建自己的数据栈，或者使用提供的ETL和数据仓库。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_24a2a8116aca4796a7a271197617d31d.png",
+    "url": "https://www.aiagc.com/findly-ai/",
+    "name": "Findly.ai",
+    "dec": "findly.ai是一个AI数据库查询工具，可以让你用简单的自然语言查询数据库，得到准确、有用的数据洞察，而不需要学习SQL或Python。你可以直接在Slack或Teams上提问，然后看到数据可视化和报告。支持所有可以运行SQL查询的数据库。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2f50f69286d64028a025fffeba8e42de.png",
+    "url": "https://www.aiagc.com/mindsdb/",
+    "name": "MindsDB",
+    "dec": "MindsDB是一个开源的AI基础设施工具，可以让开发者快速地将机器学习集成到应用程序中。用SQL语句在数据库中创建和查询AI表，从而实现分类、回归和时间序列预测等功能。还支持多种数据源和机器学习框架，以及可视化和解释性分析。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_53a8b10c44c1462b9048f9061c9c07a4.png",
+    "url": "https://www.aiagc.com/askstring/",
+    "name": "askstring",
+    "dec": "askstring是一个基于AI人工智能的数据库查询工具。通过使用先进的人工智能模型技术，可以让你用自然语言和你的数据进行对话。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_844197308be54bab91e5b12e51615bed.png",
+    "url": "https://www.aiagc.com/usechannel/",
+    "name": "usechannel",
+    "dec": "channel是一个在线AI聊天机器人部署工具，可以使用人工智能和机器学习创建和部署聊天机器人。在不需要编程的情况下为你的业务或组织创建和定制聊天机器人。该平台提供了现成的聊天机器人模板和功能，例如自动生成数据的美观可视化，以及使用纯英语查询你的数据仓库。还可以与你的团队协作，共享数据洞察和定义。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ecc5551f31ca4608a552cfb1d704280b.png",
+    "url": "https://www.aiagc.com/akkio/",
+    "name": "Akkio",
+    "dec": "akkio是一个无代码AI应用开发平台，可以让你用自然语言处理和分析数据，创建和部署预测模型。帮助你实现实时的智能决策，提高业务效率和收入。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7b0c3fe1944b45e693a69461960af78c.png",
+    "url": "https://www.aiagc.com/tabletalk-ai/",
+    "name": "Tabletalk.ai",
+    "dec": "TableTalk是一个AI人工智能数据库查询工具，可以让你用自然语言和你的数据库对话。帮助你快速地获取你需要的数据，而不用写SQL查询。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_24b50a7ca08140eb89571c1bdf0ee5f5.png",
+    "url": "https://www.aiagc.com/aihelperbot/",
+    "name": "AIHelperBot",
+    "dec": "aihelperbot是一个AI人工智能驱动的 SQL数据库查询生成器，可以让你用自然语言来生成 SQL 查询。让没有 SQL 知识的人也能轻松地获取数据洞察。支持多种语言和数据库，并且可以自动匹配和添加数据库模式上下文，以确保 SQL 查询的准确无误。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f77c8395f30d4c18b27086c0906747dc.png",
+    "url": "https://www.aiagc.com/replicate-ai/",
+    "name": "Replicate AI",
+    "dec": "Replicate是一个云端开源AI模型API开发平台，可以让你轻松地运行和部署开源的机器学习AI模型。你可以使用Replicate的Python库或者直接调用API来运行数千个由机器学习爱好者分享的模型，例如图像生成、视频编辑、语音转换等。也可以使用Replicate的开源工具Cog来打包你自己的机器学习模型，只需几行代码就可以创建一个标准的、生产就绪的容器。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_54d2a1dc05144c9fb44490f2d84c65ca.png",
+    "url": "https://www.aiagc.com/tabnine-ai/",
+    "name": "Tabnine AI",
+    "dec": "Tabnine是一个AI辅助编程代码生成工具。可以在你的编辑器中提供整行和全函数的代码补全，根据上下文和语法预测和建议你的下一行代码。支持超过30种语言和15种IDE，并且可以在本地或云端运行。你可以连接你自己的仓库（GitHub/GitLab/Bitbucket），让Tabnine的AI模型学习和匹配你的编码规范和最佳实践。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b6117e4d62a845fd8fc9cf1c4b1ef4c9.png",
+    "url": "https://www.aiagc.com/github-ai-copilot-x/",
+    "name": "GitHub AI Copilot X",
+    "dec": "GitHub Copilot是一个AI辅助编程代码生成工具，可以根据你的注释或代码上下文为你提供代码建议。由GitHub与OpenAI合作推出，基于一个名为 OpenAI Codex 的强大的语言模型提供支持。可以帮助你编写更快、更简洁、更高质量的代码，同时让你专注于解决更大的问题。支持数十种编程语言，并且可以在 Visual Studio Code 中进行使用。 Copilot X是 GitHu…",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7fc6285a74aa41a392c5e1dd07afeddc.png",
+    "url": "https://www.aiagc.com/debuild-ai/",
+    "name": "Debuild AI",
+    "dec": "Debuild是一个使用AI人工智能帮助快速构建网页应用的低代码开发工具。可以用Debuild来生成React组件、SQL代码、可视化界面，并且一键上线。让你在几秒钟内从想法到实现。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f494b99892404f53bf29ec8e3958003f.png",
+    "url": "https://www.aiagc.com/kodezi-ai/",
+    "name": "Kodezi AI",
+    "dec": "kodezi是一个AI辅助开发编程工具，可以帮助程序员自动优化代码，修复错误，生成文档，转换语言。它是一个VS Code的扩展，可以在自己的IDE中使用。支持多种编程语言，适合学生，开发者团队。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fe683a5cf09f464bbfdd35021b73cd61.png",
+    "url": "https://www.aiagc.com/ai2sql-io/",
+    "name": "AI2sql.io",
+    "dec": "AI2sql是一款基于AI的SQL数据库查询编写工具，无需了解 SQL 即可轻松编写高效、无错误的 SQL 查询。只需要输入一些有关数据的关键字，AI2sql会自动为你的数据构建优化的 SQL 查询，从而获得极快的性能。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e50e5f00d31b4999b541d7718ca7e794.png",
+    "url": "https://www.aiagc.com/cursor-so/",
+    "name": "Cursor.so",
+    "dec": "Cursor.so是一款AI辅助编程代码生成器工具。基于OpenAI的GPT-4模型，可以帮助开发者快速地编写、编辑和查询关于代码的内容，支持多种编程语言和文件类型，具有强大的AI辅助软件开发功能。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_35853711196b4105b5728720db8af738.png",
+    "url": "https://www.aiagc.com/browse-ai/",
+    "name": "Browse.ai",
+    "dec": "browse.ai是一个基于AI的网站监控数据爬虫工具，可以让你用无代码的方式从任何网站抓取和监控数据。只需要用鼠标点选你想要的数据，就可以创建一个自动化的机器人，它会定期为你更新数据，并把数据保存在电子表格或其他工具中。还可以监控网站的变化，并在发生变化时收到通知。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_78ebee2b363749b2946ec3846a03b9ee.png",
+    "url": "https://www.aiagc.com/huggingface-co/",
+    "name": "HuggingFace.co",
+    "dec": "huggingface.co是一个AI社区，致力于构建未来的机器学习。它提供了一个开放的平台，让你可以创建、发现和协作机器学习模型，特别是自然语言处理（NLP）模型。你可以在平台上探索不同的任务，如图像分类、对象检测、问答、摘要、文本分类、翻译等，并使用各种预训练的模型来解决这些任务。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5d66c3bb73914b47a8eb0d15c71b02a2.png",
+    "url": "https://www.aiagc.com/imgcook/",
+    "name": "Imgcook",
+    "dec": "Imgcook是阿里巴巴旗下淘宝技术团队出品的基于AI人工智能的图片设计稿智能转换生成前端代码工具。可以以 Sketch、PSD、静态图片等形式的视觉稿作为输入，通过智能化技术一键生成可维护的前端代码，包含视图代码、数据字段绑定、组件代码、部分业务逻辑代码等。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5a05668d38da4d2fb96cca06917aedb1.png",
+    "url": "https://www.aiagc.com/uizard/",
+    "name": "uizard",
+    "dec": "uizard是一个基于AI人工智能的在线无代码软件开发工具。可以通过拖放模板和组件在几分钟内设计你的软件产品。最大的特色是可以使用AI人工智能技术快速扫描你的产品设计草图自动将其转换为软件的设计成品。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5d099584e69f4fc69259d112239475ac.png",
+    "url": "https://www.aiagc.com/sketch2code/",
+    "name": "Sketch2Code",
+    "dec": "Sketch2Code是微软推出的一款在线AI生成html代码工具，可以直接将上传的手绘设计草图自动转换为HTML代码。",
+    "type": "ai-code"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_12970774d07a4384831f8a1d5dfe0788.png",
+    "url": "https://www.aiagc.com/weta365/",
+    "name": "奇妙元",
+    "dec": "奇妙元是出门问问推出的AI虚拟数字人形象视频创作及直播平台。现有超 100 款数字人、超 1000 款 3D 数字资产、超 1000 种声音。凭借多模态生成技术，「奇妙元」平台目前共支持图片建模（2D 数字人）、视频建模（2.5D 数字人)、3D 建模（3D 数字人）三种不同形式的数字人生成。其形象克隆功能，仅需一段 5 分钟的真人视频素材，就可以 1：1 复刻用户的形象神态，为用户打造声音一致、…",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_462ed1a24bf242c4a2faaffca6490375.png",
+    "url": "https://www.aiagc.com/d-id-ai-studio/",
+    "name": "D-ID AI Studio",
+    "dec": "D-ID AI Studio是一个基于人工智能技术的AI虚拟数字人视频生成创作平台，可以让你用照片或视频制作逼真的动画，比如说话、唱歌、笑等等。还可以保护你的隐私，防止你的面部被识别或滥用。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_37217aefe2ba465c81e7a7e2a3961fd2.png",
+    "url": "https://www.aiagc.com/quickvid-ai/",
+    "name": "Quickvid.ai",
+    "dec": "quickvid.ai是一个基于AI的视频生成制作工具，可以帮助你用人工智能快速创建 YouTube 短视频。只需要输入一个主题，它就会为你生成一个视频脚本、配音和背景音乐。还可以编辑和定制视频，然后一键上传到 YouTube。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5a79521895b74dddb8eb8b5666130234.png",
+    "url": "https://www.aiagc.com/topaz-video-ai/",
+    "name": "Topaz Video AI",
+    "dec": "Topaz Video AI是一款基于AI人工智能技术的视频画质增强软件，可以对视频进行去交错、放大和运动插值等处理。可以对任何分辨率的视频进行画质增强放大，甚至可以将标清视频画质提升到8K。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4ce1d11738f14db3be7aeae8bd67b864.png",
+    "url": "https://www.aiagc.com/supercreator-ai/",
+    "name": "Supercreator.ai",
+    "dec": "supercreator.ai是一个利用人工智能辅助视频创作的AI视频编辑制作应用。可以将超过100个繁琐和耗时的任务简化为一个简单的应用程序。你可以使用它来快速、高效地制作各种类型的视频，比如教育、营销、娱乐等。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0ac746a9d3574022ac4b2b615f3905e4.png",
+    "url": "https://www.aiagc.com/vidyo-ai/",
+    "name": "Vidyo.ai",
+    "dec": "vidyo.ai是一个基于AI的视频编辑转换工具，它可以自动从你的视频中选择、编辑和添加字幕，生成适合不同平台、格式和模板的短视频。你可以上传你的电脑或YouTube链接的视频，然后告诉它你的需求，AI会在几分钟内为你制作定制的短视频。还可以修改颜色、字体、字幕等细节。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_70b668fc3a994132b6df276ad752f765.png",
+    "url": "https://www.aiagc.com/hourone-ai/",
+    "name": "Hourone.ai",
+    "dec": "Hour One是一个使用人工智能技术创建虚拟数字人的AI视频制作生成工具，可以将文本转换为视频，用于培训、教育、娱乐等目的。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_06ebc756edbd4441a4809f35a6fcdce4.png",
+    "url": "https://www.aiagc.com/tavus-ai/",
+    "name": "Tavus AI",
+    "dec": "Tavus是一个能够将你录制的视频自动转化为无数个AI生成视频的个性化平台，它可以根据每个客户的独特声音变量定制视频，以激发客户的忠诚度和重复转化，帮助你提高客户参与度，增加销售额，节省时间和成本。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f95329b36bee4c04b5714c6cf77d6c45.png",
+    "url": "https://www.aiagc.com/nuwa-xl/",
+    "name": "NUWA-XL",
+    "dec": "NUWA-XL是微软亚洲研究院推出的多模态生成模型 NUWA 系列的最新模型。NUWA 系列包括 NUWA、NUWA-Infinity 和 NUWA-XL，可以根据自然语言指令生成文本、图像和视频。NUWA-XL则只需要输入16句简单的描述就可以生成超长的动画视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4fbbaa2cf90a4c48b169799cade296d5.png",
+    "url": "https://www.aiagc.com/opus-ai/",
+    "name": "Opus.ai",
+    "dec": "opus.ai是一个基于AI的3D内容创作平台，可以将文本自动转换成视频，让你的故事变成动画。只需使用自然语言写出你的故事，然后即可通过AI进行实时呈现。也可以使用Opus的人工智能技术来生成场景、角色、对话和视觉效果。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f00da5c650cc4d5384d845c4feef8f22.png",
+    "url": "https://www.aiagc.com/artflow-ai/",
+    "name": "Artflow.ai",
+    "dec": "artflow.ai是一个AI视频生成制作工具。可以用人工智能生成的素材来创作你自己的动画故事。支持创建角色、场景和声音，只需编写对话，就可以生成自定义故事视频。也可以使用预先制作的角色和场景，或者发挥你的创造力，讲述独特的故事。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_14000202ca6f4cf2844082f561ad132a.png",
+    "url": "https://www.aiagc.com/phenaki/",
+    "name": "Phenaki",
+    "dec": "Phenaki是一个AI视频生成模型。可以通过简单的文本提示自动生成视频内容。主要利用文本中的时间变化来创造出不同的场景和动作，还可以从一张静止图像和一个提示生成相关的连续视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_502380a2adfa47a48e2e5f7bf9f4b377.png",
+    "url": "https://www.aiagc.com/waymark/",
+    "name": "Waymark",
+    "dec": "waymark是一个AI人工智能视频制作平台。只需要输入一个商业类目和地点，它就会自动扫描网上的本地商业数据，并根据你的品牌生成一个营销视频。可以对视频进行最后的调整，然后分享、下载或者播放。帮你节省制作视频的时间和成本，提高你的商业效果。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7424905709454154a0e18e04fda10aa9.png",
+    "url": "https://www.aiagc.com/spiritme/",
+    "name": "SpiritMe",
+    "dec": "spiritme是一个AI视频生成制作工具。只需要输入任何文本，就会自动生成一个视频，让你可以用自己的外貌头像、声音和情感表演任何视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9ac04ddfc519458d8205691b04c96e9e.png",
+    "url": "https://www.aiagc.com/zenvideo/",
+    "name": "腾讯智影",
+    "dec": "腾讯智影是腾讯出品的一款云端AI视频生成制作工具。不仅拥有常用的基础功能，如视频剪辑、转场、滤镜、字幕、音乐等，还有基于腾讯AI人工智能技术打造的智影数字人播报能力，以及联合更多腾讯AI能力推出的素材管理、AI文本配音、自动字幕识别、文章转视频、去水印、视频解说、横转竖等功能。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_73c4a9a15f4c4b32a0315e5c6571d739.png",
+    "url": "https://www.aiagc.com/yizhentv/",
+    "name": "一帧秒创",
+    "dec": "一帧秒创是一个基于秒创AIGC引擎的智能AI视频内容生成平台，为创作者和机构提供AI生成服务，包括文字续写、文字转语音、文生图、图文转视频等创作服务，一帧秒创通过对文案、素材、AI语音、字幕等进行智能分析，快速成片，零门槛创作视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e2b8d405131f4426a84448222867134a.png",
+    "url": "https://www.aiagc.com/quinvio-ai/",
+    "name": "Quinvio AI",
+    "dec": "Quinvio AI是一个AI视频生成制作平台，可以让你用AI来编写你的视频脚本，并且能够通过逼真的AI虚拟数字人来呈现你的视频，然后快速地分享给你的观众。可以用Quinvio AI来制作学习教育、演示、人力资源入职、营销等方面的视频内容。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f1e468e21269424cb2f1a6e7662c0c91.png",
+    "url": "https://www.aiagc.com/wowto-ai/",
+    "name": "WowTo.ai",
+    "dec": "WowTo是一个AI教程视频制作生成软件，使用AI创建和托管教程视频知识库。你可以用WowTo的视频编辑器制作支持视频、培训视频和教育视频。还支持自然的AI语音合成，多语言本地化，内置应用小部件等功能。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8bd2e52b32a74b2482ef6f40e2073321.png",
+    "url": "https://www.aiagc.com/make-a-video/",
+    "name": "Make-A-Video",
+    "dec": "Make-A-Video是一个由Meta公司开发的AI视频生成制作工具，可以根据文本生成视频。只需要输入几个词或几行文本，就可以为你创造出奇妙、独特的视频。利用了文本到图像生成技术的最新进展，并且加入了时空管道来创建连贯的短视频。还可以对视频进行变化，增加创意。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_950f5f89fa0c427dafb689b2e8c9727d.png",
+    "url": "https://www.aiagc.com/colossyan-ai/",
+    "name": "Colossyan AI",
+    "dec": "Colossyan是一个AI虚拟数字人视频制作生成平台。可以让你使用基于人工智能技术的虚拟演员来制作视频。只需要输入你想让演员说的话，就可以在几分钟内生成一段视频。可以选择不同的演员、语言、字幕、场景和媒体来进行定制。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c9d428c4ce7d428ca66d4bd9123a0860.png",
+    "url": "https://www.aiagc.com/genmo-ai-chat/",
+    "name": "Genmo AI Chat",
+    "dec": "Genmo AI Chat是一个AI人工智能文本生成视频工具。可以用Genmo来创作、编辑、改进你的图像和视频。也可以和Genmo进行对话，让它帮助你实现你的创意想法。生成和编辑电影、动画、海报、图标等创意内容。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c0358f0c8ce44eb1b4f06f2de1f368ec.png",
+    "url": "https://www.aiagc.com/deepbrain-ai/",
+    "name": "Deepbrain AI",
+    "dec": "deepbrain是一个AI视频生成制作平台，可以让你用简单的文本就能制作出逼真的AI虚拟人视频。你可以选择从100多个不同的AI模型中，找到最适合你品牌的AI虚拟人，让它为你说出任何语言的文本。还可以上传PPT文件，自动为你生成视频内容。可以用来制作培训视频、教学视频、营销视频、新闻视频等各种场景的视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_c0c7c95dccd4464d9e63e3a4b79b40e4.png",
+    "url": "https://www.aiagc.com/unscreen/",
+    "name": "Unscreen",
+    "dec": "unscreen是一个AI视频抠图工具，通过使用人工智能自动去除视频背景，只需要上传你的视频或GIF，或者输入一个视频网址，就可以在不需要任何点击的情况下，为你生成一个无背景的视频或GIF。不用再使用复杂和麻烦的技术，比如绿幕和色键。可以在任何地方拍摄你的视频，然后用Unscreen轻松地去掉背景。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2a431966279745e3bcf07bbdc4debbe4.png",
+    "url": "https://www.aiagc.com/visla/",
+    "name": "Visla",
+    "dec": "Visla是一个AI视频生成制作工具，使用人工智能技术来帮助团队快速高效地制作高质量的视频。Visla有一个简单易用的视频制作器，一个基于转录的编辑工具，可以让你在任何地方、任何时候创建、管理和分享你的视频，无论是用于营销、销售还是团队沟通目的。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4040b07b5fa54f07bdae6429f049a841.png",
+    "url": "https://www.aiagc.com/heygen/",
+    "name": "HeyGen",
+    "dec": "heygen是一个AI视频生成平台，只需输入和点击，就可以把文本转换成发言人视频。可以从100多个AI虚拟数字人中选择，或者创建你自己的虚拟数字人。支持40多种语言和不同的口音，可以让你的虚拟人与你的文本完美地同步。还可以组合多个场景，添加背景音乐，下载高清视频，或者与你的同事或客户分享视频。适合用于制作企业培训、营销、电子学习等领域的AI虚拟数字人视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fad7cf2eec3f4401bf92f89c28f40bc0.png",
+    "url": "https://www.aiagc.com/xunfei-peiyin/",
+    "name": "讯飞智作",
+    "dec": "讯飞智作是科大讯飞旗下的一站式配音服务平台，提供合成配音、真人配音、虚拟人视频和PPT生成视频等功能，让用户可以快速、便捷、高效地制作出优质的音视频内容。讯飞智作利用科大讯飞领先的语音合成技术，为用户提供多种音色、多类场景、多样风格的配音方案，满足不同用户的不同需求。讯飞智作还拥有资深专家团队，为用户提供专业的真人配音服务，保证配音品质和效率。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9df1a727ac2d478b8b00f7d866502f0f.png",
+    "url": "https://www.aiagc.com/rephrase-ai/",
+    "name": "Rephrase.AI",
+    "dec": "Rephrase.ai是一款基于人工智能的视频制作编辑工具，可以让用户通过输入文本和选择演员，快速生成逼真的视频内容。帮助企业和个人提高视频制作的效率和质量，降低视频制作的成本和难度。应用场景包括营销、培训、教育、娱乐等多个领域。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2bfdb8880d4b4888b0697b25a6e8bf7a.png",
+    "url": "https://www.aiagc.com/elai-io/",
+    "name": "Elai.io",
+    "dec": "Elai.io是一个基于人工智能的AI视频生成平台，可以让你只用文本就能制作出有真人主持的专业视频。无论你是想做教育、营销、企业沟通或者其他类型的视频内容，Elai.io都可以帮你节省时间和成本，提高效率和质量。Elai.io的技术结合了GPT-3、语音合成、自然语言处理和计算机视觉等领域的最新进展，让你可以轻松地创建和定制你的视频。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4af3e1d86dba42aa99ebba7120741d02.png",
+    "url": "https://www.aiagc.com/synthesys/",
+    "name": "Synthesys",
+    "dec": "Synthesys是一个基于人工智能的语音合成和视频生成平台，可以让你用几分钟的时间，就能制作出专业的音频和视频内容，无需花费大量的金钱和时间去雇佣演员、摄像机或音频设备。Synthesys的技术可以把你的文本转换成逼真的人声和人像，让你的网站、产品、社交媒体等数字媒体呈现出更有吸引力和信任感的效果。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fb8b0a8449894592bace963926704d0f.png",
+    "url": "https://www.aiagc.com/steve-ai/",
+    "name": "Steve.AI",
+    "dec": "Steve.ai是一款利用人工智能技术创建视频和动画的在线工具，可以让任何人在几分钟内把文字转换成吸引人的视频。核心功能是根据用户输入的文本，自动选择合适的素材、音乐、字幕和动效，生成高质量的视频。还提供了多种模板、风格和场景，让用户可以根据不同的目的和平台，定制自己的视频内容。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f3d744594507469f9ae9444862da3a66.png",
+    "url": "https://www.aiagc.com/lumen5/",
+    "name": "Lumen5",
+    "dec": "Lumen5是一个基于AI人工智能技术的在线视频制作平台，可以帮助用户快速地将文字内容转化为引人注目的视频。让任何人都能够轻松地创建视频，而无需专业的技能或复杂的软件。Lumen5适合各种用途，比如社交媒体营销、内容营销、教育、培训、娱乐等。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4425ddaae8084df19aae668878dcf32e.png",
+    "url": "https://www.aiagc.com/invideo-io/",
+    "name": "InVideo.io",
+    "dec": "InVideo是一个内置AI工具的在线视频编辑器，可以帮助快速轻松地创建专业品质的视频。无论你是想制作社交媒体广告、宣传视频、教育视频、或者其他任何类型的视频，InVideo都有适合你的模板和功能。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_26c8c00d6bed4441bc91a33cb8b86a3f.png",
+    "url": "https://www.aiagc.com/pictory-ai/",
+    "name": "Pictory.AI",
+    "dec": "Pictory.ai是一个基于人工智能的在线视频制作编辑器工具，可以帮助用户快速、简单、高效地制作各种类型的视频，无论是从文字、博客、长视频中生成短视频，还是给视频添加字幕、音乐、配音等。基于强大的AI技术和丰富的素材库，让你无需下载任何软件或具备任何技术技能，就可以轻松创建出专业品质的视频，并分享到各个社交媒体平台上。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_273121b3f1ab4afe901762ad8e21f37a.png",
+    "url": "https://www.aiagc.com/descript/",
+    "name": "Descript",
+    "dec": "Descript是一个全能的视频和播客编辑工具，让编辑视频变得像操作文档和幻灯片一样简单、强大和有趣。可以让你写、录、转录、编辑、协作和分享你的视频和播客，无论你是想制作教育、娱乐、营销或者其他类型的内容。有免费版和付费版，免费版可以让你体验基本功能，付费版则提供更多的高级功能和存储空间。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e9c2d26863124e3685f88b34f0cf39e7.png",
+    "url": "https://www.aiagc.com/wonder-studio-ai/",
+    "name": "Wonder Studio AI",
+    "dec": "Wonder Studio AI是Wonder Dynamics推出的一个基于人工智能的在线视频特效处理平台，它可以让你只用一台摄像机，就能自动地将任何CG角色动画、灯光和合成到真实场景中，无需任何动作捕捉、3D软件或制作硬件。只需要上传你的CG角色模型和拍摄的视频，然后让AI来完成剩下的工作。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f58326fa86ef4567a3d44ca64b711dde.png",
+    "url": "https://www.aiagc.com/kaiber-ai/",
+    "name": "Kaiber.AI",
+    "dec": "Kaiber.ai是一个创新的在线AI视频生成制作平台，可以让你用人工智能技术生成精美的视频。只需要上传一张图片或一首歌曲，就可以用简单的文字描述或选择预设的风格和模板，来创造出你想象中的视觉故事。无论你是想制作个人的音乐视频，还是想展示你的产品或服务，Kaiber.ai都可以帮你快速实现。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7095693831534389a376c707ad1e3ff6.png",
+    "url": "https://www.aiagc.com/fliki-ai/",
+    "name": "Fliki.AI",
+    "dec": "Fliki.ai是一个在线AI文本转视频配音合成平台，可以让你用人工智能（AI）声音将文本转换成视频。无论你是想要制作教程、产品推广、旅游介绍、情感分享还是其他任何类型的视频，Fliki.ai都可以帮你快速、简单、高效地完成。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5ec5838c4d1e4ae7b5bc56398e284196.png",
+    "url": "https://www.aiagc.com/runwayml/",
+    "name": "Runwayml",
+    "dec": "Runwayml是一款在线AI人工智能工具编辑创作平台。提供快速制作内容所需的一切在线AI工具，可以进行一些常见的图片处理，视频编辑等操作，帮助用户进行实时视频内容编辑创作。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a25240a4fe38487aa46b503c1615e8b6.png",
+    "url": "https://www.aiagc.com/synthesia/",
+    "name": "Synthesia",
+    "dec": "Synthesia是一个专业的在线视频制作平台。提供基于AI人工智能的视频制作工具。可以帮助用于创建带有 AI 人物头像和声音的视频。可以从 65 多种不同的 AI 化身中进行选择，也支持创建你自己的自定义 AI 人物形象。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0e55005ef3264c6d91a7e9f69251b6f7.png",
+    "url": "https://www.aiagc.com/animate-old-photos/",
+    "name": "Animate Old Photos",
+    "dec": "Animate Old Photos Online是hitpaw推出的在线AI工具，可以使用它通过AI人工智能技术将任何旧照片变成动画视频。这是一种为你保留的旧照片制作动画的解决方案，看看老照片如何以某种方式变得栩栩如生。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7d2888f964fd40e68a4ccdb96b514050.png",
+    "url": "https://www.aiagc.com/comixify-roto/",
+    "name": "Comixify Roto",
+    "dec": "Comixify Roto是一个免费的在线视频编辑软件。提供基于AI人工智能的视频抠图，视频慢动作，黑白视频上色，提高视频的分辨率等工具，可以在线对视频进行快速的智能处理操作。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3672128622a94322bb2f22d1cd6616bf.png",
+    "url": "https://www.aiagc.com/bigmp4/",
+    "name": "bigmp4",
+    "dec": "bigmp4是一个免费的在线视频处理工具。提供基于AI人工智能技术的视频画质增强与黑白视频上色工具，可以将一些画质较差或者年代久远的老视频进行画质增强处理。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_fad7cf2eec3f4401bf92f89c28f40bc0.png",
+    "url": "https://www.aiagc.com/xunfei-peiyin/",
+    "name": "讯飞智作",
+    "dec": "讯飞智作是科大讯飞旗下的一站式配音服务平台，提供合成配音、真人配音、虚拟人视频和PPT生成视频等功能，让用户可以快速、便捷、高效地制作出优质的音视频内容。讯飞智作利用科大讯飞领先的语音合成技术，为用户提供多种音色、多类场景、多样风格的配音方案，满足不同用户的不同需求。讯飞智作还拥有资深专家团队，为用户提供专业的真人配音服务，保证配音品质和效率。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4af3e1d86dba42aa99ebba7120741d02.png",
+    "url": "https://www.aiagc.com/synthesys/",
+    "name": "Synthesys",
+    "dec": "Synthesys是一个基于人工智能的语音合成和视频生成平台，可以让你用几分钟的时间，就能制作出专业的音频和视频内容，无需花费大量的金钱和时间去雇佣演员、摄像机或音频设备。Synthesys的技术可以把你的文本转换成逼真的人声和人像，让你的网站、产品、社交媒体等数字媒体呈现出更有吸引力和信任感的效果。",
+    "type": "ai-video"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_2160e71353054c2fa4c360118b48a4bd.png",
+    "url": "https://www.aiagc.com/deepfacelab/",
+    "name": "DeepFaceLab",
+    "dec": "DeepFaceLab是一款用于创建AI换脸视频的开源软件。可以将一个人的脸部替换成另一个人的脸，并且重新生成非常逼真的视频效果。 DeepFaceLab使用了深度学习技术，如卷积神经网络和自编码器，来训练和生成换脸模型。但是使用上需要一定的技能和耐心，才能达到理想的效果。另外也需要一些后期处理软件，如AfterEffects或Davinci Resolve，来优化和编辑视频。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_35e258d0ca5d4b8e956c233b8107abc1.png",
+    "url": "https://www.aiagc.com/faceswap-dev/",
+    "name": "Faceswap.dev",
+    "dec": "Faceswap.dev是一个免费和开源的多平台Deepfake视频换脸软件。通过深度学习人工智能技术，可以将视频中的人脸替换为另一个人的脸，并输出一个新的视频。支持在Windows，macOS和Linux上运行。 Faceswap的使用过程主要分为三个步骤：提取，训练和转换。提取步骤是将视频中的人脸提取出来并保存为图片。训练步骤是使用神经网络来学习两个人脸之间的特征映射，并生成一个模型文件。转换…",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_440125bfcae2408cbc66e7441cd1e55d.png",
+    "url": "https://www.aiagc.com/reface-ai/",
+    "name": "Reface.ai",
+    "dec": "Reface.ai是一个人工智能AI换脸应用，可以让你在视频、GIF和表情包中进行换脸操作，比如将电影主角换成你自己的脸，体验一把当明星的感觉。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8fc0de6a383f4b93a334810b337ed49b.png",
+    "url": "https://www.aiagc.com/faceswapper-ai/",
+    "name": "FaceSwapper.ai",
+    "dec": "FaceSwapper是一款完全免费的基于AI的在线换脸工具，可以自动将照片中的人脸与你选择的其他人脸进行智能替换。由于FaceSwapper使用的是AI人工智能系统，因此无需进行任何手动编辑。该工具可以自动检测照片中的人脸并将其替换为选择的人脸。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8e763b82d02348c38ed575533f70afdd.png",
+    "url": "https://www.aiagc.com/deepswap/",
+    "name": "DeepSwap",
+    "dec": "DeepSwap是一个强大的在线AI人工智能deepfake视频换脸工具。提供基于领先人工智能技术的在线视频换脸工具，可以让你通过简单的操作在一秒钟内制作效果惊人的deepfake视频。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5db41d557ca5487197b9c8c913f0d0d5.png",
+    "url": "https://www.aiagc.com/face-swapper/",
+    "name": "Face Swapper",
+    "dec": "Face Swapper是Icons8出品的一款AI人工智能换脸工具，提供基于人工智能技术的在线AI更换人脸功能，可以用它来替换照片中出现的人的面孔。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7add199963364eeabd2ce9e14dcebd2c.png",
+    "url": "https://www.aiagc.com/facehub/",
+    "name": "FaceHub",
+    "dec": "facehub是一个免费的在线AI换脸工具网站。提供基于人工智能的图片和视频换脸服务。",
+    "type": "ai-face-swap"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_6ffea06a30a04ed59e6b2c3d13519320.png",
+    "url": "https://www.aiagc.com/speechify/",
+    "name": "Speechify",
+    "dec": "Speechify是一个基于AI的文本转语音阅读工具应用，可以让你用不同的可以媲美真人发声的语音朗读网页、PDF、Google文档等内容。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_ca55df628b224d2393ef9fc94cf8706f.png",
+    "url": "https://www.aiagc.com/lovo-ai/",
+    "name": "Lovo.ai",
+    "dec": "lovo.ai是一个AI人工智能文字转语音配音生成工具，可以将文本转换为语音，或者创建自己的语音角色。可以用于视频广告、播客、有声书、游戏等场景。它的语音质量很高，而且可以支持多种语言和口音。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e07ee5b4304d4ff2bbdbead6860af619.png",
+    "url": "https://www.aiagc.com/cohere-ai/",
+    "name": "Cohere.ai",
+    "dec": "Cohere.ai是一家专注企业级的自然语言处理和语言模型平台，让开发者可以轻松地在他们的应用中实现内容生成、摘要、搜索等强大的功能。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3ad2eace3dd941778fc4554d0b512971.png",
+    "url": "https://www.aiagc.com/voicemod/",
+    "name": "Voicemod",
+    "dec": "Voicemod是一个免费的AI语音变声器工具，可以让你在游戏和聊天中改变你的声音，听起来像机器人、恶魔、松鼠、女人、男人或者你想象的任何声音。你可以在Voicemod中选择不同的语音滤镜，或者自己创建一个语音。还可以使用声音面板来添加有趣的音效到你的游戏中。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_e9b5e1430ca646d5b263ec928a181a1f.png",
+    "url": "https://www.aiagc.com/cleanvoice-ai/",
+    "name": "Cleanvoice.ai",
+    "dec": "cleanvoice.ai是一个AI音频降噪编辑处理工具。可以帮助从你的音频录音中去除停顿、口吃和其他噪音。节省你编辑音频播客的时间，让你的音频更清晰和流畅。支持多种语言，并且可以处理不同国家的口音。还可以导出时间轴到你的编辑器，让Cleanvoice AI给你建议怎么编辑。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_aca5515af3374ac38bd4ab9566a6b072.png",
+    "url": "https://www.aiagc.com/adobe-podcast-ai/",
+    "name": "Adobe Podcast AI",
+    "dec": "Adobe Podcast是一款AI音频录制编辑工具，使用人工智能技术来帮助你讲述故事。可以利用Adobe Premiere Pro的语音转文字技术，通过文本来轻松地编辑音频。也可以通过分享一个链接，和其他人进行远程录音。每个人的音频都会在本地以高质量的方式录制，然后Adobe Podcast会自动将它们在云端同步起来。此外，Adobe Podcast还提供了AI增强语音的功能，可以去除背景噪音，…",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_afd7a0fabd8f480ea76c80eb084a21c2.png",
+    "url": "https://www.aiagc.com/play-ht/",
+    "name": "Play.ht",
+    "dec": "play.ht是一个AI语音合成文本转语音TTS工具，可以使用最先进的机器学习技术和最自然的合成语音，将文本转换为声音。只需在网站上输入、粘贴或导入文本，然后选择想要的语音、语言和口音，即可生成高质量的语音文件，并下载为MP3或WAV格式。另外还提供了一些高级功能，如语音风格、发音库、SSML标签等，让用户可以更好地控制和优化语音的效果。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5341e48533a645248a707112341e571a.png",
+    "url": "https://www.aiagc.com/krisp-ai/",
+    "name": "Krisp.ai",
+    "dec": "Krisp是一款基于AI的音频降噪工具，能够消除在线音视频通话中的所有背景噪音。还可以去除其他参与者的噪音和回声，提供更清晰和专业的通话体验。另外还提供基于AI的会议转录笔记摘要功能。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0c1c1af4154b4eb284b61a400a58f6c8.png",
+    "url": "https://www.aiagc.com/otter-ai/",
+    "name": "Otter.ai",
+    "dec": "Otter.ai是一款AI语音识别转文字转录工具。可以为实时演讲者显示字幕，并转录生成演讲的文字记录。帮助用户记住、搜索和分享他们的语音对话。可以让商务人士、记者和学生在会议、采访、讲座等重要场合更加专注、协作和高效。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_f67d3b8f0bf74122952fa2302598702c.png",
+    "url": "https://www.aiagc.com/audo-studio/",
+    "name": "Audo Studio",
+    "dec": "Audo Studio是一个基于AI的音频降噪处理工具，可以自动去除背景噪音，增强你的音频质量。通过使用最新的音频处理和人工智能技术。Audo可以让你在几秒钟内清理你的音频，还可以自动减少房间回声，自动调整你的音量水平。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_037d4dd8e19e43059fdde5619e01bcfc.png",
+    "url": "https://www.aiagc.com/wellsaid-labs/",
+    "name": "WellSaid Labs",
+    "dec": "WellSaid Labs是一个AI语音合成工具平台，让用户可以通过输入文本，快速生成高质量的语音。WellSaid Labs的AI语音不仅声音自然流畅，而且可以根据不同的场景和内容，调整语气、语速和重音，从而达到更好的表达效果。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_8a8aeaaf8f6d42408c1195828133497c.png",
+    "url": "https://www.aiagc.com/volcengine-tts/",
+    "name": "火山引擎TTS",
+    "dec": "火山引擎语音合成TTS是字节跳动旗下云服务火山引擎（VolcEngine）推出的一款云端语音合成服务，提供高质量、高性能、高可定制化的语音合成解决方案。利用了字节跳动在人工智能领域的核心技术和海量数据，结合了最新的深度学习模型和算法，实现了文本到语音的高效转换，生成了接近人类发声的自然语音。 不仅可以满足基础的语音合成需求，还可以根据不同的场景和用户需求，提供个性化的语音定制服务，包括声音风格、语…",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9754f8e199bb4e849145675d8f8b253e.png",
+    "url": "https://www.aiagc.com/bcloud-tts/",
+    "name": "百度智能云TTS",
+    "dec": "百度智能云语音合成是百度AI开放平台提供的一项语音技术服务，包括短文本在线合成、长文本在线合成、离线语音合成和定制音库四个产品。支持多语言多音色：支持中文、英文、中英文混读合成，提供基础音库和精品音库共19种音库供您选择，让您的产品拥有个性化的声音。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0f675d5f770f47e6a710a8434b7200bf.png",
+    "url": "https://www.aiagc.com/qcloud-tts/",
+    "name": "腾讯云TTS",
+    "dec": "腾讯云语音合成是一项将文本转为拟人化语音的技术，可以实现让机器和应用张口说话，打通人机交互的闭环。支持中文、英文、粤语、四川话等多种语言和方言，支持多种男声、女声的音色选择，支持离线音频文件和实时音频流两种合成格式，支持根据业务需求调整音量、语速等参数，支持SSML标记语言，让发音更专业、更符合场景需求。广泛适用于智能客服、有声阅读、新闻播报、人机交互等业务场景。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_9416827f4ecd4d2cba167d75ccb371ae.png",
+    "url": "https://www.aiagc.com/aliyun-tts/",
+    "name": "阿里云TTS",
+    "dec": "阿里云TTS是阿里云推出的语音合成服务，基于深度学习技术，可以将文本转换为自然流畅的语音，支持多种场景和多种语言。是阿里云人工智能平台的一项核心服务，旨在为用户提供高质量、高效率、高可用性的语音合成解决方案。可以帮助用户实现多种应用场景，例如智能客服、智能教育、智能媒体、智能家居，提升用户体验和业务效率。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b50e4f89dce64367a183fb5adbf2811a.png",
+    "url": "https://www.aiagc.com/azure-tts/",
+    "name": "微软Azure TTS",
+    "dec": "Azure TTS是由微软开发的语音合成服务，可以将文本转换为逼真的语音。是 Azure Cognitive Services 的一部分，提供了多种语言和方言的语音合成选项，以及不同的说话风格和情感色彩。可以通过简单的REST API 或 SDK 在云端或本地容器中使用该服务，也可以创建自定义的神经语音模型，以打造独特的品牌声音。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7d888c82b37345bab9abd72eae0fd101.png",
+    "url": "https://www.aiagc.com/resemble-ai/",
+    "name": "Resemble.AI",
+    "dec": "resemble.ai是一个AI人工智能语音合成配音平台，它可以让用户通过简单的操作，创建和管理自己的语音角色，以及生成高质量的语音内容。resemble.ai的目标是让语音合成变得更加自然、灵活和个性化，为各行各业提供创新的语音解决方案。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_60419421bf85476dafbf2daa151466e7.png",
+    "url": "https://www.aiagc.com/murf-ai/",
+    "name": "Murf.AI",
+    "dec": "Murf AI是一个在线AI文字转语音合成配音工具，可以让用户从文字内容生成音频文件。拥有丰富的语音库和额外的功能，如语音克隆和变换。还可以帮助用户创建涉及语音配音的不同类型的内容，如视频、广告和播客。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4b65c27051154ddaa431c933e991c28e.png",
+    "url": "https://www.aiagc.com/uberduck-ai/",
+    "name": "Uberduck.AI",
+    "dec": "uberduck.ai是一个在线AI语音合成平台，可以让用户使用各种名人和虚拟角色的声音来说出任何想说的话。只需在网站上输入文本，选择想要的声音，然后就可以生成语音文件或者直接播放。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_5f801c3eb6d14453979faec351122c0f.png",
+    "url": "https://www.aiagc.com/elevenlabs/",
+    "name": "ElevenLabs",
+    "dec": "elevenlabs.io是一个AI文字转语音配音合成平台，可以通过合成声音的情感和语调来复制自然的人类声音。用户可以在其网站上输入文本，并从一系列默认的声音中生成音频文件。付费用户还可以上传自定义的声音样本，以创建新的声音风格。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_608f8f5d0d0741dca3fe4a8ddb99b553.png",
+    "url": "https://www.aiagc.com/motionsound/",
+    "name": "MotionSound",
+    "dec": "MotionSound是必优科技推出的AI文本转语音配音工具，提供更智能、更专业、更轻量化的AI智能生成语音技术，能适应多场景需求，让你的配音不再有烦恼。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_3071a883891c46c6a2193ca7b88c5247.png",
+    "url": "https://www.aiagc.com/vocalremover/",
+    "name": "VocalRemover",
+    "dec": "VocalRemover.org是一个免费在线工具，通过AI人工智能技术快速从音乐中去除人声，可以轻松地创建卡拉OK版本的歌曲或做其他音乐编辑。只需要上传要编辑的歌曲，然后等待几秒钟，就可以在网页上下载新的音轨。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_757b52305ec3423da57c9e110ad69d3b.png",
+    "url": "https://www.aiagc.com/perspectivar-ai/",
+    "name": "十行笔记",
+    "dec": "十行笔记是一个免费的在线音视频转文章工具。提供基于AI人工智能的音频与视频转文章工具，可以帮助用户快速的将音频与视频一键转换为可编辑的图文笔记文章。是媒体文件转录有效信息的智能AI工具。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_44461fbeadbb4b9bb2c07e41143353f5.png",
+    "url": "https://www.aiagc.com/feishu-minutes/",
+    "name": "飞书妙记",
+    "dec": "飞书妙记是字节跳动旗下飞书出品的一个免费的在线智能工具。提供基于AI人工智能的在线音视频转文字工具，可以帮助用户快速提取音视频中的语音文本，并将其转换为可编辑的文档。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7bfda0f6f3e84ee99cd29e352549c586.png",
+    "url": "https://www.aiagc.com/lalal-ai/",
+    "name": "LALAL.AI",
+    "dec": "LALAL.AI是一个免费的在线音乐人声伴奏分离提取工具。提供基于AI人工智能技术的音频提取工具，可以快速、简单和精确的将音频中的人声与伴奏进行分离提取。",
+    "type": "ai-voice"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d5e5c9ae146d4f18bdf3032781b65451.png",
+    "url": "https://www.aiagc.com/musico/",
+    "name": "Musico",
+    "dec": "Musico是一个基于AI的音乐生成作曲工具。可以根据手势、运动、代码或其他声音来作出反应。Musico的引擎结合了传统和现代的机器学习算法，可以在多种风格中生成无限的无版权音乐。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7d938c4504f0430fb4ab66927f8d0ab6.png",
+    "url": "https://www.aiagc.com/harmonai-dance-diffusion/",
+    "name": "Harmonai Dance Diffusion",
+    "dec": "Harmonai专注于开源AI音乐生成作曲工具，让音乐制作更加容易和有趣。其发布的Dance Diffusion模型可以生成定制的无限音乐库。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4e44850390ea4f56b8d483c4432d5994.png",
+    "url": "https://www.aiagc.com/voicemod-ai-text-to-song/",
+    "name": "Voicemod AI Text To Song",
+    "dec": "Text To Song是Voicemod推出的一个免费的在线文本转歌曲和AI音乐生成器工具。你可以在通过输入任何文本，然后选择不同的歌曲和歌手，让AI把你的文本变成好听的歌曲。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a06652739eae4e46a76843609375535e.png",
+    "url": "https://www.aiagc.com/synthesizer-v/",
+    "name": "Synthesizer V",
+    "dec": "Synthesizer V是一款先进的人声合成软件，由Dreamtonics株式会社开发。可以模拟人类歌唱声音的细微差别。支持英语、中文和日语，并且可以跨语言合成。还有多种编辑功能，让你可以自定义声音的音高、音色、效果和发音，创造出媲美真人歌手的音色。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d94a9a6499f443138afe11d7820ee8aa.png",
+    "url": "https://www.aiagc.com/musenet/",
+    "name": "MuseNet",
+    "dec": "MuseNet是一个由OpenAI开发的AI音乐生成深度神经网络，可以生成四分钟的音乐作品，支持使用十种不同的乐器，可以结合从乡村到莫扎特到披头士的不同音乐风格。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4f46a24ef7854a4096e7e2a9246d6897.png",
+    "url": "https://www.aiagc.com/melobytes/",
+    "name": "Melobytes",
+    "dec": "melobytes是一个AI音乐生成作曲平台，提供了许多基于人工智能的创意音乐工具，可以通过上传图片来生成音乐作曲，或者可以输入一些歌词，然后根据歌词生成一首独特的旋律。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1632d11fd9884f3aa747c5342b14ac45.png",
+    "url": "https://www.aiagc.com/riffusion/",
+    "name": "Riffusion",
+    "dec": "Riffusion是一个AI音乐作曲生成器工具，通过对Stable Diffusion模型进行微调，使用声音的图像而不是音频来生成音乐。可以根据任何文本输入生成光谱图图像，这些光谱图可以转换为音频片段。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_50bf40d82ce84c77a682f7c96d391797.png",
+    "url": "https://www.aiagc.com/ecrett-music/",
+    "name": "Ecrett Music",
+    "dec": "Ecrett Music是一个AI音乐创作软件，可以帮助内容创作者快速、简单、便宜地制作出适合自己的无版权音乐。无论你是做游戏、视频、播客还是其他类型的内容，都可以在Ecrett Music上选择场景、情绪或风格，然后点击一个按钮，就能得到一段循环格式的音乐。还可以根据自己的喜好调整乐器和编曲，然后无限制地下载和使用音乐。Ecrett Music每月都会更新新的音乐主题，让你的内容更加丰富多彩。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_0c1343ba995146d68c77c619ba00d900.png",
+    "url": "https://www.aiagc.com/aimi-fm/",
+    "name": "aimi.fm",
+    "dec": "aimi.fm是一个AI音乐生成平台，可以根据用户的喜好和场景，实时创作出不同风格和节奏的音乐。aimi.fm不仅是一个音乐创作工具，还是一个音乐创作社区，让用户可以与音乐进行互动，分享自己的作品，和其他音乐爱好者交流。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_decf982f77234a45afb98b4e64a17be6.png",
+    "url": "https://www.aiagc.com/amper-music/",
+    "name": "Amper Music",
+    "dec": "Amper Music是一个AI音乐作曲创作工具，能让任何人为自己的内容制作原创音乐。无论你需要为视频、播客或互动内容配乐，Amper Music都能提供一个简单而强大的解决方案。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_4a1d01e781f941adb4704b411b34042c.png",
+    "url": "https://www.aiagc.com/soundful/",
+    "name": "Soundful",
+    "dec": "Soundful是一个AI音乐生成器，可以让你在点击按钮的瞬间，生成适合视频、直播、播客等内容的免版税背景音乐。不仅拥有多种风格和情绪的模板，还可以让你下载高质量的音轨和分轨，以及自定义音乐的参数。还提供了最适合内容创作者的许可证，无论是在社交媒体上赚钱，还是进行商业用途，都能满足你的需求。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_a0c88e901be04fbfa0c88d91473eb66b.png",
+    "url": "https://www.aiagc.com/boomy/",
+    "name": "Boomy",
+    "dec": "Boomy是一个AI生成音乐平台，可以让任何人在几秒钟内创作出原创的歌曲，即使你没有任何音乐制作的经验。可以选择不同的风格、情绪和元素，让AI为你生成独一无二的音乐作品。还可以将你的歌曲提交到各大流媒体平台，比如Spotify、Apple Music等，从而获得收入和听众。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_b3b82e3758474d72b553611fe69f7406.png",
+    "url": "https://www.aiagc.com/aiva-ai/",
+    "name": "AIVA.AI",
+    "dec": "AIVA.AI是一个AI音乐创作平台，可以根据用户的需求和喜好，自动生成不同风格和情感的音乐。目标是成为创意人士的创意助手，无论是独立游戏开发者、音乐新手还是专业作曲家，都可以利用AIVA.AI的技术来为自己的项目创作出吸引人的主题曲。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_7cde7bb1c4e649cdb66b9622f6467be0.png",
+    "url": "https://www.aiagc.com/tianyin/",
+    "name": "网易天音",
+    "dec": "网易天音是网易旗下的AI音乐创作平台，拥有海量的风格库，覆盖了流行、摇滚、电子、民谣、古典等多种类型，用户可以根据自己的喜好选择合适的风格。提供简单易用的操作界面，只需要输入一些关键词或者和弦走向，就可以得到一首完整的歌曲编曲。还可以对编曲进行微调和导出，生成分轨或者MIDI文件，方便后期制作和混音。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_1b4fb752012e4cfa9dcf44d50ad97efb.png",
+    "url": "https://www.aiagc.com/soundraw/",
+    "name": "SOUNDRAW",
+    "dec": "SOUNDRAW是一个在线AI音乐作曲生成器工具。它可以让所有的创作者自由地定制独特的、无版权的音乐。无论你是想要为你的视频、广告、游戏、应用或者其他项目添加背景音乐，SOUNDRAW 都可以帮助你轻松地创建符合你需求的音乐。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_d453997a3ea44940b4dc6a4ad582738c.png",
+    "url": "https://www.aiagc.com/mubert/",
+    "name": "Mubert",
+    "dec": "Mubert是一个在线AI音乐作曲工具。通过使用AI人工智能的能力和音乐制作人的创造力使人类与算法之间的共生关系成为可能。只需选择风格即可快速进行自动编曲生成新的免版税音乐，并完美地适合任何目的。",
+    "type": "ai-music"
+  },
+  {
+    "image": "https://ucc.alicdn.com/pic/developer-ecology/qseql3plxy23a_380ad5524c4441128c10ffcf7f54c70a.png",
+    "url": "https://www.aiagc.com/beatoven-ai/",
+    "name": "Beatoven.ai",
+    "dec": "Beatoven.ai是一个免费的在线AI人工智能音乐作曲工具，可使用先进的AI生成技术和行业标准制作概念创作基于情绪的独特免版税音乐作品。是播客和视频创作者轻松创作基于AI的免费音乐的绝佳工具。",
+    "type": "ai-music"
+  }
+]

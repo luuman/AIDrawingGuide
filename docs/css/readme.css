@@ -1,0 +1,146 @@
+.home-card{
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+[data-color-mode*='light'],
+[data-color-mode*='light'] body {
+--color-fg-muted: #57606a;
+}
+
+[data-color-mode*='dark'],
+[data-color-mode*='dark'] body {
+--color-fg-muted: #8b949e;
+}
+
+.home-links.home-card {
+margin:2.2rem 0;
+display: flex;
+justify-content: center;
+gap: 1.3rem;
+flex-wrap: wrap;
+}
+.home-links.home-card a {
+background: rgb(16 185 129/ var(--bg-opacity));
+height: 2.1rem;
+border-radius: 0.3rem;
+gap: 0.1rem;
+padding: 0rem 0.5rem 0rem 0.4rem;
+}
+
+.home-links.home-card a svg {
+height: 1em;
+width: 1em;
+}
+
+.home-card.home-links a span {
+overflow: hidden;
+text-overflow: ellipsis;
+}
+
+.home-card.home-links a {
+width: 9rem;
+}
+
+.home-card {
+display: grid;
+gap: 2rem;
+grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.home-card br {
+display: none;
+}
+.home-card :is(a.contributing, a.tag) {
+position: relative;
+}
+.home-card a.contributing::after {
+color: var(--color-fg-muted);
+content: attr(data-info);
+display: block;
+position: absolute;
+font-size: 10px;
+left: 12px;
+bottom: -18px;
+overflow: hidden;
+height: 1rem;
+line-height: 1rem;
+white-space: nowrap;
+text-overflow: ellipsis;
+text-align: left;
+width: 100%;
+}
+.home-card a.contributing:hover:after {
+color: var(--color-fg-muted);
+animation: contributing-move 0.1s infinite;
+}
+@keyframes contributing-move {
+0% {
+  transform: translate(0px, 0px);
+}
+50% {
+  transform: translate(0px, -3px);
+}
+100% {
+  transform: translate(0px, 0px);
+}
+}
+
+.home-card a.tag::before {
+content: attr(data-lang);
+display: block;
+position: absolute;
+font-size: 10px;
+right: 6px;
+top: 6px;
+background: rgba(255 255 255 / 0.3);
+border-radius: 3px;
+padding: 1px 3px 2px 3px;
+transition: all 0.3s;
+}
+.home-card a.tag:hover:before {
+background: rgba(255 255 255 / 0.2);
+}
+
+[data-color-mode*='light'] body .home-card a {
+--text-opacity: 0.75;
+color: rgb(15 19 24 / var(--text-opacity));
+}
+[data-color-mode*='light'] body .home-card a:hover {
+--text-opacity: 0.85;
+color: rgb(241 245 249 / var(--text-opacity)) !important;
+}
+.home-card a {
+display: flex;
+align-items: center;
+gap: 0.5rem;
+cursor: pointer;
+border-radius: 0.5rem;
+padding: 0rem 1rem;
+height: 4rem;
+box-shadow: 0 0 #0000, 0 0 #0000, 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+color: var(--color-fg-default);
+--text-opacity: 0.75;
+color: rgb(241 245 249 / var(--text-opacity));
+--bg-opacity: 0.5;
+background-color: rgb(62 69 72 / var(--bg-opacity));
+transition: all 0.3s;
+text-decoration: none;
+}
+.home-card a:hover {
+--bg-opacity: 1;
+--text-opacity: 0.75;
+}
+.home-card a svg {
+min-width: 1.6rem;
+height: 1.8rem;
+}
+.home-card a img {
+  min-width: 1.6rem;
+  height: 1.8rem;
+}
+@media (min-width: 768px) {
+.home-card {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+}
